@@ -11,11 +11,12 @@ scikit-learn>=1.0.0
 tqdm>=4.0.0
 
 # outlier filtered
-python pca_outlier_filter.py \\ 
 
-    --gepid example/Schizophrenia.txt \\
+python pca_outlier_filter.py \
+
+    --gepid example/Schizophrenia.txt \
     
-    --data log2FC.txt \\
+    --data log2FC.txt \
     
     --threshold 2 \\
     
