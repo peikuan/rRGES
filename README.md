@@ -1,4 +1,5 @@
-# nRRGES Calculator
+# rRGES Calculator
+The rRGES Calculator is a tool for analyzing small-molecule compounds up- and down-regulated gene sets to calculate representative reverse gene expression signature (rRGES) scores. This tool is particularly useful in drug repurposing and discovery.
 
 # requirements
 pandas>=1.3.0
