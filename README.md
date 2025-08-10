@@ -26,7 +26,7 @@ python pca_outlier_filter.py \\
 
 # rRGES
 python rRGES_calculator.py \\
-    --gepid example/Schizophrenia_outlier_filter.txt \\
+\n    --gepid example/Schizophrenia_outlier_filter.txt \\
     --rges  data/RGES.txt \\
     --output Schizophrenia_rRGES.txt
     
