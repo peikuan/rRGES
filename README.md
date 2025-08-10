@@ -11,7 +11,7 @@ scikit-learn>=1.0.0
 tqdm>=4.0.0
 
 # outlier filtered
-
+英语
 python pca_outlier_filter.py \
 
     --gepid example/Schizophrenia.txt \
