@@ -1,5 +1,11 @@
 # nRRGES Calculator
 
+# requirements
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+tqdm>=4.0.0
+
 # outlier filtered
 python pca_outlier_filter.py \
     --gepid example/Schizophrenia.txt \
