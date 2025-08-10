@@ -14,9 +14,13 @@ tqdm>=4.0.0
 python pca_outlier_filter.py \\ 
 
     --gepid example/Schizophrenia.txt \\
+    
     --data log2FC.txt \\
+    
     --threshold 2 \\
+    
     --output example/Schizophrenia_outlier_filter.txt
+    
   
 # Argument
 | Argument      | Description                                      | Default |
