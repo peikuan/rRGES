@@ -11,16 +11,11 @@ scikit-learn>=1.0.0
 tqdm>=4.0.0
 
 # outlier filtered
-英语
 
 python pca_outlier_filter.py \
-
     --gepid example/Schizophrenia.txt \
-    
     --data log2FC.txt \
-    
-    --threshold 2 \\
-    
+    --threshold 2 \
     --output example/Schizophrenia_outlier_filter.txt
     
   
@@ -35,9 +30,9 @@ python pca_outlier_filter.py \
 
 
 # rRGES
-python rRGES_calculator.py \\
-\n    --gepid example/Schizophrenia_outlier_filter.txt \\
-    --rges  data/RGES.txt \\
+python rRGES_calculator.py \
+    --gepid example/Schizophrenia_outlier_filter.txt \
+    --rges  data/RGES.txt \
     --output Schizophrenia_rRGES.txt
     
 # Argument
