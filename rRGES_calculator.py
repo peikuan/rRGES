@@ -4,13 +4,13 @@ from collections import defaultdict
 import argparse
 import os
 
-def main(gepid_file, RGES_file, output_file):
+def main(gepid,output):
     # GEPID file
-    with open(gepid_file, 'r') as f:
+    with open(gepid, 'r') as f:
         gepids = [line.strip() for line in f.readlines() if line.strip()]
     
     # RGES score file
-    matrix_df = pd.read_csv(RGES_file, sep='\t')
+    matrix_df = pd.read_csv('data/RGES.txt', sep='\t')
     
     id_columns = [col for col in matrix_df.columns if col in gepids]
     if not id_columns:
@@ -76,28 +76,29 @@ def main(gepid_file, RGES_file, output_file):
     results_df = results_df.sort_values(by='rRGES', ascending=True)
     results_df['Rank'] = range(1, len(results_df) + 1)
     
+    #moa
+    moa_df = pd.read_csv('data/moa.txt', sep='\t')
+    drug_to_moa = moa_df.set_index('drug')['moa'].to_dict()
+    results_df['moa'] = results_df['Drug'].str.lower().map(lambda x: drug_to_moa.get(x, '-'))
+    results_df['Drug'] = results_df['Drug']
+
+
     #output
-    output_df = results_df[['Rank', 'Pert_id', 'Drug', 'rRGES']]
-    output_df.to_csv(output_file, sep='\t', index=False)
-    print(f"Results saved to {output_file}")
+    output_df = results_df[['Rank', 'Pert_id', 'Drug', 'rRGES', 'moa']]
+    output_df.to_csv(output, sep='\t', index=False)
+    print(f"Results saved to {output}")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Calculate rRGES scores from RGES data')
-    parser.add_argument('--gepid', required=True, help='Path to GEPID.txt file')
-    parser.add_argument('--rges', required=True, help='Path to RGES.txt file')
-    parser.add_argument('--output', default='output.txt', help='Output file path')
+    parser.add_argument('--gepid', required=True, help='File containing GEPIDs to process (one per line)')
+    parser.add_argument('--output', default='output.txt', help='Output file for small-molecule compounds')
     
     args = parser.parse_args()
     
-    #check
-    if not os.path.exists(args.gepid):
-        print(f"Error: GEPID file not found at {args.gepid}")
-        exit(1)
-    if not os.path.exists(args.rges):
-        print(f"Error: RGES file not found at {args.rges}")
-        exit(1)
-    
-    main(args.gepid, args.rges, args.output)
+    main(args.gepid,args.output)
+
+
+
 
 
 
