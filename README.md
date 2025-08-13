@@ -12,10 +12,9 @@ tqdm>=4.0.0
 
 # outlier filtered
 
-python pca_outlier_filter.py \
+python outlier_detection.py \
     --gepid example/Schizophrenia.txt \
     --data log2FC.txt \
-    --threshold 2 \
     --output example/Schizophrenia_outlier_filter.txt
     
   
@@ -23,8 +22,7 @@ python pca_outlier_filter.py \
 | Argument      | Description                                      | Default |
 |---------------|--------------------------------------------------|---------|
 | '--gepid'     | File containing GEPIDs to process (one per line) | Required|
-| '--data'      | Tab-separated file with PCA data                 | Required|
-| '--threshold' | Z-score threshold for outlier detection          | 2.0     |
+| '--data'      | Tab-separated file with log2FC data              | Required|
 | '--output'    | Output file for filtered GEPIDs                  | Required|
 
 
@@ -40,7 +38,7 @@ python rRGES_calculator.py \
 |---------------|--------------------------------------------------|---------|
 | '--gepid'     | File containing GEPIDs to process (one per line) | Required|
 | '--rges'      | Tab-separated file with RGES data                | Required|
-| '--output'    | Output file for small-molecule compounds         | 2.0     |
+| '--output'    | Output file for small-molecule compounds         | Required|
 
 
 
