@@ -1,0 +1,4320 @@
+pert_iname	moa
+esmolol	Adrenergic receptor antagonist
+darunavir	HIV inhibitor
+evoxine	Furoquinoline alkaloid
+sonidegib	Smoothened receptor antagonist
+PQ-401	IGF-1 inhibitor
+anacetrapib	Cholesterol inhibitor
+cisapride	Serotonin receptor agonist
+BRD-K01815685	Aryl hydrocarbon receptor agonist|Indoleamine 2,3-dioxygenase inhibitor
+tetracaine	Membrane integrity inhibitor
+HU-211	Glutamate receptor antagonist
+thiorphan	Membrane integrity inhibitor
+UNC-669	L3MBTL antagonist
+D-4476	TGF-beta receptor inhibitor
+famciclovir	DNA inhibitor
+phenylephrine	Adrenergic receptor agonist
+triptorelin	Gonadotropin receptor agonist
+oxymetazoline	Adrenergic receptor agonist
+MGCD-265	VEGFR inhibitor
+AGI-6780	Isocitrate dehydrogenase inhibitor
+SB-239063	P38 MAPK inhibitor
+GSK-1838705A	IGF-1 inhibitor
+talinolol	Adrenergic receptor antagonist
+rutin	Antioxidant|Capillary stabilizing agent|Nitric oxide scavenger
+CAY-10618	NAMPT inhibitor
+darifenacin	Acetylcholine receptor antagonist
+BRD-A63236097	Tumor necrosis factor production inhibitor
+nicotinamide	Protein synthesis stimulant
+BRL-37344	Adrenergic receptor agonist
+salbutamol	Adrenergic receptor agonist
+pyrazinamide	Fatty acid synthase inhibitor
+MLN-2480	RAF inhibitor
+SB-683698	Integrin inhibitor
+ibrutinib	BTK inhibitor
+baclofen	GABA receptor agonist
+itopride	Dopamine receptor antagonist
+doxylamine	Histamine receptor antagonist
+IOX2	HIF Inhibitor
+BI-2536	PLK inhibitor
+emtricitabine	Nucleoside reverse transcriptase inhibitor
+metformin	Insulin sensitizer
+docosatrienoic-acid	LTB4 inhibitor
+dideoxyadenosine	Nucleoside reverse transcriptase inhibitor
+noscapine	Bradykinin receptor antagonist|Tubulin polymerization inhibitor
+ICI-162846	Histamine receptor antagonist
+PRIMA1	p53 inhibitor
+alrestatin	Aldose reductase inhibitor
+biochanin-a	Estrogen receptor agonist
+dofequidar	MRP inhibitor|P-glycoprotein inhibitor
+doxazosin	Adrenergic receptor antagonist
+TG-101209	JAK inhibitor
+theobromine	Phosphodiesterase inhibitor
+phenylacetylglutamine	DNA inhibitor|Protein synthesis inhibitor
+SB-939	HDAC inhibitor
+minaprine	Serotonin receptor antagonist
+marmesin	Angiogenesis inhibitor
+tazarotene	Retinoid receptor agonist
+tipifarnib	Farnesyltransferase inhibitor
+tenidap	Cyclooxygenase inhibitor
+idebenone	Calcium channel blocker
+linsitinib	IGF-1 inhibitor
+dicyclohexylurea	Epoxide hydolase inhibitor
+sulfathiazole	Dihydropteroate synthase inhibitor
+PLX-4720	RAF inhibitor
+MLN-4924	Nedd activating enzyme inhibitor
+anandamide	Cannabinoid receptor agonist
+endo-IWR-1	PARP inhibitor
+clonidine	Adrenergic receptor agonist
+topotecan	Topoisomerase inhibitor
+azacitidine	DNA methyltransferase inhibitor
+EPZ-004777	DOT1L inhibitor
+celecoxib	Cyclooxygenase inhibitor
+sorafenib	RAF inhibitor|FLT3 inhibitor|KIT inhibitor|PDGFR inhibitor|RET inhibitor|VEGFR inhibitor
+tozasertib	Aurora kinase inhibitor
+GSK-429286A	Rho associated kinase inhibitor
+NS-1619	Calcium channel activator
+cimaterol	Adrenergic receptor agonist
+chrysin	Breast cancer resistance protein inhibitor
+repaglinide	Insulin secretagogue
+moxonidine	Imidazoline receptor agonist
+ambelline	Plant alkaloid
+BD-1008	Sigma receptor antagonist
+VU-0400071-3	Glutamate receptor antagonist
+aminoguanidine	Nitric oxide synthase inhibitor
+reparixin	CC chemokine receptor antagonist
+adarotene	Retinoid receptor agonist
+BRD-K03070961	Cytochrome P450 inhibitor
+retigabine	Potassium channel activator
+ibuprofen	Cyclooxygenase inhibitor
+PF-04447943	Phosphodiesterase inhibitor
+yohimbine	Adrenergic receptor antagonist
+glipizide	Sulfonylurea
+pidotimod	Interferon inducer|Interleukin receptor agonist
+riluzole	Glutamate inhibitor
+lisinopril	ACE inhibitor
+safinamide	Dopamine receptor antagonist|Glutamate inhibitor|Monoamine oxidase inhibitor
+ASA-404	Angiogenesis inhibitor
+BRD-K05396879	PPAR receptor agonist
+AQ-RA741	Acetylcholine receptor antagonist
+butorphanol-(+)-tartrate	Opioid receptor agonist|Opioid receptor antagonist
+exemestane	Aromatase inhibitor
+elesclomol	Oxidizing agent
+BRD-K22969690	Bacterial 50S ribosomal subunit inhibitor
+labetalol	Adrenergic receptor antagonist
+BRD-A69470004	XIAP inhibitor
+tadalafil	Phosphodiesterase inhibitor
+R-428	AXL kinase inhibitor
+benazepril	ACE inhibitor
+KIN001-266	MAP kinase inhibitor
+CS-1657	PARP inhibitor
+calmidazolium	Calcium channel blocker
+mitoxantrone	Topoisomerase inhibitor
+dapagliflozin	Sodium/glucose cotransporter inhibitor
+delcorine	Antiarrhythmic|Ganglionic blocker
+BRD-K90864987	HSP inducer
+tetrabenazine	Vesicular monoamine transporter inhibitor
+saquinavir	HIV inhibitor
+CL-82198	Metalloproteinase inhibitor
+senicapoc	Potassium channel blocker
+chlorphensin	Muscle relaxant
+ABT-202	Acetylcholine receptor agonist
+myricitrin	Protein kinase inhibitor
+teriflunomide	Dihydroorotate dehydrogenase inhibitor
+PTB1	AMPK activator
+API-001	Sigma receptor antagonist
+netupitant	Tachykinin antagonist
+tagatose	Phospholipase inhibitor
+BCI-hydrochloride	Protein phosphatase inhibitor
+mefloquine	Adenosine receptor antagonist|Hemoglobin antagonist
+pargyline	Monoamine oxidase inhibitor
+PIT	Purinergic receptor antagonist
+delivert	Angiotensin receptor agonist
+BRD-K68552125	PKC activator
+artesunate	DNA synthesis inhibitor
+doramapimod	P38 MAPK inhibitor
+CPI-1189	TNF inhibitor
+rimonabant	Cannabinoid receptor antagonist
+SAR-245409	PI3K inhibitor
+reserpine	Vesicular monoamine transporter inhibitor
+pirfenidone	TGF-beta receptor inhibitor
+ibutamoren	Growth hormone secretagogue receptor agonist
+ioxaglic-acid	Radiopaque medium
+alaproclate	Serotonin receptor antagonist
+arofylline	Phosphodiesterase inhibitor
+NSC-625987	CDK inhibitor
+BRD-K09991945	PKC inhibitor
+maprotiline	Norepinephrine inhibitor|Tricyclic antidepressant
+SR-2640	Leukotriene receptor antagonist
+mianserin	Serotonin receptor antagonist
+fumonisin-b1	Sphingosine kinase inhibitor
+VX-222	HCV inhibitor
+cyclophosphamide	DNA alkylating agent
+etofylline-clofibrate	Platelet aggregation inhibitor|Lipase clearing factor inhibitor
+XBD-173	Benzodiazepine receptor agonist
+oglemilast	Phosphodiesterase inhibitor
+alverine	Muscle relaxant
+MBX-2982	Glucose dependent insulinotropic receptor agonist
+isradipine	Calcium channel blocker
+metolazone	Carbonic anhydrase inhibitor
+pyrimethamine	Dihydrofolate reductase inhibitor
+phensuximide	Succinimide antiepileptic
+CB-10-277	DNA inhibitor|DNA synthesis inhibitor
+D-serine	Glutamate receptor agonist
+NSC-95397	CDC inhibitor
+fluspirilene	Dopamine receptor antagonist
+sirolimus	MTOR inhibitor
+ribavirin	Antiviral
+dazmegrel	Thromboxane synthase inhibitor
+CI-976	ACAT inhibitor
+vidarabine	Antiviral
+pirenzepine	Acetylcholine receptor antagonist
+cefotetan	Bacterial cell wall synthesis inhibitor
+SKF-83566	Dopamine receptor antagonist
+BVD-523	MAP kinase inhibitor
+cimetidine	Histamine receptor antagonist
+UNC-0321	Histone lysine methyltransferase inhibitor
+BRD-K87226815	Bacterial cell wall synthesis inhibitor
+tanshinone-iia	Anti-inflammatory|Interleukin inhibitor
+docetaxel	Tubulin inhibitor
+BML-257	AKT inhibitor|HCV inhibitor
+BRD-K65592642	Gamma secretase inhibitor
+fostamatinib	Syk inhibitor
+delanzomib	Proteasome inhibitor
+PT-630	Dipeptidyl peptidase inhibitor
+tofisopam	Phosphodiesterase inhibitor|Cytochrome P450 inhibitor
+belinostat	HDAC inhibitor
+tropisetron	Serotonin receptor antagonist
+quinidine	Sodium channel blocker
+famotidine	Histamine receptor antagonist
+BAY-11-7082	NFKB inhibitor
+BRD-K58033748	Acetylcholine receptor antagonist
+teroxirone	DNA inhibitor
+aspirin	Cyclooxygenase inhibitor
+nefiracetam	Acetylcholine receptor agonist|GABA receptor agonist
+alisertib	Aurora kinase inhibitor
+pyrrolidine-dithiocarbamate	NFKB inhibitor
+phenelzine	Monoamine oxidase inhibitor
+mocetinostat	HDAC inhibitor
+BRD-K09668667	Carcinogen
+RS-23597-190	Serotonin receptor antagonist
+danegaptide	Gap junction modulator
+triclabendazole	Tubulin inhibitor
+albendazole-oxide	Anthelmintic
+CL-218872	GABA receptor agonist
+voriconazole	Cytochrome P450 inhibitor
+trehalose	Pharmacological chaperone
+diphenylpyraline	Dopamine receptor antagonist
+loratadine	Histamine receptor antagonist
+trazodone	Adrenergic receptor antagonist|Serotonin receptor antagonist|Serotonin reuptake inhibitor
+AZD-7687	Diacylglycerol O acyltransferase inhibitor
+nutlin-3	MDM inhibitor
+BRD-A39415247	Progesterone receptor agonist
+dabrafenib	RAF inhibitor
+phentolamine	Adrenergic receptor antagonist
+PHA-793887	CDK inhibitor
+aclidinium	Acetylcholine receptor antagonist
+nitrofurantoin	DNA inhibitor
+BRD-K72541103	JAK inhibitor
+taxifolin	Opioid receptor antagonist
+diltiazem	Calcium channel blocker
+REV-5901	Leukotriene receptor antagonist|Lipoxygenase inhibitor
+terguride	Serotonin receptor antagonist
+amlodipine	Calcium channel blocker
+nafamostat	Serine protease inhibitor
+adenosine	Adenosine receptor agonist
+BRD-K92980438	Hexokinase inhibitor
+SSR-69071	Leukocyte elastase inhibitor
+SANT-2	Smoothened receptor antagonist
+BMS-182874	Endothelin receptor antagonist
+AZD-2461	PARP inhibitor
+BRD-K33583600	Guanylate cyclase activator
+lapatinib	EGFR inhibitor|ERBB2 inhibitor
+PF-04217903	MET inhibitor
+lysergol	Ergoline alkaloid
+gabazine	GABA receptor antagonist
+afatinib	EGFR inhibitor
+AGK-2	SIRT inhibitor
+camicinal	Motilin receptor agonist
+lovastatin	HMGCR inhibitor
+MK-212	Serotonin receptor agonist
+NU-6027	CDK inhibitor
+tretinoin	Retinoid receptor agonist
+doxorubicin	Topoisomerase inhibitor
+safinamide	Monoamine oxidase inhibitor
+calcitriol	Vitamin D receptor agonist
+gemfibrozil	Lipoprotein lipase activator
+AZD-3514	Drugs Acting on Androgen Receptor
+dihydrexidine	Dopamine receptor agonist
+atovaquone	Mitochondrial inhibitor
+gedunin	HSP inhibitor
+linifanib	PDGFR inhibitor|VEGFR inhibitor
+hyoscyamine	Acetylcholine receptor antagonist
+BYK-204165	PARP inhibitor
+prednisone	Glucocorticoid receptor agonist
+quinapril	ACE inhibitor
+MRS-1754	Adenosine receptor antagonist
+levosimendan	Calcium channel blocker
+cediranib	VEGFR inhibitor|KIT inhibitor
+mestranol	Estrogen receptor agonist
+vorinostat	HDAC inhibitor
+orteronel	Androgen biosynthesis inhibitor
+ponalrestat	Aldose reductase inhibitor
+bosutinib	Src inhibitor|Abl inhibitor|Bcr-Abl inhibitor
+BRD-A92800748	TIE inhibitor
+bucladesine	Adenosine receptor agonist|CAMP stimulant
+BRD-A68039575	Aromatase inhibitor
+dalfampridine	Potassium channel antagonist
+motesanib	KIT inhibitor|PDGFR inhibitor|VEGFR inhibitor
+NBQX	Glutamate receptor antagonist
+bromocriptine	Dopamine receptor agonist
+FG-7142	GABA receptor agonist
+gallopamil	Calcium channel blocker
+pentobarbital	GABA receptor modulator
+SDZ-NKT-343	Tachykinin antagonist
+butalbital	GABA receptor antagonist
+tolimidone	Src activator
+cevimeline	Acetylcholine receptor agonist
+LY-2811376	Beta secretase inhibitor
+birinapant	XIAP inhibitor
+carbinoxamine	Histamine receptor antagonist|Calcium channel blocker
+indinavir	HIV inhibitor
+ORG-9768	Adrenergic receptor antagonist
+furosemide	Diuretic
+norgestimate	Progesterone receptor agonist
+closantel	Chitin inhibitor|NFKB inhibitor
+VX-745	P38 MAPK inhibitor
+clopamide	Sodium/chloride cotransporter inhibitor
+BRD-K14965640	Cyclooxygenase inhibitor
+tolmetin	Cyclooxygenase inhibitor
+ingenol	PKC activator
+loreclezole	GABA receptor agonist
+NVP-DPP728	Dipeptidyl peptidase inhibitor
+WH-4023	Src inhibitor
+actarit	Interleukin inhibitor
+SB-203580	P38 MAPK inhibitor
+BRD-K84924563	Glutamate receptor antagonist|Glutaminase inhibitor
+tripelennamine	Histamine receptor antagonist
+methylprednisolone	Glucocorticoid receptor agonist
+mecamylamine	Acetylcholine receptor antagonist
+mepyramine	Histamine receptor antagonist
+oxypurinol	Xanthine oxidase inhibitor
+armodafinil	Adrenergic receptor agonist
+acetazolamide	Carbonic anhydrase inhibitor
+rocuronium	Acetylcholine receptor antagonist
+kavain	Calcium channel blocker|Sodium channel inhibitor
+benzylpenicillin	Penicillin binding protein inhibitor
+GR-79236	Adenosine receptor agonist
+CCCP	Mitochondrial oxidative phosphorylation uncoupler
+FCCP	Mitochondrial oxidative phosphorylation uncoupler
+daminozide	KDM2A inhibitor
+AZD-1480	JAK inhibitor
+noretynodrel	Progestogen hormone
+sasapyrine	NFKB inhibitor
+cortisone	Androgen receptor antagonist
+granisetron	Serotonin receptor antagonist
+vincamine	Adrenergic receptor antagonist
+melatonin	Melatonin receptor agonist|Nitric oxide synthase inhibitor
+fleroxacin	Bacterial DNA Gyrase inhibitor
+nimetazepam	GABA receptor agonist
+bupivacaine	Sodium channel inhibitor
+BRD-K07303502	Cytosolic phospholipase inhibitor
+cariprazine	Dopamine receptor antagonist
+raloxifene	Estrogen receptor antagonist|Selective estrogen receptor modulator (SERM)
+dobutamine	Adrenergic receptor agonist
+PNU-96415E	Dopamine receptor antagonist
+piribedil	Dopamine receptor agonist
+SR-33805	Calcium channel blocker
+diclofensine	Dopamine receptor antagonist
+pirarubicin	Topoisomerase inhibitor
+tafamidis-meglumine	Transthyretin stabilizer
+marbofloxacin	Bacterial DNA inhibitor
+SPP-301	Endothelin receptor antagonist
+doxepin	Histamine receptor antagonist
+clocortolone-pivalate	Steroid
+ganciclovir	DNA inhibitor
+TFMPP	Serotonin receptor agonist|Serotonin receptor antagonist
+BRD-A83255679	Estrogen receptor antagonist
+atomoxetine	Norepinephrine inhibitor
+clinafloxacin	Bacterial DNA Gyrase inhibitor
+IRL-2500	Endothelin receptor antagonist
+cilastatin	Dehydropeptidase inhibitor
+phentermine	Dopamine receptor antagonist|Serotonin reuptake inhibitor
+proguanil	Dihydrofolate reductase inhibitor
+VU-0240551	Solute carrier family member inhibitor
+barasertib	Aurora kinase inhibitor
+KW-2478	HSP inhibitor
+nafcillin	Bacterial cell wall synthesis inhibitor
+GSK-J2	Histone demethylase inhibitor
+tubaic-acid	Mitochondrial inhibitor|NADH-ubiquinone oxidoreductase (Complex I) inhibitor
+kawain	Calcium channel blocker|MTOR inhibitor|Sodium channel inhibitor
+zalcitabine	Nucleoside reverse transcriptase inhibitor
+vicriviroc	CCK receptor antagonist
+BIX-02189	MEK inhibitor
+S-18986	Glutamate receptor antagonist
+chlorcyclizine	Histamine receptor antagonist
+ICI-204448	Opioid receptor agonist
+C-646	Histone acetyltransferase inhibitor
+saxagliptin	Dipeptidyl peptidase inhibitor
+proadifen	Nitric oxide synthase inhibitor
+zaprinast	Phosphodiesterase inhibitor
+linezolid	Bacterial 50S ribosomal subunit inhibitor
+CAY-10577	Casein kinase inhibitor
+BRD-K81647657	PI3K inhibitor
+rucaparib	PARP inhibitor
+nifedipine	Calcium channel blocker
+EMF-BCA1-64	Caspase inhibitor
+bexarotene	Retinoid receptor agonist
+dephostatin	Tyrosine phosphatase inhibitor
+pravastatin	HMGCR inhibitor
+BRD-A53131506	Inactive testosterone analog
+APO-866	NAMPT inhibitor
+BMS-707035	HIV inhibitor
+taladegib	Smoothened receptor antagonist
+talipexole	Adrenergic receptor agonist|Dopamine receptor agonist
+BRD-K68202742	HDAC inhibitor|CDK expression enhancer|ID1 expression inhibitor
+amsacrine	Topoisomerase inhibitor
+TGX-221	PI3K inhibitor
+fosinopril	ACE inhibitor
+ritodrine	Adrenergic receptor agonist
+SANT-1	Smoothened receptor antagonist
+melperone	Dopamine receptor antagonist|Serotonin receptor antagonist
+KPT-330	Exportin antagonist
+LY-288513	CCK receptor antagonist
+methocarbamol	Muscle relaxant
+canertinib	EGFR inhibitor
+PRT-062607	Syk inhibitor
+BRD-K23875128	Rho associated kinase inhibitor
+clonazepam	GABA receptor agonist
+isotretinoin	Retinoid receptor agonist
+acipimox	Cholesterol inhibitor
+LY-16350	Dopamine receptor agonist
+ranitidine	Histamine receptor antagonist
+trequinsin	Phosphodiesterase inhibitor
+probucol	Atherogenesis inhibitor
+MLN-8054	Aurora kinase inhibitor|Protein kinase inhibitor|Tubulin inhibitor
+CHIR-99021	GSK inhibitor
+potassium-canrenoate	Mineralocorticoid receptor antagonist
+PF-03084014	Gamma secretase inhibitor
+pindolol	Adrenergic receptor antagonist
+pifithrin-mu	p53 inhibitor
+BRD-K16762525	Bacterial 50S ribosomal subunit inhibitor
+clemastine	Histamine receptor antagonist
+hippeastrine	Plant alkaloid
+clomethiazole	GABA receptor antagonist|GABA receptor modulator
+brazilin	Nitric oxide production inhibitor
+metenkephalin	Immunostimulant
+BRD-K76022557	Dopamine receptor agonist
+prazosin	Adrenergic receptor antagonist
+4-PPBP	Sigma receptor agonist
+fadrozole	Aromatase inhibitor
+prostaglandin-a1	Prostanoid receptor antagonist|NFKB inhibitor
+exherin	Cadherin antagonist
+febuxostat	Xanthine oxidase inhibitor
+guaifenesin	Expectorant
+rofecoxib	Cyclooxygenase inhibitor
+cyclopamine	Smoothened receptor antagonist
+midodrine	Adrenergic receptor agonist
+isamoltane	Adrenergic receptor antagonist
+cholic-acid	Bile acid
+flurofamide	Urease inhibitor
+AR-C133057XX	Nitric oxide synthase inhibitor
+SJ-172550	MDM inhibitor
+BRD-K20986251	FXR antagonist|Vitamin D receptor agonist
+SYK-inhibitor	Syk inhibitor
+SB-525334	TGF-beta receptor inhibitor
+cytisine	Acetylcholine receptor agonist
+medrysone	Glucocorticoid receptor agonist
+HMN-214	PLK inhibitor
+SCH-28080	ATPase inhibitor
+benfluorex	Gluconeogenesis inhibitor
+oxybenzone	Lipase inhibitor
+enoxacin	Bacterial DNA Gyrase inhibitor
+josamycin	Bacterial 50S ribosomal subunit inhibitor
+tegobuvir	HCV inhibitor|Protease inhibitor
+bethanechol	Acetylcholine receptor agonist
+cyproheptadine	Histamine receptor antagonist
+danazol	Estrogen receptor antagonist|Progesterone receptor agonist
+BRD-K33211335	Glutamate receptor antagonist|Sigma receptor agonist
+serdemetan	MDM inhibitor
+BRD-K43966364	Bacterial cell wall synthesis inhibitor
+timolol	Adrenergic receptor antagonist
+cerulenin	Fatty acid synthase inhibitor
+cefepime	Bacterial cell wall synthesis inhibitor
+ibudilast	Phosphodiesterase inhibitor|Leukotriene receptor antagonist
+acebutolol	Adrenergic receptor antagonist
+KIN001-242	Protein kinase inhibitor
+ambrisentan	Endothelin receptor antagonist
+moxaverine	Phosphodiesterase inhibitor
+nefopam	Cyclooxygenase inhibitor
+BRD-A01317026	Dihydroneopterin aldolase inhibitor
+acexamic-acid	Gastrin inhibitor|5-alpha reductase inhibitor|Reducing agent
+MK-0752	Gamma secretase inhibitor
+blonanserin	Dopamine receptor antagonist|Serotonin receptor antagonist
+fusidic-acid	Bacterial 30S ribosomal subunit inhibitor
+BRD-K29133151	Thromboxane receptor antagonist
+ML-9	Muscle relaxant
+lorglumide	CCK receptor antagonist
+pemirolast	Mediator release inhibitor
+halcinonide	Glucocorticoid receptor agonist
+topiroxostat	Xanthine oxidase inhibitor
+tanespimycin	HSP inhibitor
+eflornithine	Ornithine decarboxylase inhibitor
+phenazopyridine	Anesthetic - local
+acarbose	Glucosidase inhibitor
+SB-590885	RAF inhibitor
+balapiravir	RNA polymerase inhibitor
+acetaldehyde	Metabolite of ethanol with a role in ethanol addiction
+avagacestat	Gamma secretase inhibitor
+etodolac	Cyclooxygenase inhibitor
+D-609	Phospholipase inhibitor
+BRD-K28452084	Opioid receptor agonist
+GW-842166	Cannabinoid receptor agonist
+fiacitabine	DNA inhibitor
+L-701252	Glutamate receptor antagonist
+UCL-2077	Slow afterhyperpolarization channel blocker
+TTNPB	Retinoid receptor agonist
+MK-0893	Glucagon receptor antagonist
+GTP-14564	FLT3 inhibitor|Tyrosine kinase inhibitor
+BRD-A48015106	Serotonin receptor agonist
+SB-216641	Serotonin receptor antagonist
+decitabine	DNA inhibitor
+EI1	Histone lysine methyltransferase inhibitor
+nebivolol	Adrenergic receptor antagonist
+entacapone	Catechol O methyltransferase inhibitor
+spiperone	Dopamine receptor antagonist
+venlafaxine	Serotonin receptor antagonist|Adrenergic receptor antagonist|Norepinephrine reuptake inhibitor
+mifobate	PPAR receptor antagonist
+BADGE	PPAR receptor antagonist
+nifurtimox	DNA inhibitor
+SB-218795	Tachykinin antagonist
+pazopanib	VEGFR inhibitor|KIT inhibitor|PDGFR inhibitor
+sulfasalazine	Antirheumatic drug|NFKB inhibitor
+DAPT-GSI-IX	Gamma secretase inhibitor
+AGI-5198	Isocitrate dehydrogenase inhibitor
+NSC-4644	ACAT inhibitor|Sterol regulatory element binding protein (SREBP) inhibitor
+tirofiban	Platelet aggregation inhibitor|Structural glycoprotein antagonist
+isoxsuprine	Adrenergic receptor agonist
+SB-756050	G protein-coupled receptor agonist
+doxifluridine	Thymidylate synthase inhibitor
+MK-8245	Stearoyl-CoA desaturase inhibitor
+crizotinib	ALK inhibitor
+BRD-K01192156	Protein tyrosine kinase inhibitor
+cilomilast	Phosphodiesterase inhibitor
+felodipine	Calcium channel blocker
+pergolide	Dopamine receptor agonist
+BMS-777607	AXL kinase inhibitor|FLT3 inhibitor|HGF receptor inhibitor|Macrophage inhibitor|MET inhibitor|Tyrosine kinase inhibitor
+kaempferol	Bone resorption inhibitor|Estrogen receptor agonist
+BAY-K8644	Calcium channel activator
+BRD-K08438429	Somatostatin receptor agonist
+merimepodib	Inosine monophosphate dehydrogenase inhibitor
+procainamide	Sodium channel inhibitor
+fidaxomicin	RNA polymerase inhibitor
+HA-14-1	BCL inhibitor
+clofibrate	PPAR receptor agonist
+BRD-K61217870	Glutamate receptor antagonist
+doxycycline	Bacterial 30S ribosomal subunit inhibitor
+A-205804	ICAM1 inhibitor
+umeclidinium	Acetylcholine receptor antagonist
+cytosporone-b	NUR77 receptor agonist
+withaferin-a	IKK inhibitor
+caffeine	Adenosine receptor antagonist|Phosphodiesterase inhibitor
+dacomitinib	EGFR inhibitor
+miltefosine	Membrane integrity inhibitor
+fenticonazole	Bacterial cell wall synthesis inhibitor
+necrostatin-1	RIPK inhibitor
+BRD-K77245796	GABA receptor agonist
+levofloxacin	Bacterial DNA Gyrase inhibitor
+BRD-K00824317	Glucocorticoid receptor agonist
+rutin	Capillary stabilizing agent
+idelalisib	PI3K inhibitor
+dolasetron	Serotonin receptor antagonist
+tetrahydrobiopterin	Nitric oxide stimulant|Nitric oxide synthase stimulant|Phenylalanine 4-hydroxylase stimulant
+roxatidine	Histamine receptor antagonist
+ostarine	Androgen receptor antagonist
+secnidazole	Acetylcholinesterase inhibitor|Tubulin inhibitor
+BP-897	Dopamine receptor agonist
+BRD-K63784565	Topoisomerase inhibitor
+rifabutin	Bacterial protein synthesis inhibitor
+ipidacrine	Acetylcholinesterase inhibitor
+refametinib	MEK inhibitor
+bendamustine	DNA inhibitor
+BRD-K08703257	PARP inhibitor
+xanthohumol	ATPase inhibitor
+indiplon	Benzodiazepine receptor agonist|GABA receptor agonist
+lobendazole	Anthelmintic
+zebularine	DNA methyltransferase inhibitor
+levomepromazine	Dopamine receptor antagonist
+deforolimus	MTOR inhibitor
+urea	Hydroxy radical formation stimulant
+exifone	Nootropic agent
+dexketoprofen	Cyclooxygenase inhibitor
+dexamethasone-acetate	Glucocorticoid receptor agonist|Corticosteroid agonist|Cytochrome P450 inhibitor
+ITE	Aryl hydrocarbon receptor agonist
+novobiocin	Bacterial DNA inhibitor
+penciclovir	DNA inhibitor
+norcyclobenzaprine	Adrenergic receptor agonist|Serotonin receptor antagonist
+SRT-1720	SIRT activator
+BU-224	Imidazoline receptor agonist|Imidazoline ligand
+indobufen	Cyclooxygenase inhibitor|Platelet aggregation inhibitor
+alprostadil	Prostanoid receptor agonist
+BRD-K97951054	Aurora kinase inhibitor
+Z160	Calcium channel blocker
+carisoprodol	Acetylcholine receptor antagonist
+VE-821	ATR kinase inhibitor
+ZD-7114	Adrenergic receptor agonist
+menadione	Mitochondrial inhibitor|Phosphatase inhibitor
+temsirolimus	MTOR inhibitor
+aminopentamide	Acetylcholine receptor antagonist
+moclobemide	Monoamine oxidase inhibitor
+imiquimod	Interferon inducer|TLR agonist
+ritonavir	HIV inhibitor
+clemizole	HCV inhibitor
+phenprocoumon	Vitamin K antagonist
+buspirone	Serotonin receptor agonist
+4-mu-8C	IRE1 inhibitor
+dalcetrapib	Cholesterol inhibitor
+PF-4800567	Casein kinase inhibitor
+6-aminochrysene	Transferase inhibitor
+N-methylquipazine	Serotonin receptor agonist
+teneligliptin	Dipeptidyl peptidase inhibitor
+cinepazide	Calcium channel activator
+tyrphostin-1	EGFR inhibitor
+thapsigargin	ATPase inhibitor
+trimetazidine	3-ketoacyl CoA thiolase inhibitor
+moxisylyte	Adrenergic receptor antagonist
+prilocaine	Anesthetic - local
+anecortave-acetate	Corticosteroid agonist|Angiogenesis inhibitor
+aminoglutethimide	Glucocorticoid receptor antagonist
+fidarestat	Aldose reductase inhibitor
+apafant	Platelet activating factor receptor antagonist
+GW-441756	Growth factor receptor inhibitor
+betaxolol	Adrenergic receptor antagonist
+nicaraven	Free radical scavenger
+sparfosic-acid	Aspartate carbamoyltransferase inhibitor
+CNQX	Glutamate receptor antagonist
+dubinidine	Antiepileptic
+BRD-K12244279	MEK inhibitor
+sulfafurazole	Bacterial antifolate
+piceid	Glucosidase inhibitor
+alfuzosin	Adrenergic receptor antagonist
+BRD-K24689407	Nitric oxide synthase inhibitor
+benzthiazide	Carbonic anhydrase inhibitor
+BRD-K55591206	Bacterial DNA inhibitor
+propoxycaine	Anesthetic - local
+PKCbeta-inhibitor	PKC inhibitor
+MD-920	NFKB inhibitor
+ketanserin	Serotonin receptor antagonist
+BRD-A49906757	Acetylcholine receptor antagonist
+xaliproden	Serotonin receptor agonist
+nornicotine	Acetylcholine receptor agonist
+PSB-36	Adenosine receptor antagonist
+myricetin	Androgen receptor agonist|Cytochrome P450 inhibitor
+naphazoline	Adrenergic receptor agonist
+hydroflumethiazide	Sodium channel inhibitor
+GW-843682X	PLK inhibitor
+BRD-K14643723	Carbonic anhydrase inhibitor
+mitomycin-c	DNA alkylating agent|DNA inhibitor
+tramiprosate	Beta amyloid inhibitor
+levocetirizine	Histamine receptor antagonist
+DCPIB	Chloride channel blocker|Gap junction modulator|Glutamate inhibitor
+prednicarbate	Phospholipase activator
+BRD-A57798559	GABA receptor antagonist
+guggulsterone	Progesterone receptor agonist
+FPL-55712	Leukotriene receptor antagonist
+protirelin	Thyrotropin releasing hormone receptor agonist
+tonabersat	Gap junction modulator|Nitric oxide production inhibitor
+histamine	Histamine receptor agonist
+darinaparsin	Apoptosis stimulant
+YM-298198	Glutamate receptor antagonist
+JNJ-10191584	Histamine receptor antagonist
+ketorolac	Cyclooxygenase inhibitor
+formoterol	Adrenergic receptor agonist
+ledipasvir	HCV inhibitor
+alagebrium	Glycosylation inhibitor
+emodic-acid	Laxative
+moxifloxacin	Bacterial DNA inhibitor
+etamivan	Respiratory stimulant
+orciprenaline	Adrenergic receptor agonist
+dabigatran-etexilate	Thrombin inhibitor|Serine protease inhibitor
+mannitol-D	Diuretic
+VER-155008	HSP inhibitor
+depomedrol	Glucocorticoid receptor agonist
+retapamulin	Protein synthesis inhibitor
+lacitol	Osmosis stimulant
+lurasidone	Dopamine receptor antagonist|Serotonin receptor antagonist
+formestane	Aromatase inhibitor
+GSK-1904529A	IGF-1 inhibitor
+BRD-K08177763	MTOR inhibitor
+BRD-A84389633	Serotonin receptor antagonist
+resatorvid	TLR antagonist
+olomoucine	CDK inhibitor
+carbofuran	Cholinesterase inhibitor
+MDL-73005EF	Serotonin receptor antagonist
+tazobactam	Beta lactamase inhibitor
+BRD-K15164005	Carboxylesterase inhibitor
+erythromycin	NFKB inhibitor
+KU-60019	ATM kinase inhibitor
+fludarabine	DNA synthesis inhibitor
+vilazodone	Serotonin receptor antagonist
+enzalutamide	Androgen receptor antagonist
+decafluorobutane	Contrast agent
+losartan	Angiotensin receptor antagonist
+niacin	NAD precursor with lipid lowering effects
+indometacin	Cyclooxygenase inhibitor
+norfloxacin	Bacterial DNA Gyrase inhibitor
+cordycepin	DNA inhibitor
+CTB	Histone Acetyltransferase activator
+exalamide	Membrane integrity inhibitor
+mesoridazine	Dopamine receptor antagonist
+bucladesine	Adenosine receptor agonist
+HLI-373	MDM inhibitor
+BRD-K87426499	Caspase inhibitor
+GS-39783	GABA receptor antagonist
+loxapine	Dopamine receptor antagonist|Serotonin receptor antagonist
+tamibarotene	Retinoid receptor agonist
+retinol	Retinoid receptor agonist
+quiflapon	Leukotriene inhibitor
+tienilic-acid	Sodium channel inhibitor
+tipiracil	Thymidine phosphorylase inhibitor
+fulvestrant	Estrogen receptor antagonist
+marimastat	Matrix metalloprotease inhibitor
+AG-957	Protein tyrosine kinase inhibitor
+resveratrol	Cytochrome P450 inhibitor|SIRT activator
+ercalcitriol	Vitamin D receptor agonist
+chaetocin	Histone lysine methyltransferase inhibitor
+LY-2157299	TGF-beta receptor inhibitor
+methotrexate	Dihydrofolate reductase inhibitor
+sulbutiamine	Acetylcholine receptor antagonist
+RVX-208	Apolipoprotein expression enhancer
+JNJ-38877605	MET inhibitor
+salicin	Anti-inflammatory
+quinisocaine	Anesthetic - local
+trimethoprim	Dihydrofolate reductase inhibitor
+alprazolam	Benzodiazepine receptor agonist
+cinoxacin	Bacterial DNA Gyrase inhibitor
+phenylbutyrate	HDAC inhibitor
+nilutamide	Androgen receptor antagonist
+PJ-34	PARP inhibitor
+duloxetine	Norepinephrine inhibitor|Serotonin reuptake inhibitor
+timonacic	Antioxidant
+BRD-K17415526	Protein tyrosine kinase inhibitor
+selegiline	Monoamine oxidase inhibitor
+riociguat	Guanylate cyclase activator
+buflomedil	Adrenergic receptor antagonist|Calcium channel blocker
+travoprost	Prostanoid receptor agonist
+CD-1530	Retinoid receptor agonist
+GW-5074	Leucine rich repeat kinase inhibitor
+MR-16728	Acetylcholine receptor agonist|Acetylcholine release enhancer
+DPCPX	Adenosine receptor antagonist
+sulfinpyrazone	Uricosuric
+UNC-0642	Histone lysine methyltransferase inhibitor
+BRD-K88741031	Tyrosine kinase inhibitor|EGFR inhibitor
+GSK-923295	Centromere associated protein inhibitor
+paroxetine	Selective serotonin reuptake inhibitor (SSRI)
+DMP-543	Acetylcholine receptor agonist
+tranylcypromine	Monoamine oxidase inhibitor
+lodoxamide	Histamine receptor antagonist
+isofloxythepin	Dopamine receptor antagonist
+T-0070907	PPAR receptor antagonist
+ciglitazone	PPAR receptor agonist
+BRD-K89329876	Kinesin inhibitor
+amthamine	Histamine receptor agonist
+cycloheximide	Protein synthesis inhibitor
+canagliflozin	Sodium channel inhibitor
+NF-449	Purinergic receptor antagonist
+ofloxacin	Bacterial DNA inhibitor
+calpeptin	Calpain inhibitor
+galantamine	Acetylcholinesterase inhibitor
+toremifene	Selective estrogen receptor modulator (SERM)|Estrogen receptor antagonist
+NU-7441	P-glycoprotein inhibitor|DNA dependent protein kinase inhibitor
+pantoprazole	Proton pump inhibitor
+bumetanide	Solute carrier family member inhibitor
+dacarbazine	DNA alkylating agent
+FK-866	Niacinamide phosphoribosyltransferase inhibitor
+ICI-199441	Opioid receptor agonist
+theophylline	Adenosine receptor antagonist
+altanserin	Serotonin receptor antagonist
+artemisinin	DNA inhibitor
+brexpiprazole	Dopamine receptor antagonist
+ampalex	Glutamate receptor agonist
+zileuton	Leukotriene inhibitor|Lipoxygenase inhibitor
+BRD-K40654626	Immunostimulant
+larixinic-acid	Compund that interacts with metal centers
+nalbuphine	Opioid receptor antagonist
+istaroxime	ATPase inhibitor
+PNU-282987	Cholinergic receptor agonist
+JNJ-16259685	Glutamate receptor antagonist
+adatanserin	Serotonin receptor agonist|Serotonin receptor antagonist
+synephrine	Adrenergic receptor agonist
+fluphenazine	Dopamine receptor antagonist
+ML-141	CDC inhibitor
+GDC-0834	BTK inhibitor
+lorazepam	Benzodiazepine receptor agonist
+xanthoxyline	Antifungal
+minoxidil	KATP activator|Vasodilator
+imatinib	PDGFR inhibitor|Bcr-Abl inhibitor|KIT inhibitor
+papaverine	Phosphodiesterase inhibitor
+ramatroban	Prostanoid receptor antagonist
+QW-BI-011	Histone lysine methyltransferase inhibitor
+methiopril	ACE inhibitor
+cromakalim	Potassium channel activator
+BRD-K30064966	Caspase activator
+quinine	Hemozoin biocrystallization inhibitor
+betulinic-acid	Apoptosis stimulant|Caspase activator|Diacylglycerol O acyltransferase inhibitor|HIV inhibitor|NFKB activator|SARS coronavirus 3C-like protease inhibitor|Topoisomerase inhibitor
+BRD-K28120222	NFKB inhibitor
+carbenoxolone	11-beta-HSD1 inhibitor
+zolantidine	Histamine receptor antagonist
+dopamine	Dopamine receptor agonist
+WZ-7043	CSF1R inhibitor
+TUL-XXI039	Serine/threonine kinase inhibitor
+primidone	GABA receptor antagonist
+voglibose	Glucosidase inhibitor
+BRD-K12401458	Lysophospholipid receptor agonist
+SB-222200	Tachykinin antagonist
+palmitoylethanolamide	Cannabinoid receptor agonist
+BRD-A42831637	Anti-inflammatory|Cannabinoid metabolite
+lisuride	Dopamine receptor agonist
+scandenin	Plant alkaloid
+luliconazole	Sterol demethylase inhibitor
+cetirizine	Histamine receptor antagonist
+PRE-084	Sigma receptor agonist
+CGP-54626	GABA receptor antagonist
+nesbuvir	RNA polymerase inhibitor
+mestinon	Cholinesterase inhibitor
+E-4031	Potassium channel antagonist
+dimethyl-fumarate	NRF2 activator|KEAP1 ligand|NFKB inhibitor
+palomid-529	AKT inhibitor|FGFR inhibitor|MTOR inhibitor|VEGFR inhibitor
+BRD-K57926513	PDGFR inhibitor
+SDM-25N	Opioid receptor antagonist
+doxercalciferol	Vitamin D receptor agonist
+GSK-2636771	PI3K inhibitor
+triprolidine	Histamine receptor antagonist
+carbachol	Cholinergic receptor agonist
+flavoxate	Acetylcholine receptor antagonist
+Y-134	Estrogen receptor antagonist
+cefuroxime	Bacterial cell wall synthesis inhibitor
+semaxanib	VEGFR inhibitor
+olanzapine	Dopamine receptor antagonist|Serotonin receptor antagonist
+lafutidine	Histamine receptor antagonist
+butylparaben	DNA inhibitor
+zacopride	Serotonin receptor antagonist
+cilengitide	Integrin inhibitor
+SID-7969543	Steroid
+NSC-23766	Ras GTPase inhibitor
+tyrphostin-51	EGFR inhibitor
+nicergoline	Adrenergic receptor antagonist
+proxymetacaine	Sodium channel inhibitor
+pentamidine	Anti-pneumocystis agent
+etacrynic-acid	Sodium channel inhibitor
+amrinone	Phosphodiesterase inhibitor
+diphenidol	Acetylcholine receptor agonist
+zearalenone	Estrogenic metabolite
+homatropine	Acetylcholine receptor antagonist
+etomidate	Membrane integrity inhibitor|Membrane permeability inhibitor|GABA receptor modulator
+ondansetron	Serotonin receptor antagonist
+imexon	Apoptosis stimulant|Ribonucleoside reductase inhibitor
+MMPX	Phosphodiesterase inhibitor
+LY-2874455	FGFR inhibitor
+azauridine	Antiviral
+PX-12	Thioredoxin inhibitor
+SGX-523	HGF receptor inhibitor
+verapamil	Calcium channel blocker
+tropicamide	Acetylcholine receptor antagonist
+Ro-20-1724	Phosphodiesterase inhibitor
+chlorpropham	Antiviral
+XMD-892	MAP kinase inhibitor
+SKF-86002	P38 MAPK inhibitor
+FR-180204	MAP kinase inhibitor
+BRD-K48115423	Matrix metalloprotease inhibitor
+adipiodone	Radiopaque medium
+cyanocobalamin	Methylmalonyl CoA mutase stimulant
+lirimilast	Phosphodiesterase inhibitor
+telotristat	Serotonin receptor antagonist|Serotonin release inhibitor
+AZ-628	RAF inhibitor
+BRD-K25690923	Macrophage inhibitor
+salirasib	MTOR inhibitor
+suprofen	Cyclooxygenase inhibitor
+SB-205384	GABA receptor antagonist
+KU-0063794	MTOR inhibitor
+BRD-K20168484	Lipoxygenase inhibitor
+ivacaftor	CFTR channel antagonist
+thioridazine	Dopamine receptor antagonist
+cinalukast	Leukotriene receptor antagonist
+gatifloxacin	Bacterial DNA Gyrase inhibitor
+clofoctol	Bacterial protein synthesis inhibitor
+trametinib	MEK inhibitor
+nadolol	Adrenergic receptor antagonist
+BRD-A54632525	Lipoxygenase inhibitor
+carbamazepine	Carboxamide antiepileptic
+GR-46611	Serotonin receptor agonist
+ODQ	Guanylyl cyclase inhibitor
+bemesetron	Serotonin receptor antagonist
+vinburnine	Adrenergic receptor antagonist
+dorzolamide	Carbonic anhydrase inhibitor
+coumophos	Cholinesterase inhibitor
+PHTPP	Estrogen receptor antagonist
+amitifadine	Serotonin receptor antagonist
+candesartan-cilextil	Angiotensin receptor antagonist
+WZ-4002	EGFR inhibitor
+GW-405833	Cannabinoid receptor agonist
+brinzolamide	Carbonic anhydrase inhibitor
+BRD-K92301463	Prostanoid receptor agonist
+selumetinib	MEK inhibitor
+castanospermine	Glucosidase inhibitor
+nateglinide	Insulin secretagogue
+NSC-632839	Ubiquitin specific protease inhibitor
+lorcaserin	Serotonin receptor agonist
+VUF-5681	Histamine receptor antagonist
+chlorhexidine	Bacterial membrane integrity inhibitor
+BAFILOMYCIN-A1	ATPase inhibitor
+tomelukast	Leukotriene receptor antagonist
+edoxudine	DNA inhibitor
+colforsin	Adenylyl cyclase activator
+indacaterol	Adrenergic receptor agonist
+BML-190	Cannabinoid receptor antagonist
+NXY-059	Free radical scavenger
+cromoglicic-acid	Immunosuppressant
+desoxypeganine	Acetylcholinesterase inhibitor|Monoamine oxidase inhibitor
+Ro-15-4513	GABA receptor agonist
+hypericin	Tyrosine kinase inhibitor
+enprofylline	Phosphodiesterase inhibitor
+RHC-80267	Triacylglycerol lipase inhibitor
+heliotrine	Pyrrolizidine alkaloid
+altizide	Diuretic
+AMG-837	Fatty acid receptor agonist
+timofibrate	Cholesterol inhibitor|Lipase clearing factor inhibitor
+apremilast	Phosphodiesterase inhibitor
+altretamine	DNA inhibitor
+epirizole	Cyclooxygenase inhibitor
+dibenzoylmethane	Carcinogen
+fludarabine-phosphate	DNA inhibitor|DNA repair enzyme inhibitor|Purine antagonist
+tetrindole	Monoamine oxidase inhibitor
+orantinib	VEGFR inhibitor
+urapidil	Adrenergic receptor antagonist
+BW-180C	Opioid receptor agonist
+AV-412	Receptor tyrosine protein kinase inhibitor
+emedastine	Histamine receptor antagonist
+ALW-II-49-7	Ephrin inhibitor
+baicalin	Beta glucuronidase inhibitor
+huperzine-a	Acetylcholinesterase inhibitor
+LX-1031	Tryptophan hydroxylase inhibitor
+AZ-10417808	Caspase inhibitor
+dehydroepiandrosterone	Protein synthesis stimulant
+desmopressin-acetate	Vasopressin receptor agonist
+fexaramine	FXR agonist
+butoconazole	Bacterial cell wall synthesis inhibitor
+trifluoperazine	Dopamine receptor antagonist
+securinine	GABA receptor antagonist
+cinchonine	P-glycoprotein inhibitor
+buphenine	Adrenergic receptor agonist
+pifithrin	p53 inhibitor
+zidovudine	Reverse transcriptase inhibitor
+BRD-K63792901	Acetylcholine receptor agonist
+tretinoin	Retinoid receptor agonist|Retinoid receptor ligand
+ORE-1001	ACE inhibitor
+BRD-A02367930	Estrogen receptor agonist|DNA directed DNA polymerase stimunlant|Estrogenic component in oral contraceptives
+PPT	Estrogen receptor agonist
+formononetin	Alcohol dehydrogenase inhibitor
+candesartan	Angiotensin receptor antagonist
+MT-21	Caspase activator
+FPL-62064	Cyclooxygenase inhibitor|Lipoxygenase inhibitor
+pentoxifylline	Phosphodiesterase inhibitor
+acitretin	Retinoid receptor agonist
+oligomycin-c	ATP synthase inhibitor|ATPase inhibitor
+BRD-K45330754	Estrogen receptor agonist
+pregnenolone	Glutamate receptor antagonist
+QL-XII-47	BTK inhibitor|Cytoplasmic tyrosine protein kinase BMX inhibitor
+saclofen	GABA receptor antagonist
+estrone	Estrogen receptor agonist
+bisphenol-a	Synthetic estrogen
+AZD-8055	MTOR inhibitor
+benzamil	Sodium channel inhibitor
+deferiprone	Chelating agent
+BRD-K75430629	PI3K inhibitor
+pilaralisib	PI3K inhibitor
+milrinone	Phosphodiesterase inhibitor
+methimazole	Antithyroid agent
+ginkgolide-b	Platelet activating factor receptor antagonist|GABA receptor antagonist|Glycine receptor antagonist|Immunosuppressant|Peptidase inhibitor|Protease inhibitor|Reducing agent
+NVP-TAE684	ALK inhibitor
+BRD-K98404142	Glucose 6-phosphate dehydrogenase inhibitor
+dacinostat	HDAC inhibitor
+etoposide	Topoisomerase inhibitor
+ecabet	Gastrin inhibitor|Urease inhibitor
+BRD-K71860425	CDK inhibitor
+vortioxetine	Serotonin receptor agonist|Serotonin receptor antagonist
+doxapram	Potassium channel antagonist
+biperiden	Acetylcholine receptor antagonist
+oleylethanolamide	Cannabinoid receptor agonist|Glucose dependent insulinotropic receptor agonist|Potassium channel blocker
+OCO-1112	Cholesterol inhibitor
+otilonium	Acetylcholine receptor antagonist
+JW-55	Tankyrase inhibitor
+arcyriaflavin-a	CDK inhibitor
+methyllycaconitine	Acetylcholine receptor antagonist
+PFI-1	Bromodomain inhibitor
+sofalcone	Mucus protecting agent
+eticlopride	Dopamine receptor antagonist
+ganglioside	Src activator
+efaroxan	Adrenergic receptor antagonist
+BRD-K22848513	Nuclear factor erythroid derived, like (NRF2) activator|Apoptosis stimulant|BCL inhibitor|Glutathione Reductase (NADPH) Activators|Heme Oxygenase Activators|IKK-1 (IKK-alpha) Inhibitors|NFKB inhibitor|Nitric oxide production inhibitor|PPAR receptor agonist|Reducing agent
+BCI-540	Glutamate receptor agonist
+ixazomib	Proteasome inhibitor
+BRD-K06956503	Glucosylceramidase inhibitor
+naltrexone	Opioid receptor antagonist
+cilostazol	Phosphodiesterase inhibitor
+indoprofen	Cyclooxygenase inhibitor|Prostanoid receptor antagonist
+fluvoxamine	Selective serotonin reuptake inhibitor (SSRI)
+ABT-737	BCL inhibitor
+sorafenib	RET tyrosine kinase inhibitor
+piperidolate	Acetylcholine receptor antagonist
+BRD-K84798689	Potassium channel activator
+simvastatin	HMGCR inhibitor
+Y-27632	Rho associated kinase inhibitor
+ranolazine	Sodium channel inhibitor
+clomipramine	Serotonin receptor antagonist
+capsazepine	TRPV agonist
+MRS-1220	Adenosine receptor antagonist
+acecainide	Polarization inhibitor
+VTP-27999	Renin inhibitor
+BRD-K45437867	Acetylcholine receptor agonist
+AZD-6482	PI3K inhibitor
+HG-5-88-01	Protein kinase inhibitor
+desvenlafaxine	Serotonin receptor antagonist
+IAA-94	Chloride channel blocker
+L-692585	Growth hormone releasing peptide ligand agonist
+levetiracetam	Calcium channel blocker
+estradiol-cypionate	Estrogen receptor agonist
+PA-824	Nitric oxide donor
+tolvaptan	Vasopressin receptor antagonist
+NU-7026	DNA inhibitor|MTOR inhibitor|PI3K inhibitor
+VU-0400195-3	Glutamate receptor antagonist
+RITA	MDM inhibitor
+dorsomorphin	AMPK inhibitor
+letermovir	CMV terminase inhibitor
+perindopril	ACE inhibitor
+triamcinolone	Glucocorticoid receptor agonist
+nTZDpa	PPAR receptor agonist
+azathioprine	Dehydrogenase inhibitor
+fluoropyruvate	PDK inhibitor
+GDC-0199	BCL inhibitor
+3-MPPI	Adrenergic receptor antagonist
+CFM-1571	Guanylate cyclase activator
+pterostilbene	Cyclooxygenase inhibitor|PPAR receptor agonist
+EHNA	Adenosine deaminase inhibitor
+metrizamide	Radiopaque medium
+aminomethyltransferase	Nitric oxide synthase inhibitor
+zamifenacin	Acetylcholine receptor antagonist
+BX-912	PDK inhibitor
+goserelin-acetate	Gonadotropin receptor agonist
+triacsin-c	Adrenergic receptor antagonist
+bongkrek-acid	Mitochondrial inhibitor
+thioguanine	Purine antagonist
+almorexant	Orexin receptor antagonist
+CC-401	JNK inhibitor
+axitinib	VEGFR inhibitor|PDGFR inhibitor
+nabumetone	Cyclooxygenase inhibitor
+DAU-5884	Acetylcholine receptor antagonist
+ST-91	Adrenergic receptor agonist
+BRD-K54606188	Bromodomain inhibitor
+olprinone	Phosphodiesterase inhibitor
+parbendazole	Tubulin inhibitor
+liothyronine	Thyroid hormone stimulant
+sotalol	Adrenergic receptor antagonist
+nicotine	Acetylcholine receptor agonist
+tracazolate	GABA receptor antagonist
+BRD-K37846922	CHK inhibitor|Cytochrome P450 activator|Indoleamine 2,3-dioxygenase inhibitor
+E-2012	Gamma secretase inhibitor
+CX-4945	Casein kinase inhibitor
+dazoxiben	Thromboxane synthase inhibitor
+tibolone	Estrogen receptor agonist|Androgen receptor agonist|Progesterone receptor agonist
+lonafarnib	Farnesyltransferase inhibitor
+YS-035	Calcium channel blocker
+prostaglandin	Prostanoid receptor antagonist
+ifosfamide	DNA alkylating agent
+sinensetin	Cyclooxygenase inhibitor
+L-701324	Glutamate receptor antagonist
+orantinib	PDGFR inhibitor|FGFR inhibitor|VEGFR inhibitor
+Y-27152	Potassium channel activator
+ICI-89406	Adrenergic receptor antagonist
+etanidazole	Bacterial cell wall synthesis inhibitor
+clobetasol	Glucocorticoid receptor agonist
+didanosine	Nucleoside reverse transcriptase inhibitor
+amoxapine	Norepinephrine inhibitor
+SB-258585	Serotonin receptor antagonist
+cilostamide	Phosphodiesterase inhibitor
+BRD-K68144790	Apoptosis stimulant
+boldine	Acetylcholine receptor antagonist|Dopamine receptor antagonist
+BRD-A36707673	LXR agonist
+KW-2449	Abl inhibitor|Aurora kinase inhibitor|FLT3 inhibitor
+nilotinib	Bcr-Abl inhibitor|Abl inhibitor
+embelin	HCV inhibitor|XIAP inhibitor
+TAS-301	Calcium channel blocker
+barasertib-HQPA	Aurora kinase inhibitor
+aloisine	CFTR channel agonist
+BMS-599626	EGFR inhibitor|Receptor tyrosine protein kinase inhibitor
+naloxone	Opioid receptor antagonist
+C2-dihydroceramide	Inactive form of C2 ceramide
+mepazine	Mucus protecting agent
+ascorbic-acid	Antioxidant
+chlortalidone	Carbonic anhydrase inhibitor
+adapalene	Retinoid receptor agonist
+SKI-II	Sphingosine kinase inhibitor
+talnetant	Tachykinin antagonist
+gefitinib	EGFR inhibitor
+MNITMT	Lymphocyte inhibitor
+L-693403	Sigma receptor agonist|Sigma receptor antagonist
+BRD-K19059335	Runt-related transcription factor inhibitor
+promethazine	Histamine receptor antagonist
+prostaglandin-b2	Prostanoid receptor antagonist
+amonafide	Topoisomerase inhibitor
+phenazone	Cyclooxygenase inhibitor
+HK-CB19	CDC inhibitor
+estriol	Estrogen receptor agonist
+procarbazine	Monoamine oxidase inhibitor
+dimercaptosuccinic-acid	Chelating agent
+WR-216174	PFMRK inhibitor
+BRD-K77690805	Pyruvate kinase isozyme activator
+AG-99	Tyrosine kinase inhibitor
+bavisant	Histamine receptor antagonist
+PP-30	RAF inhibitor
+scopolamine	Acetylcholine receptor antagonist
+meptazinol	Opioid receptor agonist
+raltegravir	HIV inhibitor
+ursolic-acid	11-beta-HSD1 inhibitor|Acetylcholinesterase inhibitor|ATPase inhibitor|Caspase inhibitor|HIV protease inhibitor|Lipid peroxidase inhibitor|NFKB inhibitor|Quorum sensing signaling modulator|STAT inhibitor|Steryl sulfatase inhibitor|Tyrosine phosphatase inhibitor
+penitrem-a	Potassium channel blocker
+aflatoxin-b1	Carcinogen
+O-3M3FBS	Phospholipase activator
+picolinic-acid	Chelating agent
+acifran	Cholesterol inhibitor
+BRD-K60174629	Prolyl endopeptidase inhibitor
+rivaroxaban	Coagulation factor inhibitor
+GBR-12935	Dopamine receptor antagonist
+naltriben	Opioid receptor antagonist
+cilnidipine	Calcium channel blocker
+SKF-77434	Dopamine receptor agonist
+erbstatin-analog	EGFR inhibitor|Tyrosine kinase inhibitor
+mephentermine	Adrenergic receptor agonist
+YM-976	Phosphodiesterase inhibitor
+BW-723C86	Serotonin receptor agonist
+daunorubicin	RNA synthesis inhibitor|Topoisomerase inhibitor
+stavudine	DNA inhibitor|Reverse transcriptase inhibitor
+curcumin	Histone acetyltransferase inhibitor
+erlotinib	EGFR inhibitor
+resorcinol	Antiseptic
+BRD-K88969189	Estrogen receptor agonist
+macitentan	Endothelin receptor antagonist
+sacubitril	Neprilysin inhibitor
+hydrocortisone-valerate	Corticosteroid agonist|Glucocorticoid receptor agonist
+BRD-K41708980	Immunosuppressant|Corticosteroid agonist|Glucocorticoid receptor agonist
+vecuronium	Acetylcholine receptor antagonist
+tasquinimod	Angiogenesis inhibitor|S100A9 inhibitor
+ZM-447439	Aurora kinase inhibitor
+CGP-55845	GABA receptor antagonist
+SR-57227A	Serotonin receptor agonist
+epitiostanol	Androgen receptor agonist
+UK-383367	Procollagen C-Endopeptidase Inhibitors
+drospirenone	Mineralocorticoid receptor antagonist
+parthenolide	NFKB inhibitor
+benidipine	Calcium channel blocker
+tacrolimus	Calcineurin inhibitor
+CP-673451	PDGFR inhibitor
+dichlorodiamine-platinum	Carcinogen
+AZD-7762	CHK inhibitor
+acetamide	Solvent
+tiabendazole	Angiogenesis inhibitor
+BX-795	IKK inhibitor
+vismodegib	Hedgehog pathway inhibitor|Smoothened receptor antagonist
+I-BET-762	Bromodomain inhibitor
+P-1075	ATP channel activator|Potassium channel activator
+medetomidine	Adrenergic receptor agonist
+amfepramone	Adrenergic receptor agonist
+glycitein	TNF inhibitor
+probenecid	Uricosuric
+tramadol	Norepinephrine reputake inhibitor
+BRD-K19216856	Nitric oxide synthase inhibitor
+BRD-K76064317	FLT3 inhibitor
+ingenol-mebutate	PKC activator
+AV-608	Tachykinin antagonist
+QS-11	ARFGAP inhibitor
+lidocaine	Histamine receptor agonist
+BRD-K50311478	Chymotrypsin inhibitor
+bendroflumethiazide	Sodium channel inhibitor
+lupanine	Sodium channel inhibitor
+mCPP	Serotonin receptor agonist
+GW-311616	Leukocyte elastase inhibitor
+aliskiren	Antihypertensive|Peptidase inhibitor|Protease inhibitor|Renin inhibitor
+levonorgestrel	Estrogen receptor agonist|Glucocorticoid receptor antagonist|Progesterone receptor agonist|Progesterone receptor antagonist
+colforsin-daproate	Adenylyl cyclase activator
+propentofylline	Adenosine receptor antagonist|Phosphodiesterase inhibitor
+azithromycin	Bacterial 50S ribosomal subunit inhibitor
+noscapine	Bradykinin receptor antagonist
+AGP-103	Membrane integrity inhibitor
+mifepristone	Glucocorticoid receptor antagonist|Progesterone receptor antagonist
+xylazine	Adrenergic receptor agonist
+cinaciguat	Guanylate cyclase activator
+RK-682	Tyrosine phosphatase inhibitor
+lidoflazine	Calcium channel blocker
+tyrphostin	EGFR inhibitor
+cyproterone	Androgen receptor antagonist
+karakoline	Phytotoxin
+capsaicin	TRPV agonist
+methysergide	Serotonin receptor antagonist
+fexofenadine	Histamine receptor antagonist
+LY-456236	Glutamate receptor antagonist
+dasatinib	KIT inhibitor|Bcr-Abl inhibitor|Ephrin inhibitor|PDGFR inhibitor|Src inhibitor|Tyrosine kinase inhibitor
+linopirdine	Potassium channel antagonist
+rhapontin	Apoptosis stimulant
+spiroxatrine	Serotonin receptor antagonist
+DH-97	Melatonin receptor antagonist
+RU-28318	Cytochrome P450 inhibitor
+VE-822	ATR kinase inhibitor
+alda-1	Aldehyde dehydrogenase activator
+minoxidil	Potassium channel activator
+aniracetam	Glutamate receptor agonist
+L-689560	Glutamate receptor antagonist
+FPL-64176	Calcium channel activator
+piceatannol	Syk inhibitor
+molsidomine	Guanylyl cyclase activator
+MK-2206	AKT inhibitor
+calcifediol	Vitamin D receptor agonist
+choline-alfoscerate	Acetylcholine receptor agonist|Acetylcholine precursor|Membrane permeability enhancer
+ML-204	Transient receptor potential channel antagonist
+noreleagnine	Monoamine oxidase inhibitor|Serotonin receptor agonist
+emetine	Protein synthesis inhibitor
+O6-benzylguanine	O6-alkylguanine-DNA alkyltransferase inhibitor
+fillalbin	Increases arterial blood pressure
+dolutegravir	HIV inhibitor
+mirodenafil	Phosphodiesterase inhibitor
+BH3I-1	BCL inhibitor
+AMG-517	TRPV antagonist
+7-nitroindazole	Nitric oxide synthase inhibitor
+BRD-K54331210	Alkaline phosphatase inhibitor
+dipraglurant	Glutamate receptor antagonist
+L-803087	Somatostatin receptor agonist
+AST-1306	EGFR inhibitor
+repsox	TGF-beta receptor inhibitor
+CP-55940	Cannabinoid receptor agonist
+PF-562271	Focal adhesion kinase inhibitor
+tetramethylsilane	Internal standard for NMR spectroscopy
+LY-165163	Serotonin receptor antagonist
+imperatorin	CDK inhibitor
+phenformin	AMPK activator
+tolfenamic-acid	Cyclooxygenase inhibitor|Leukotriene synthesis inhibitor|Prostanoid receptor antagonist|Prostanoid receptor inhibitor
+sulfadimethoxine	Dihydropteroate synthase inhibitor
+fentiazac	Cyclooxygenase inhibitor
+GW-2580	CFMS kinase inhibitor
+PF-750	FAAH inhibitor
+nonoxynol-9	Membrane integrity inhibitor
+ICI-63197	Phosphodiesterase inhibitor
+cinnarizine	Calcium channel blocker
+BRD-K97330509	Src inhibitor
+A-769662	AMPK activator
+raclopride	Dopamine receptor antagonist
+zolpidem	Benzodiazepine receptor agonist
+vitexin	Antioxidant
+ganaxolone	GABA receptor antagonist
+fasudil	Rho associated kinase inhibitor
+diazepam	Benzodiazepine receptor agonist
+RS-39604	Serotonin receptor antagonist
+alectinib	ALK inhibitor
+BRD-K97019106	Acetylcholine receptor agonist
+kinetin-riboside	Apoptosis stimulant
+filgotinib	JAK inhibitor
+nikethamide	Immunostimulant
+ML-133	Potassium channel antagonist
+iguratimod	Cyclooxygenase inhibitor|NFKB inhibitor
+aminosalicylic-acid	Cyclooxygenase inhibitor
+hydrocortisone	Glucocorticoid receptor agonist
+UNC-0646	Histone lysine methyltransferase inhibitor
+NTNCB	Neuropeptide receptor antagonist
+FK-888	Tachykinin antagonist
+S-ruxolitinib	JAK inhibitor
+brivudine	DNA inhibitor
+carbacyclin	PPAR receptor agonist
+moexipril	ACE inhibitor
+BRD-A97035593	XIAP inhibitor
+conivaptan	Vasopressin receptor antagonist
+ethoprop	Acetylcholinesterase inhibitor
+idarubicin	Topoisomerase inhibitor
+SKF-96365	Calcium channel blocker
+disopyramide	Sodium channel inhibitor
+tozasertib	Aurora kinase inhibitor|Bcr-Abl inhibitor|FLT3 inhibitor|JAK inhibitor
+olmesartan	Angiotensin receptor antagonist
+modafinil	Adrenergic receptor agonist
+piretanide	Glucocorticoid receptor agonist
+ruxolitinib	JAK inhibitor
+lonidamine	Glucokinase inhibitor
+RS-45041-190	Imidazoline receptor agonist
+propylthiouracil	Thyroid peroxidase inhibitor
+WT-171	HDAC inhibitor
+LY-83583	Guanylyl cyclase inhibitor
+AG-494	EGFR inhibitor|Tyrosine kinase inhibitor
+tamsulosin	Adrenergic receptor antagonist
+BRD-K74305673	IKK inhibitor|NFKB inhibitor
+piracetam	Acetylcholine receptor agonist
+phenolphthalein	Indicator dye
+enoximone	Phosphodiesterase inhibitor
+AVA	Nucleophosmin inhibitor
+fluprostenol	Prostanoid receptor agonist
+cutamesine	Sigma receptor agonist
+phenylbutazone	Cyclooxygenase inhibitor|Prostanoid receptor antagonist
+PD-168077	Dopamine receptor agonist
+bambuterol	Adrenergic receptor agonist
+XMD-1150	LRRK inhibitor
+GDC-0068	AKT inhibitor
+etizolam	Benzodiazepine receptor agonist
+amidopyrine	Analgesic
+dinoprost	Prostacyclin analog
+10-DEBC	AKT inhibitor
+ciclesonide	Glucocorticoid receptor agonist
+L-655240	Thromboxane receptor antagonist
+cotinine	Nicotinic receptor agonist
+pregnenolone	Glutamate receptor modulator
+nicardipine	Calcium channel blocker
+CCMQ	Inhibitor of the binding of homoquinolinic acid to non-NMDA sensitive sites
+BRD-K04887706	AKT inhibitor
+ZK-164015	Estrogen receptor antagonist
+oxybuprocaine	Anesthetic - local
+BRD-K93725829	MAP kinase inhibitor
+tulobuterol	Adrenergic receptor agonist
+pifithrin-alpha	p53 inhibitor
+rilmenidine	Adrenergic receptor agonist|Imidazoline receptor agonist
+methandriol	Androgen receptor antagonist
+dienestrol	Estrogen receptor agonist
+mirtazapine	Adrenergic receptor antagonist
+PSB-11	Adenosine receptor antagonist
+felbamate	Glutamate receptor antagonist
+bifonazole	Sterol demethylase inhibitor
+cyanoquinoline-11	Kinase inhibitor
+dimesna	Tubulin inhibitor
+NNC-711	GAT inhibitor
+AMG-9810	TRPV antagonist
+GP-1a	Cannabinoid receptor agonist
+testosterone	Androgen receptor agonist
+DL-TBOA	Excitatory amino acid transporter inhibitor
+pramipexole	Dopamine receptor agonist
+fluticasone-propionate	Glucocorticoid receptor agonist
+CHEMBL-399379	ATP citrase lyase inhibitor
+cyclosporin-a	Calcineurin inhibitor
+RAF-265	RAF inhibitor|VEGFR inhibitor
+otamixaban	Coagulation factor inhibitor
+pazufloxacin	Bacterial DNA Gyrase inhibitor
+nortriptyline	Tricyclic antidepressant
+dicloxacillin	Bacterial cell wall synthesis inhibitor
+rufinamide	Voltage-gated sodium channel blocker
+picrotoxin	GABA receptor antagonist
+ST-1859	Beta amyloid inhibitor
+Ro-60-0175	Serotonin receptor agonist
+luzindole	Melatonin receptor antagonist
+glibenclamide	ATP channel blocker|Insulin secretagogue|Sulfonylurea
+FR-122047	Cyclooxygenase inhibitor
+PD-153035	EGFR inhibitor
+BRD-K09907482	Tyrosine phosphatase inhibitor
+carbidopa	Aromatic L-amino acid decarboxylase inhibitor
+VGX-1027	TNF inhibitor
+anidulafungin	Fungal 1,3-beta-D-glucan synthase inhibitor
+hesperidin	Flavanone glycoside
+enrofloxacin	Bacterial DNA inhibitor
+ACY-1215	HDAC inhibitor
+BRD-K86682249	Tyrosine phosphatase inhibitor
+CPI-613	PDK inhibitor
+varenicline	Acetylcholine receptor agonist
+ciclacillin	Bacterial cell wall synthesis inhibitor
+GR-55562	Serotonin receptor antagonist
+GBR-12783	Dopamine receptor antagonist
+oxprenolol	Adrenergic receptor antagonist
+physostigmine	Acetylcholinesterase inhibitor
+MK-0773	Androgen receptor antagonist
+sapropterin	Phenylalanine 4-hydroxylase stimulant
+RG-4733	Gamma secretase inhibitor
+IPI-145	PI3K inhibitor
+rolipram	Phosphodiesterase inhibitor
+sulfaquinoxaline	Vitamin K antagonist
+UNC-0638	HMTase inhibitor
+BRD-A96799240	Retinoid receptor antagonist
+PNU-120596	Acetylcholine receptor agonist
+MRS-1334	Adenosine receptor antagonist
+seocalcitol	Vitamin D receptor agonist
+S-14506	Serotonin receptor agonist
+topiramate	Carbonic anhydrase inhibitor|Glutamate receptor antagonist|Kainate receptor antagonist
+mirtazapine	Adrenergic receptor antagonist|Serotonin receptor antagonist
+dexamethasone	Glucocorticoid receptor agonist
+idoxuridin	DNA synthesis inhibitor
+bis-tyrphostin	EGFR inhibitor
+zonisamide	Sodium channel inhibitor|Calcium channel blocker
+BRD-K26373640	IKK inhibitor|Syk inhibitor
+AM-24	Lipoxygenase inhibitor
+LY-2334737	Carcinogen|Ribonucleoside reductase inhibitor
+omeprazole	Proton pump inhibitor
+BRD-K67506692	MAP kinase inhibitor
+T-5224	AP inhibitor
+BAY-87-2243	HIF Inhibitor
+irsogladine	Phosphodiesterase inhibitor
+reserpic-acid	Norepinephrine inhibitor
+evodiamine	ATPase inhibitor|TRPV agonist
+LY-294002	MTOR inhibitor|DNA dependent protein kinase inhibitor|Phosphodiesterase inhibitor|PLK inhibitor
+varespladib	Secretory phospholipase inhibitor
+salsolidine	Monoamine oxidase inhibitor
+phenethyl-isothiocyanate	Carcinogen
+UB-165	Acetylcholine receptor agonist
+GW-6471	PPAR receptor antagonist
+amiodarone	Potassium channel antagonist
+xylometazoline	Adrenergic receptor agonist
+EX-527	SIRT inhibitor
+elvitegravir	HIV inhibitor
+chloroquine	Antimalarial
+darapladib	Phospholipase inhibitor
+ZD-7155	Angiotensin receptor antagonist
+sertraline	Serotonin receptor antagonist
+bicalutamide	Androgen receptor antagonist
+CP-945598	Cannabinoid receptor antagonist
+iloperidone	Dopamine receptor antagonist|Serotonin receptor antagonist
+BRD-K16233984	Azo dye used in titrations to detect metal ions
+wiskostatin	Neural Wiskott-Aldrich syndrome protein inhibitor
+laropiprant	Prostanoid receptor antagonist
+LY-2603618	CHK inhibitor
+betrixaban	Coagulation factor inhibitor
+fipronil	Chloride channel blocker|GABA gated chloride channel blocker
+thiothixene	Dopamine receptor antagonist
+fusaric-acid	Dopamine receptor antagonist
+CPCCOEt	Glutamate receptor antagonist
+CHEMBL-374350	NFKB inhibitor
+entinostat	HDAC inhibitor
+inosine	Neurotrophic agent
+eperezolid	Bacterial 30S ribosomal subunit inhibitor
+trapidil	PDGFR inhibitor
+mecillinam	Bacterial cell wall synthesis inhibitor
+neurodazine	Neurogenesis of non-pluripotent C2C12 myoblast inducer
+naproxen	Cyclooxygenase inhibitor
+mevastatin	HMGCR inhibitor
+olaparib	PARP inhibitor
+NS-3694	Glutamate receptor antagonist
+azelaic-acid	Tyrosinase inhibitor
+BRD-A89049230	Thyroid hormone stimulant
+OSI-930	KIT inhibitor|VEGFR inhibitor
+pyrazolanthrone	JNK inhibitor
+balsalazide	Cyclooxygenase inhibitor
+hydrocotarnine	Opioid receptor antagonist
+PP-3	EGFR inhibitor
+talampicillin	Bacterial cell wall synthesis inhibitor
+iopanoic-acid	Thyroid hormone inhibitor
+cardiogenol-c	Cardiomyogenesis inducer
+ibutilide	Potassium channel blocker
+Ro-19-4605	GABA receptor agonist
+oligomycin-a	ATP synthase inhibitor|ATPase inhibitor
+nitisinone	Hydroxyphenylpyruvate dioxygenase inhibitor
+aztreonam	Bacterial cell wall synthesis inhibitor
+HC-030031	TRPA1 channel blocker
+paclitaxel	Tubulin inhibitor
+diphenhydramine	Histamine receptor antagonist
+ZM-336372	RAF inhibitor
+fluocinolone-acetonide	Glucocorticoid receptor agonist
+BRD-A94297859	XIAP inhibitor
+carglumic-acid	Carbamoyl phosphate synthase activator
+aminocaproic-acid	Plasminogen activator inhibitor
+SB-743921	Kinesin inhibitor
+etidronic-acid	Bone resorption inhibitor
+MK-2461	FGFR inhibitor|VEGFR inhibitor
+NVP-BGJ398	FGFR inhibitor
+taranabant	Cannabinoid receptor antagonist
+lomustine	DNA inhibitor
+BRD-K03670461	EGFR inhibitor
+m-3M3FBS	Phospholipase activator
+LDN-193189	Serine/threonine kinase inhibitor
+iloprost	Platelet aggregation inhibitor
+pranoprofen	Cyclooxygenase inhibitor
+azasetron	Serotonin receptor antagonist
+primaquine	Antimalarial|DNA inhibitor
+manumycin-a	Farnesyltransferase inhibitor
+estradiol	Estrogen receptor agonist
+iloprost	Platelet aggregation inhibitor|Prostanoid receptor agonist
+nikkomycin	Chitin inhibitor
+atorvastatin	HMGCR inhibitor
+CAY-10585	HIF modulator
+CX-516	Glutamate receptor antagonist
+BRD-K78844995	Sigma receptor agonist
+I-BET-151	Bromodomain inhibitor
+rottlerin	MAP kinase inhibitor|Protein kinase inhibitor
+megestrol	Progesterone receptor agonist
+PD-0325901	Protein kinase inhibitor
+coumestrol	Estrogen receptor agonist
+everolimus	MTOR inhibitor
+veliparib	PARP inhibitor
+cobimetinib	MEK inhibitor
+dasabuvir	HCV inhibitor
+plerixafor	CC chemokine receptor antagonist
+etravirine	Non-nucleoside reverse transcriptase inhibitor
+BRD-K94919853	Butyrylcholinesterase inhibitor
+benzofuran	Carcinogen
+isocarboxazid	Monoamine oxidase inhibitor
+bepotastine	Histamine receptor antagonist
+fenoldopam	Dopamine receptor agonist
+TEPP-46	Pyruvate kinase isozyme activator
+psoromic-acid	Ras GTPase inhibitor
+robustic-acid	CAMP inhibitor
+BRD-K14048378	Lysophospholipid receptor agonist
+razoxane	Chelating agent|Topoisomerase inhibitor
+ME-0328	PARP inhibitor
+palbociclib	CDK inhibitor
+GSK-2334470	PDK inhibitor
+alprenolol	Adrenergic receptor antagonist
+PRT-062070	JAK inhibitor|Syk inhibitor
+SR-59230A	Adrenergic receptor antagonist
+etomoxir	Carnitine palmitoyltransferase inhibitor
+bisoprolol	Adrenergic receptor antagonist
+zosuquidar	P-glycoprotein inhibitor
+milacemide	Monoamine oxidase inhibitor
+suvorexant	Orexin receptor antagonist
+fomocaine	Voltage-gated sodium channel blocker
+BRD-K43405658	Protein tyrosine kinase inhibitor
+AM-580	Retinoid receptor agonist
+sulpiride	Dopamine receptor antagonist
+SB-203186	Serotonin receptor antagonist
+gossypol	BCL inhibitor|MCL1 inhibitor
+betamethasone	Glucocorticoid receptor agonist
+flunarizine	Calcium channel blocker
+bifemelane	Acetylcholine receptor agonist
+batimastat	Matrix metalloprotease inhibitor
+trifluridine	DNA directed DNA polymerase inhibitor|Thymidylate synthase inhibitor
+BRD-K80672993	Pyruvate kinase isozyme activator
+BRD-K17874705	Histamine receptor agonist
+U-74389F	Lipid peroxidase inhibitor
+Y-26763	Potassium channel activator
+harmine	DYRK inhibitor
+mepacrine	NFKB inhibitor|Cytokine production inhibitor|p53 activator
+BAY-61-3606	Syk inhibitor
+JQ-1-R	Bromodomain inhibitor
+devazepide	CCK receptor antagonist
+lamotrigine	Serotonin receptor antagonist|Sodium channel inhibitor
+CTS-1027	Metalloproteinase inhibitor
+AS-703026	MEK inhibitor
+torcitabine	DNA inhibitor
+BRD-K70693222	DYRK inhibitor
+ZM-241385	Adenosine receptor antagonist
+arbutin	Melanin inhibitor
+perhexiline	Carnitine palmitoyltransferase inhibitor
+ubenimex	Leukotriene inhibitor
+apocynin	NADPH inhibitor
+rabeprazole	Proton pump inhibitor|Gastrin inhibitor
+blebbistatin	ATPase inhibitor
+trilostane	3beta-hydroxy-delta5-steroid dehydrogenase inhibitor
+tiletamine	Glutamate receptor antagonist
+ryanodine	Calcium channel blocker
+rifampicin	RNA polymerase inhibitor
+BRD-K15107389	Ribosomal protein inhibitor
+OBAA	Phospholipase inhibitor
+L-690330	Inositol monophosphatase inhibitor
+pelitinib	EGFR inhibitor
+indatraline	Norepinephrine inhibitor
+indapamide	Thiazide diuretic
+TAS-103	Topoisomerase inhibitor
+lerisetron	Serotonin receptor antagonist
+EMF-BCA1-57	Caspase inhibitor
+fenretinide	Apoptosis stimulant|Retinoid receptor agonist
+tandutinib	FLT3 inhibitor|KIT inhibitor|PDGFR inhibitor
+glimepiride	Insulin secretagogue
+LY-278584	Serotonin receptor antagonist
+flutrimazole	Sterol demethylase inhibitor
+MK-1775	WEE1 kinase inhibitor
+Ro-28-1675	Glucokinase activator
+BIX-01294	DNA inhibitor|Histone lysine methyltransferase inhibitor
+loxoprofen	Cyclooxygenase inhibitor|Prostanoid receptor antagonist
+daphnetin	Protein kinase inhibitor
+flupirtine	Glutamate receptor antagonist
+LY-344864	Serotonin receptor agonist
+L-655708	GABA receptor inverse agonist
+UK-356618	Metalloproteinase inhibitor
+PI-828	PI3K inhibitor
+idalopirdine	Serotonin receptor antagonist
+miglitol	Glucosidase inhibitor
+licarbazepine	Voltage-gated sodium channel blocker
+GSK-1070916	Aurora kinase inhibitor
+amiprilose	CD antagonist
+prochlorperazine	Dopamine receptor antagonist
+CX-5461	RNA polymerase inhibitor
+methantheline	Acetylcholine receptor antagonist
+luteolin	Glucosidase inhibitor
+pyroxamide	HDAC inhibitor
+benfotiamine	Antioxidant
+estramustine-phosphate	DNA inhibitor|DNA alkylating agent|Estrogen receptor agonist|Tubulin inhibitor
+vinpocetine	Phosphodiesterase inhibitor|Sodium channel blocker
+I-CBP112	Bromodomain inhibitor
+cytarabine	Ribonucleoside reductase inhibitor
+SR-27897	CCK receptor antagonist
+BRD-K47000838	Tubulin inhibitor
+tecastemizole	Histamine receptor antagonist
+JNJ-26481585	HDAC inhibitor
+meclizine	Constitutive androstane receptor (CAR) agonist
+L-755507	Adrenergic receptor agonist
+fatostatin	SREBP inhibitor
+AZD-7545	Pyruvate dehydrogenase kinase inhibitor
+cefatrizine	Bacterial cell wall synthesis inhibitor
+GDC-0879	RAF inhibitor
+sufentanil	Opioid receptor modulator
+NSC-693868	CDK inhibitor|GSK inhibitor
+enzastaurin	PKC inhibitor
+ZM-306416	Abl inhibitor|Src inhibitor|VEGFR inhibitor
+linoleamide	ACAT inhibitor
+EI-247	IGF-1 inhibitor
+anacardic-acid	Glyceraldehyde 3-phosphate dehydrogenase inhibitor
+pimozide	Dopamine receptor antagonist
+CD-437	Retinoid receptor agonist
+proxyfan	Histamine receptor antagonist
+BRD-K76274772	Ceramidase inhibitor
+hydroxychloroquine	Antimalarial
+tamoxifen	Estrogen receptor antagonist|Selective estrogen receptor modulator (SERM)
+BRL-50481	Phosphodiesterase inhibitor
+ketotifen	Histamine receptor agonist|Leukotriene receptor antagonist|Phosphodiesterase inhibitor
+atrasentan	Endothelin receptor antagonist
+bemegride	Chemoreceptor agonist
+triamterene	Sodium channel inhibitor
+donitriptan	Serotonin receptor agonist
+nisoxetine	Norepinephrine inhibitor
+ZK-200775	Kainate receptor antagonist
+W-5	Calmodulin inhibitor
+agomelatine	Melatonin receptor agonist|Serotonin receptor antagonist
+NSI-189	Neurotrophic agent
+GP-2a	Cannabinoid receptor agonist
+enalaprilat	ACE inhibitor
+cianidanol	Fatty acid synthase inhibitor
+BMS-641988	Androgen receptor antagonist
+dantron	Laxative
+finasteride	5-alpha reductase inhibitor
+mexiletine	Sodium channel inhibitor
+meprylcaine	Anesthetic - local
+mesalazine	Cyclooxygenase inhibitor|Lipoxygenase inhibitor|Prostanoid receptor antagonist
+diazoxide	Potassium channel activator
+AC-55649	Retinoid receptor agonist
+piperine	Monoamine oxidase inhibitor
+estramustine	DNA inhibitor
+rasagiline	Monoamine oxidase inhibitor
+phenacetin	Cyclooxygenase inhibitor
+NAS-181	Serotonin receptor antagonist
+tolterodine	Acetylcholine receptor antagonist
+norethindrone	Progesterone receptor agonist
+DU-728	Structural glycoprotein antagonist
+INCA-6	Calcineurin inhibitor
+PSB-069	NTPDase inhibitor
+piroxicam	Cyclooxygenase inhibitor
+ZM-39923	JAK inhibitor
+bortezomib	NFKB inhibitor|Proteasome inhibitor
+elacridar	P-glycoprotein inhibitor
+JLK-6	Gamma secretase inhibitor|Beta amyloid inhibitor
+NGB-2904	Dopamine receptor antagonist
+bicuculline	GABA receptor antagonist
+pioglitazone	PPAR receptor agonist|Insulin sensitizer
+gimeracil	Dihydropyrimidine dehydrogenase inhibitor
+lomeguatrib	O6-alkylguanine-DNA alkyltransferase inhibitor
+BRD-K98948170	Kelch-like ECH-associated protein ligand
+BRD-K50384076	Opioid receptor antagonist
+NM-PP1	Mutant kinase inhibitor
+kakonein	GABA receptor antagonist|Serotonin receptor antagonist
+hydroxyurea	Ribonucleoside reductase inhibitor
+guanethidine	Adrenergic receptor antagonist
+BRD-K72166146	Serotonin receptor agonist
+milnacipran	Serotonin receptor antagonist
+chromanol	Potassium channel antagonist
+RU-58841	Androgen receptor antagonist
+salermide	SIRT inhibitor
+dexfenfluramine	Serotonin receptor agonist
+ipratropium	Acetylcholine receptor antagonist
+DMeOB	Glutamate receptor modulator
+sorbinil	Aldose reductase inhibitor
+alpha-estradiol	Estrogen receptor agonist
+T-0156	Phosphodiesterase inhibitor
+forskolin	Adenylyl cyclase activator
+zolmitriptan	Serotonin receptor agonist
+androstenol	GABA receptor antagonist
+dpn	Estrogen receptor agonist
+ARN-509	Androgen receptor antagonist
+colchicine	Tubulin inhibitor
+AS-605240	PI3K inhibitor
+BRD-K14609189	PPAR receptor agonist
+benzbromarone	Chloride channel blocker
+acrivastine	Histamine receptor antagonist
+diflunisal	Prostanoid receptor antagonist
+bisacodyl	Laxative
+LY-303511	Casein kinase inhibitor|PI3K inhibitor
+aminogenistein	Src inhibitor
+PF-03758309	P21 activated kinase inhibitor
+herniarin	Acetylcholinesterase inhibitor
+gabexate	Serine protease inhibitor
+iniparib	PARP inhibitor
+GSK-1292263	Glucose dependent insulinotropic receptor agonist
+physostigmine	Cholinesterase inhibitor|Acetylcholinesterase inhibitor
+Mps1-IN-1	Monopolar spindle 1 kinase inhibitor
+dimaprit	Histamine receptor agonist
+hymecromone	Monoamine oxidase inhibitor
+BE-2254	Adrenergic receptor antagonist
+SDZ-21009	Adrenergic receptor antagonist|Serotonin receptor antagonist
+dinoprostone	Prostanoid receptor agonist
+KIN001-127	ITK inhibitor
+vemurafenib	RAF inhibitor
+pseudoephedrine	Adrenergic receptor agonist
+bimatoprost	Prostanoid receptor agonist
+AM-404	Cyclooxygenase inhibitor|FAAH inhibitor|TRPV antagonist
+nitrendipine	Calcium channel blocker
+gaboxadol	GABA receptor agonist
+valproic-acid	HDAC inhibitor|GABA receptor agonist|Voltage-gated sodium channel blocker
+eugenol	Androgen receptor antagonist
+zatebradine	HCN channel antagonist
+RS-100329	Adrenergic receptor antagonist
+ALW-II-38-3	Ephrin inhibitor
+dipyridamole	Phosphodiesterase inhibitor
+arvanil	TRPV agonist
+tyrphostin-B44	EGFR inhibitor
+SB-271046	Serotonin receptor antagonist
+AT-7519	CDK inhibitor|Cell cycle inhibitor
+GSK-J4	Histone lysine demethylase inhibitor
+UBP-302	Glutamate receptor antagonist
+hydroquinidine	Antiarrhythmic
+BRD-K40853697	STAT inhibitor
+piclamilast	Phosphodiesterase inhibitor
+oxolinic-acid	Bacterial DNA inhibitor
+ulipristal	Progesterone receptor antagonist
+depudecin	HDAC inhibitor
+DPO-1	Potassium channel antagonist
+defactinib	Focal adhesion kinase inhibitor
+CP-93129	Serotonin receptor agonist
+sotrastaurin	PKC inhibitor
+AZD-9291	EGFR inhibitor
+firategrast	Integrin inhibitor
+FGIN-1-27	Inositol monophosphatase inhibitor
+glycopyrrolate	Acetylcholine receptor antagonist
+iso-olomoucine	CDK inhibitor
+ketoconazole	Sterol demethylase inhibitor
+tenoxicam	Cyclooxygenase inhibitor
+LY-2886721	Beta secretase inhibitor
+IB-MECA	Adenosine receptor agonist
+alimemazine	Histamine receptor agonist
+bazedoxifene	Selective estrogen receptor modulator (SERM)
+sobetirome	Thyroid hormone inhibitor
+BRL-15572	Serotonin receptor antagonist
+protriptyline	Tricyclic antidepressant
+lacosamide	Collapsin response mediator protein stimulant|Sodium channel blocker
+QX-314	Sodium channel inhibitor
+rosmarinic-acid	GABA receptor antagonist
+telcagepant	Calcitonin antagonist
+eugenitol	Androgen receptor antagonist|Bacterial quorum sensing inhibitor|Chromone|Monoamine oxidase inhibitor
+BAY-36-7620	Glutamate receptor antagonist
+enobosarm	Androgen receptor antagonist
+GR-113808	Serotonin receptor antagonist
+palovarotene	Retinoid receptor agonist
+pranlukast	Leukotriene receptor antagonist
+CNX-774	BTK inhibitor
+prednisolone-hemisuccinate	Glucocorticoid receptor agonist
+siramesine	Sigma receptor antagonist
+anagrelide	Phosphodiesterase inhibitor
+safingol	PKC inhibitor
+panobinostat	HDAC inhibitor
+asymmetrical-dimethylarginine	Nitric oxide synthase inhibitor
+ZD-7288	HCN channel antagonist
+trovafloxacin	Bacterial DNA inhibitor
+talniflumate	Cyclooxygenase inhibitor
+tibolone	Progesterone receptor agonist
+metoclopramide	Dopamine receptor antagonist|Serotonin receptor antagonist
+5-methoxytryptamine	Serotonin receptor agonist
+ceforanide	Penicillin binding protein inhibitor
+CGP-12177	Adrenergic receptor agonist
+omecamtiv-mecarbil	Cardiac myosin activator|Unidentified pharmacological activity
+lopinavir	HIV inhibitor
+vandetanib	EGFR inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor
+oxandrolone	Androgen receptor agonist
+VT-464	Cytochrome P450 inhibitor
+XAV-939	Tankyrase inhibitor
+ABT-724	Dopamine receptor agonist
+BRD-K75181824	Inhibitor of methyl esterification of geranylgeranylated proteins
+MC1568	HDAC inhibitor
+QL-XI-92	DDR1 inhibitor
+pasireotide	Somatostatin receptor agonist
+AS-604850	PI3K inhibitor
+torin-1	MTOR inhibitor|PI3K inhibitor
+neratinib	EGFR inhibitor
+L-152804	Neuropeptide receptor antagonist
+E-7438	Histone lysine methyltransferase inhibitor
+Ro-106-9920	NFKB inhibitor
+clindamycin	Protein synthesis inhibitor
+haloperidol	Dopamine receptor antagonist
+temozolomide	DNA alkylating agent
+fenoterol	Adrenergic receptor agonist
+roxithromycin	Bacterial 50S ribosomal subunit inhibitor
+rosiglitazone	PPAR receptor agonist|Insulin sensitizer
+rimexolone	Glucocorticoid receptor agonist
+trioxsalen	DNA inhibitor
+tetradecylthioacetic-acid	Lipid peroxidase inhibitor
+velnacrine	Cholinesterase inhibitor
+zibotentan	Endothelin receptor antagonist
+RWJ-21757	TLR agonist
+balaglitazone	Insulin sensitizer|PPAR receptor agonist
+BIBX-1382	EGFR inhibitor|Tyrosine kinase inhibitor
+SQ-22536	Adenylyl cyclase inhibitor
+floxuridine	DNA synthesis inhibitor
+BRD-K67174965	Mucolytic
+PSI-6130	RNA polymerase inhibitor
+YC-1	Guanylyl cyclase activator
+BRD-K28761384	Dopamine receptor antagonist
+purvalanol-b	CDK inhibitor
+PU-H71	HSP inhibitor
+SGC-CBP30	Bromodomain inhibitor
+rebastinib	Bcr-Abl inhibitor|TIE tyrosine kinase inhibitor|VEGFR inhibitor
+atenolol	Adrenergic receptor antagonist
+K-858	Kinesin inhibitor
+mazindol	Dopamine receptor antagonist|Serotonin reuptake inhibitor
+CO-102862	Sodium channel inhibitor
+progesterone	Progesterone receptor agonist
+TGX-115	PI3K inhibitor
+AM-404	Cyclooxygenase inhibitor
+cefozopran	Bacterial cell wall synthesis inhibitor
+kynuramine	Aryl hydrocarbon receptor activator
+moxidectin	Chloride channel blocker
+ML-7	Muscle relaxant
+berberine	LDL receptor activator
+carmoxirole	Dopamine receptor agonist
+mesulergine	Dopamine receptor agonist
+carteolol	Adrenergic receptor antagonist
+terazosin	Adrenergic receptor antagonist
+quinoclamine	Algicide
+polydatin	ICAM1 inhibitor
+BRD-K14329163	Calcium channel activator
+BRD-K74430258	Organic compound
+rimantadine	Antiviral|RNA synthesis inhibitor
+scoulerine	Adrenergic receptor antagonist|GABA receptor antagonist|Serotonin receptor antagonist
+eplerenone	Cytochrome P450 inhibitor
+VX-661	CFTR channel agonist
+GNF-2	Bcr-Abl inhibitor
+erythromycin-ethylsuccinate	Cytochrome P450 inhibitor|Motilin receptor agonist|NFKB inhibitor|Protein synthesis inhibitor
+methylnaltrexone	Opioid receptor antagonist
+GW-5074	RAF inhibitor|LRRK inhibitor
+flavanone	11-beta-HSD1 inhibitor
+CCT-018159	HSP inhibitor
+hexylcaine	Sodium channel inhibitor
+RS-67333	Serotonin receptor agonist
+LY-2228820	P38 MAPK inhibitor
+andarine	Androgen receptor antagonist
+nemonapride	Dopamine receptor antagonist
+citalopram	Serotonin receptor antagonist
+quinethazone	Thiazide diuretic
+naringenin	Aromatase inhibitor
+parecoxib	Cyclooxygenase inhibitor
+BRD-K63954456	TNF production inhibitor
+carprofen	Cyclooxygenase inhibitor
+valdecoxib	Cyclooxygenase inhibitor
+rucinol	Tyrosinase inhibitor
+equol	Estrogen receptor agonist
+salmeterol	Adrenergic receptor agonist
+LGX-818	RAF inhibitor
+estropipate	Estrogen receptor agonist
+beta-CCP	Indoleamine 2,3-dioxygenase inhibitor
+ftorafur	Thymidylate synthase inhibitor
+cefoperazone	Bacterial cell wall synthesis inhibitor
+MK-8033	MET inhibitor
+RS-67506	Serotonin receptor agonist
+EMD-386088	Serotonin receptor agonist
+adoprazine	Dopamine receptor antagonist|Serotonin receptor agonist
+tapentadol	Opioid receptor agonist
+BI-78D3	JNK inhibitor
+delapril	ACE inhibitor
+EO-1428	P38 MAPK inhibitor
+glasdegib	Hedgehog pathway inhibitor
+brequinar	Dihydroorotate dehydrogenase inhibitor
+diclofenac	Cyclooxygenase inhibitor
+SB-216763	GSK inhibitor
+SMER-28	Autophagy inducer
+androstenedione	Cytochrome P450 inhibitor
+epirubicin	Topoisomerase inhibitor
+meropenem	Bacterial cell wall synthesis inhibitor
+eliprodil	Glutamate receptor antagonist
+BRD-K26947839	NADPH inhibitor
+mibefradil	T-type calcium channel blocker
+escitalopram	Selective serotonin reuptake inhibitor (SSRI)
+trientine	Chelating agent
+ketoprofen	Cyclooxygenase inhibitor
+SB-200646	Serotonin receptor antagonist
+nomifensine	Dopamine receptor antagonist|Noradrenaline uptake inhibitor
+masitinib	KIT inhibitor|PDGFR inhibitor|Src inhibitor
+sulfabenzamide	Bacterial antifolate
+doxofylline	Adenosine receptor antagonist
+rosuvastatin	HMGCR inhibitor
+penfluridol	Calcium channel blocker
+pipamperone	Dopamine receptor antagonist
+tofacitinib	JAK inhibitor
+BRD-K01265221	BCL inhibitor
+LY-364947	TGF-beta receptor inhibitor|P38 MAPK inhibitor
+GDC-0152	XIAP inhibitor
+AEG-3482	HSP inducer|Protein kinase inhibitor
+KBG	Neprilysin inhibitor
+NU-1025	PARP inhibitor|DNA dependent protein kinase inhibitor
+sibutramine	Serotonin receptor antagonist
+warfarin	Vitamin K antagonist
+thiazovivin	Rho associated kinase inhibitor
+SEW-2871	Lysophospholipid receptor agonist
+L-690488	Inositol monophosphatase inhibitor
+BRD-K59058747	Mucolytic
+BMY-14802	Sigma receptor antagonist
+ifenprodil	Adrenergic receptor antagonist|Glutamate receptor antagonist
+avanafil	Phosphodiesterase inhibitor
+diphemanil	Acetylcholine receptor antagonist
+GR-144053	Integrin inhibitor
+BRD-K63750851	Dehydrogenase inhibitor|Inositol monophosphatase inhibitor
+tirapazamine	DNA inhibitor
+chlormezanone	GABA receptor antagonist
+SB-218078	CHK inhibitor
+BRD-K95992530	Integrin inhibitor
+asiaticoside	Carcinogen
+LY-2183240	FAAH inhibitor
+SB-225002	CC chemokine receptor antagonist
+trimethobenzamide	Histamine receptor antagonist
+etazolate	Phosphodiesterase inhibitor
+BRD-A93048969	Acetylcholine receptor antagonist
+donepezil	Acetylcholinesterase inhibitor
+BRD-A77577770	Protein kinase inhibitor
+TIC-10	AKT inhibitor|TRAIL modulator
+succinylsulfathiazole	Dihydrofolate reductase inhibitor
+telatinib	KIT inhibitor|PDGFR inhibitor|VEGFR inhibitor
+ICI-192605	Thromboxane receptor antagonist
+nelarabine	DNA inhibitor|T cell inhibitor
+SB-431542	TGF-beta receptor inhibitor
+taltirelin	Thyrotropin releasing hormone receptor agonist
+vicriviroc	CC chemokine receptor antagonist
+K-02288	Bone resorption inhibitor
+DL-PDMP	Glucosyltransferase inhibitor
+radicicol	HSP inhibitor
+cepharanthine	NFKB inhibitor
+retinyl	Vitamin analog
+4-IBP	Sigma receptor agonist
+sulindac	Cyclooxygenase inhibitor
+nifekalant	Potassium channel antagonist
+fenobam	Glutamate receptor antagonist
+irbesartan	Angiotensin receptor antagonist
+BRD-K61734568	BCL inhibitor
+relcovaptan	Vasopressin receptor antagonist
+clofibric-acid	PPAR receptor agonist
+WAY-213613	Glutamate inhibitor
+acetohexamide	ATP channel blocker
+methylene-blue	Nitric oxide production inhibitor|Guanylyl cyclase inhibitor|Monoamine oxidase inhibitor|Tau aggregation inhibitor
+sertindole	Dopamine receptor antagonist|Serotonin receptor antagonist
+JZL-184	Monoacylglycerol lipase inhibitor
+BRD-K78883024	Neuropeptide receptor antagonist
+chlorogenic-acid	Antioxidant
+2-phenylmelatonin	Melatonin receptor agonist
+CGK-733	ATM kinase inhibitor|ATR kinase inhibitor
+YM-155	Survivin inhibitor
+rimcazole	Sigma receptor antagonist
+clofazimine	Bacterial DNA inhibitor
+ONO-4059	BTK inhibitor
+BRD-K46678324	Rho associated kinase inhibitor
+brefeldin-a	Protein synthesis inhibitor|BIG1 inhibitor
+homochlorcyclizine	Antihistamine
+letrozole	Aromatase inhibitor
+dichlorobenzamil	Sodium channel inhibitor
+BRD-K97440753	Adrenergic receptor antagonist|Prolactin inhibitor
+GR-103691	Dopamine receptor antagonist
+phylloquinone	Vitamin K
+teniposide	Topoisomerase inhibitor
+bopindolol	Adrenergic receptor antagonist
+semagacestat	Gamma secretase inhibitor
+homoveratrylamine	Dopamine analog
+broxuridine	Antimetabolite
+midostaurin	FLT3 inhibitor|KIT inhibitor|PKC inhibitor
+BRD-A81377415	DYRK inhibitor
+CGP-13501	GABA receptor antagonist
+clioquinol	Chelating agent
+alpelisib	PI3K inhibitor
+FTI-276	Farnesyltransferase inhibitor
+triacetylresveratrol	p53 activator
+fananserin	Dopamine receptor antagonist|Serotonin receptor antagonist
+pinitol	Gamma secretase inhibitor
+olvanil	TRPV agonist
+SU-014813	PDGFR inhibitor|VEGFR inhibitor
+TC-H-106	HDAC inhibitor
+importazole	Importin inhibitor
+BMS-299897	Gamma secretase inhibitor
+guanabenz	Adrenergic receptor agonist
+equilin	Estrogen receptor agonist
+sertaconazole	Sterol demethylase inhibitor
+BRD-K06817181	JAK inhibitor
+promazine	Dopamine receptor antagonist
+ZK-93426	Benzodiazepine receptor antagonist
+racephedrine	Adrenergic receptor agonist
+tribenoside	Anti-inflammatory|Capillary stabilizing agent
+oxiperomide	Dopamine receptor antagonist
+rigosertib	Cell cycle inhibitor|PLK inhibitor
+bulleyaconitine-a	Analgesic
+KD-023	ACAT inhibitor
+levobunolol	Adrenergic receptor antagonist
+ecopipam	Dopamine receptor antagonist
+vesamicol	Acetylcholinesterase inhibitor
+2-iminobiotin	Nitric oxide synthase inhibitor
+CP-724714	Tyrosine kinase inhibitor|EGFR inhibitor
+GSK-461364	PLK inhibitor
+brivanib	FGFR inhibitor|VEGFR inhibitor
+scopoline	Acetylcholine receptor antagonist
+amiloride	Sodium channel inhibitor
+gentamycin-sulfate	Bacterial 50S ribosomal subunit inhibitor
+AT-7867	AKT inhibitor
+chlorpropamide	ATP channel blocker
+epibatidine	Acetylcholine receptor agonist
+tolbutamide	ATP channel blocker
+MBCQ	Phosphodiesterase inhibitor
+NVP-TAE226	Protein tyrosine kinase inhibitor
+BCL2-inhibitor	BCL inhibitor
+daidzein	Estrogen receptor agonist
+ramipril	ACE inhibitor
+dimpylate	Acetylcholinesterase inhibitor
+BRD-K41141507	Androgen receptor antagonist|Progesterone receptor agonist|Testosterone receptor antagonist
+butaclamol	Dopamine receptor antagonist
+betahistine	Histamine receptor agonist|Histamine receptor antagonist
+XMD-885	MAP kinase inhibitor
+carvedilol	Adrenergic receptor antagonist
+copanlisib	PI3K inhibitor
+fluocinolone	Glucocorticoid receptor agonist
+desmethylclozapine	Acetylcholine receptor agonist
+lisofylline	Interleukin inhibitor|STAT inhibitor
+obatoclax	BCL inhibitor
+maribavir	Protein kinase inhibitor
+salsolinol	Monoamine oxidase inhibitor|Tyrosine hydroxylase inhibitor
+denbufylline	Phosphodiesterase inhibitor
+L-741626	Dopamine receptor antagonist
+purmorphamine	Smoothened receptor agonist
+dexniguldipine	Calmodulin inhibitor
+benzonatate	Anesthetic - local
+AM-92016	Potassium channel antagonist
+cinanserin	Serotonin receptor antagonist
+zardaverine	Phosphodiesterase inhibitor
+BRD-K16133773	17,20 lyase inhibitor|Cytochrome P450 inhibitor|Steroid sulfatase inhibitor|Androgen biosynthesis inhibitor
+otenzepad	Acetylcholine receptor antagonist
+ML-161	Protease inhibitor
+CGP-52432	GABA receptor antagonist
+BRD-K02581333	Tyrosine phosphatase inhibitor
+ticlopidine	Purinergic receptor antagonist
+dipropyl-5ct	Serotonin receptor agonist
+fenbendazole	Tubulin inhibitor
+catechin	Beta secretase inhibitor|Fatty acid synthase inhibitor|LDL antioxidants
+racecadotril	Enkephalinase inhibitor
+SKF-81297	Dopamine receptor agonist
+GR-206	Aryl hydrocarbon receptor ligand
+fenbufen	Cyclooxygenase inhibitor
+enalapril	ACE inhibitor
+alfadolone-acetate	GABA receptor agonist
+BRD-K04923131	GSK inhibitor|Lipoxygenase inhibitor
+BRD-A80383043	Glutamate receptor agonist|Glutamate receptor antagonist
+thiostrepton	Protein synthesis inhibitor
+amitriptyline	Norepinephrine inhibitor|Norepinephrine reuptake inhibitor|Serotonin receptor antagonist|Serotonin reuptake inhibitor
+PD-184352	MEK inhibitor
+KIN001-055	EGFR inhibitor|JAK inhibitor|Leukotriene inhibitor|Mediator release inhibitor
+I-OMe-AG-538	IGF-1 inhibitor
+W-9	Calmodulin inhibitor
+lofexidine	Adrenergic receptor agonist
+levothyroxine	Thyroid hormone stimulant
+dantrolene	Calcium channel blocker
+rescinnamine	ACE inhibitor
+pimobendan	Calcium channel blocker|Phosphodiesterase inhibitor
+baricitinib	JAK inhibitor
+skatole	Thrombin inhibitor
+levomequitazine	Histamine receptor antagonist
+Y-39983	Rho associated kinase inhibitor
+puromycin	Protein synthesis inhibitor
+fursultiamine	Vitamin B
+budesonide	Glucocorticoid receptor agonist
+VX-809	CFTR channel agonist
+LCQ-908	Diacylglycerol O acyltransferase inhibitor
+T-0901317	LXR agonist|ABC transporter expression enhancer|ROR inverse agonist
+nerol	Polyamine biosynthesis inhibitor
+oxymetholone	Androgen receptor agonist
+BRD-K52640952	Topoisomerase inhibitor
+maprotiline	Norepinephrine reuptake inhibitor|Tricyclic antidepressant
+NNC-55-0396	Calcium channel blocker
+fluorouracil	Thymidylate synthase inhibitor
+targinine	Nitric oxide synthase inhibitor
+JTE-907	Cannabinoid receptor antagonist
+BRD-A20131130	Adenylyl cyclase inhibitor
+EMD-53998	Phosphodiesterase inhibitor
+NBI-27914	CRF receptor antagonist
+RS-16566	Serotonin receptor antagonist
+diphencyprone	Immunostimulant
+BRD-K50495309	Src inhibitor
+hydroxyfasudil	Rho associated kinase inhibitor
+DPI-201106	Sodium channel activator
+saracatinib	Src inhibitor
+molindone	Dopamine receptor antagonist
+inhibitor-BEC	Arginase inhibitor
+enoxolone	Gap junction modulator
+vanoxerine	Dopamine receptor antagonist
+rizatriptan	Serotonin receptor agonist
+MK-5108	Aurora kinase inhibitor
+empagliflozin	Sodium channel inhibitor
+PD-123319	Angiotensin antagonist
+reichstein	Androgen receptor antagonist
+BRD-K14696368	NFKB inhibitor
+2-aminopurine	Serine/threonine kinase inhibitor
+capecitabine	DNA inhibitor|Thymidylate synthase inhibitor
+cabazitaxel	Tubulin inhibitor
+foretinib	VEGFR inhibitor
+ethylenediaminetetraacetic-acid	PKC inhibitor
+hexamethylenebisacetamide	AKT inhibitor|Differentiation inducer|NFKB inhibitor
+tebipenem	Bacterial cell wall synthesis inhibitor
+KPT-185	Exportin antagonist
+wnt-c59	Porcupine inhibitor
+NECA	Adenosine receptor agonist
+olmesartan-medoxomil	Angiotensin receptor antagonist
+BRD-K76674262	Protein synthesis inhibitor
+guanadrel	Adrenergic inhibitor
+tebuthiuron	Photosynthesis inhibitor
+PS-178990	Androgen receptor antagonist
+JW-74	WNT inhibitor|Tankyrase inhibitor
+atipamezole	Adrenergic receptor antagonist
+TCB2	Serotonin receptor agonist
+austricine	Hypolipidemic
+stiripentol	GABA receptor antagonist
+rotundine	Serotonin receptor agonist
+idoxuridine	DNA inhibitor
+hydrastinine	Haemostatic agent
+amtolmetin-guacil	Cyclooxygenase inhibitor
+benzopurpurin-4b	Binds HIV gp120 and inhibits HIV-1 entry into the neural cell line SK-N-MC
+3-CPMT	Dopamine receptor antagonist
+sulforaphane	Carcinogen|Aryl hydrocarbon receptor antagonist
+ceramide	Serine/threonine protein phosphatase activator
+L-168049	Glucagon receptor antagonist
+orlistat	Lipase inhibitor
+tiludronate	Bone resorption inhibitor|Osteoclast inhibitor
+tianeptine	Selective serotonin reuptake inhibitor (SSRI)
+UNC-1215	L3MBTL antagonist
+quercetagetin	PIM inhibitor
+MK-3207	Calcitonin antagonist
+IOWH-032	CFTR channel antagonist
+ezetimibe	Cholesterol inhibitor|Niemann-Pick C1-like 1 protein antagonist
+BRD-A15914070	Carcinogen
+piketoprofen	Cyclooxygenase inhibitor
+carmofur	Thymidylate synthase inhibitor
+epoxycholesterol	LXR agonist
+SGI-1776	PIM inhibitor
+ATPA	Glutamate receptor agonist
+xanthinol	Vasodilator
+flumazenil	Benzodiazepine receptor antagonist
+RG-7388	MDM inhibitor
+sulfamerazine	Bacterial antifolate
+bitopertin	Glycine transporter inhibitor
+BRD-K99615199	Progesterone receptor agonist
+imiloxan	Adrenergic receptor antagonist
+P-22077	Ubiquitin specific protease inhibitor
+dyclonine	Sodium channel inhibitor
+enalapril	Angiotensin converting enzyme inhibitor
+ATN-161	Integrin inhibitor
+sildenafil	Phosphodiesterase inhibitor
+spironolactone	Mineralocorticoid receptor antagonist
+foliosidine	Plant alkaloid
+ataluren	CFTR channel agonist|Dystrophin stimulant
+IOX-1	Histone lysine demethylase inhibitor
+flupentixol	Dopamine receptor antagonist
+cefotiam	Bacterial cell wall synthesis inhibitor
+ZK-93423	Benzodiazepine receptor agonist
+AMG-208	Tyrosine kinase inhibitor
+GYKI-52466	Glutamate receptor antagonist|Kainate receptor antagonist
+CGP-7930	GABA receptor antagonist|GABA receptor agonist
+folic-acid	Folate receptor ligand
+SA-94315	Caspase inhibitor
+afloqualone	Acetylcholine receptor antagonist
+oxibendazole	Tubulin inhibitor
+tamoxifen	Selective estrogen receptor modulator
+L-741742	Dopamine receptor antagonist
+BRD-K61463582	Aryl hydrocarbon receptor agonist
+deltaline	Acetylcholine receptor antagonist
+reboxetine	Adrenergic receptor antagonist
+DR-2313	PARP inhibitor
+PCI-34051	HDAC inhibitor
+epinastine	Histamine receptor antagonist
+propafenone	Antiarrhythmic
+dydrogesterone	Progesterone receptor agonist
+aripiprazole	Serotonin receptor agonist|Serotonin receptor antagonist
+niflumic-acid	Cyclooxygenase inhibitor
+resorcinol	Phosphodiesterase inhibitor
+3-matida	Glutamate receptor antagonist
+ergocornine	Dopamine receptor agonist
+NCH-51	HDAC inhibitor
+deoxycorticosterone-acetate	Progestogen hormone
+naproxol	Anti-inflammatory
+AZD-5438	CDK inhibitor
+allopurinol	Xanthine oxidase inhibitor
+tiotropium	Acetylcholine receptor antagonist
+ischemin	CBP bromodomain inhibitor
+trimethadione	Oxazolidine antiepileptic
+cyclizine	Histamine receptor antagonist
+DMBI	PDGFR inhibitor|VEGFR inhibitor
+RS-102221	Serotonin receptor antagonist
+dosulepin	Norepinephrine inhibitor|Serotonin reuptake inhibitor|Tricyclic antidepressant
+clomifene	Estrogen receptor antagonist
+KU-C103871	GSP agonist
+EVP-6124	Acetylcholine receptor agonist
+memantine	Glutamate receptor antagonist
+immethridine	Histamine receptor agonist
+NSC-94258	Carcinogen
+GMX-1778	NAMPT inhibitor
+amuvatinib	FLT3 inhibitor|KIT inhibitor|PDGFR inhibitor|RAD51 inhibitor|RET tyrosine kinase inhibitor
+apixaban	Coagulation factor inhibitor
+tiagabine	GABA receptor antagonist
+roquinimex	Angiogenesis inhibitor|TNF inhibitor
+ciprofloxacin	Bacterial DNA Gyrase inhibitor
+ipsapirone	Serotonin receptor agonist
+anpirtoline	Serotonin receptor agonist
+VU-0400193-3	Glutamate receptor antagonist
+SC-12267	Dihydroorotate dehydrogenase inhibitor
+phenothiazine	Dopamine receptor antagonist
+GW-0742	PPAR receptor agonist|Insulin sensitizer
+etoricoxib	Cyclooxygenase inhibitor
+WYE-354	MTOR inhibitor
+ricinine	Casein kinase inhibitor
+dioxybenzone	Topical sunscreen agent
+BRD-K20620780	Dopamine receptor antagonist
+nefazodone	Serotonin receptor antagonist|Adrenergic receptor antagonist|Norepinephrine reuptake inhibitor|Serotonin reuptake inhibitor
+GSK-2110183	AKT inhibitor
+BRD-K34533029	EGFR inhibitor
+TH-302	DNA alkylating agent
+TG-100801	Src inhibitor|VEGFR inhibitor
+trihexyphenidyl	Acetylcholine receptor antagonist
+PF-543	Sphingosine kinase inhibitor
+amlexanox	Histamine receptor antagonist
+benazepril	Angiotensin converting enzyme inhibitor
+pemoline	Dopamine receptor agonist
+limonin	HIV inhibitor
+PD-123319	ACE inhibitor
+SEP-227900	D-Amino Acid Oxidase Inhibitor
+sulmazole	Adenosine receptor antagonist
+fluconazole	Sterol demethylase inhibitor
+betamethasone-acetate	Glucocorticoid receptor agonist
+oligomycin-a	ATP synthase inhibitor
+quinidine	Sodium channel inhibitor
+BMS-345541	IKK inhibitor
+avasimibe	ACAT inhibitor
+3-deazaadenosine	Adenosylhomocysteinase inhibitor
+H-89	PKA inhibitor
+BRD-K31342827	CDK inhibitor|PKC inhibitor
+MC-1293	HDAC inhibitor
+BRL-54443	Serotonin receptor agonist
+CGP-52411	EGFR inhibitor
+oxyphenonium	Cholinergic receptor antagonist
+SIB-1893	Glutamate receptor antagonist
+O-1918	Cannabinoid receptor antagonist
+L-368899	Oxytocin receptor antagonist
+sphingosine	Ceramidase inhibitor
+BIX-02188	MEK inhibitor
+brucine	Glycine receptor antagonist
+vardenafil	Phosphodiesterase inhibitor
+ivermectin	GABA receptor agonist
+SB-221284	Serotonin receptor antagonist
+A-443654	AKT inhibitor
+suloctidil	Adrenergic receptor antagonist
+rotenonic-acid	Retinoid receptor antagonist
+ebelactone-b	Lipase inhibitor
+masoprocol	Lipoxygenase inhibitor
+deracoxib	Cyclooxygenase inhibitor
+GANT-58	GLI antagonist
+AT-406	IAP antagonist
+PD-166793	Metalloproteinase inhibitor
+cytarabine	Ribonucleotide reductase inhibitor
+PNU-22394	Serotonin receptor agonist
+NVP-AEW541	IGF-1 inhibitor
+oxfendazole	Anthelmintic
+arglabin	Farnesyltransferase inhibitor
+PF-477736	CHK inhibitor
+atracurium	Acetylcholine receptor antagonist
+quipazine	Serotonin receptor agonist
+nepafenac	Cyclooxygenase inhibitor
+bezafibrate	PPAR receptor agonist
+tivantinib	Tyrosine kinase inhibitor
+mocimycin	Protein synthesis inhibitor
+MY-5445	Phosphodiesterase inhibitor|Platelet aggregation inhibitor
+apomorphine	Dopamine receptor agonist
+resminostat	HDAC inhibitor
+A-66	PI3K inhibitor
+AGN-192403	Imidazoline receptor ligand
+lavendustin-a	EGFR inhibitor
+mead-acid	KPL-1 tumor suppressor
+KU-C103443N	CDC inhibitor|Rho associated kinase inhibitor
+propranolol	Adrenergic receptor antagonist
+phenytoin	Hydantoin antiepileptic
+prima-1-met	Thioredoxin inhibitor
+acalabrutinib	BTK inhibitor
+lersivirine	Non-nucleoside reverse transcriptase inhibitor
+SRPIN-340	Serine arginine protein kinase inhibitor
+erastin	Ion channel antagonist
+tesaglitazar	Insulin sensitizer|PPAR receptor agonist
+sulfacetamide	PABA antagonist
+lamivudine	Nucleoside reverse transcriptase inhibitor
+tobramycin	Bacterial 30S ribosomal subunit inhibitor
+TER-14687	Inhibitor of translocation of PKCq in T cells
+nimodipine	Calcium channel blocker
+3-methyl-GABA	GABA aminotransferase activator
+ML-3163	P38 MAPK inhibitor
+metergoline	Dopamine receptor agonist|Serotonin receptor antagonist
+nintedanib	FGFR inhibitor|PDGFR inhibitor|VEGFR inhibitor
+LXR-623	LXR agonist
+ropinirole	Dopamine receptor agonist
+mefexamide	Psychoactive drug
+iocetamic-acid	Radiopaque medium
+fluperlapine	Serotonin receptor antagonist
+SB-206553	Serotonin receptor antagonist
+SCH-58261	Adenosine receptor antagonist
+NNC-63-0532	Opioid receptor agonist
+tangeritin	Cell cycle inhibitor
+AG-490	EGFR inhibitor|ERBB2 inhibitor|JAK inhibitor
+CI-966	GAT inhibitor
+Gossypetin	DNA inhibitor
+AMG-232	MDM inhibitor
+montelukast	Leukotriene receptor antagonist
+amcinonide	Glucocorticoid receptor agonist
+norketamine	Glutamate receptor antagonist
+splitomycin	SIRT inhibitor
+dipivefrine	Adrenergic receptor agonist
+alitretinoin	Retinoid receptor agonist
+RX-821002	Adrenergic receptor antagonist
+L-732138	Tachykinin antagonist
+triciribine	Akt inhibitor
+thenoyltrifluoroacetone	Chelating agent
+cladribine	Adenosine deaminase inhibitor|Ribonucleoside reductase inhibitor
+palonosetron	Serotonin receptor antagonist
+SID-26681509	Cathepsin inhibitor
+clofarabine	Ribonucleoside reductase inhibitor
+1-EBIO	Potassium channel activator
+TG-101348	JAK inhibitor|FLT3 inhibitor
+BAY-59-3074	Cannabinoid receptor antagonist
+gemcitabine	Ribonucleoside reductase inhibitor
+methyllidocaine	Antiarrhythmic
+JNJ-7706621	CDK inhibitor
+levalbuterol	Adrenergic receptor agonist
+BRD-K37940862	Neuropeptide receptor antagonist
+thiomersal	Antibiotic
+gemifloxacin	Bacterial DNA inhibitor
+BRD-K68873215	Phosphodiesterase inhibitor
+profenamine	Butyrylcholinesterase inhibitor|Cholinergic receptor antagonist
+erythromycin-estolate	Bacterial 50S ribosomal subunit inhibitor
+indirubin	CDK inhibitor|GSK inhibitor
+1-monopalmitin	P-glycoprotein inhibitor
+acenocoumarol	Vitamin K antagonist
+isoxicam	Cyclooxygenase inhibitor
+tranilast	Angiogenesis inhibitor
+siguazodan	Phosphodiesterase inhibitor
+BRD-K59222562	DYRK inhibitor
+indoramin	Adrenergic receptor antagonist
+nitrocaramiphen	Cholinergic receptor antagonist
+SR-142948	Neurotensin receptor antagonist
+biotin	Vitamin B
+BAPTA-AM	Potassium channel antagonist
+KO-143	Breast cancer resistance protein inhibitor
+terreic-acid	BTK inhibitor
+aminoindazole	Ionophore
+ambroxol	Sodium channel inhibitor
+MEK-162	MEK inhibitor
+AMG-487	CC chemokine receptor antagonist
+mycophenolate-mofetil	Inosine monophosphate dehydrogenase inhibitor|Dehydrogenase inhibitor|Hydroxycarboxylic acid receptor agonist|Immunosuppressant|Inositol monophosphatase inhibitor
+azaperone	Dopamine receptor antagonist
+BRD-U01690642	Isoprenylated protein methylation inhibitor
+carmustine	DNA alkylating agent|DNA inhibitor
+pyrvinium-pamoate	Androgen receptor antagonist|AKT inhibitor
+butenafine	Fungal squalene epoxidase inhibitor
+linsidomine	Nitric oxide donor
+MLN-9708	Proteasome inhibitor
+latanoprost	Prostanoid receptor agonist
+ipriflavone	Bone resorption inhibitor
+piromidic-acid	Bacterial DNA inhibitor
+AZD-5363	AKT inhibitor
+SU-11274	HGF receptor inhibitor|Tyrosine kinase inhibitor
+swainsonine	Alpha mannosidase inhibitor
+WAY-362450	FXR agonist
+estrone	Estrogen receptor agonist|Estrogenic hormone
+sparfloxacin	Bacterial DNA Gyrase inhibitor
+LY-2109761	TGF-beta receptor inhibitor
+rufloxacin	Bacterial DNA Gyrase inhibitor
+oxyquinoline	Chelating agent
+disulfiram	Aldehyde dehydrogenase inhibitor|DNA methyltransferase inhibitor|TRPV agonist
+SDZ-205-557	Serotonin receptor antagonist
+pinacidil	ATP channel activator|Potassium channel activator
+wortmannin	PI3K inhibitor
+vinpocetine	Phosphodiesterase inhibitor
+PD-128907	Dopamine receptor agonist
+beclometasone	Glucocorticoid receptor agonist
+cyclobenzaprine	Adrenergic receptor agonist|Serotonin receptor agonist
+FGIN-1-43	Benzodiazepine receptor agonist
+dilazep	Adenosine receptor antagonist
+KU-55933	ATM kinase inhibitor
+tirasemtiv	Troponin activator
+PK-11195	Benzodiazepine receptor antagonist
+diethylcarbamazine	Lipoxygenase inhibitor
+FR-139317	Endothelin receptor antagonist
+pseudopelletierine	Anthelmintic
+clozapine	Serotonin receptor antagonist|Dopamine receptor antagonist
+guanadrel	Adrenergic receptor antagonist
+ABT-751	Tubulin inhibitor
+diosmin	Aryl hydrocarbon receptor agonist|Capillary stabilizing agent
+ziprasidone	Dopamine receptor antagonist|Serotonin receptor antagonist
+PSB-1115	Adenosine receptor antagonist
+mitiglinide	Insulin secretagogue
+alosetron	Serotonin receptor antagonist
+bepridil	Calcium channel blocker
+BML-259	CDK inhibitor
+telbivudine	DNA inhibitor
+efavirenz	HIV inhibitor
+ornidazole	Antiprotozoal
+MDL-28170	Calpain inhibitor
+mometasone	Glucocorticoid receptor agonist
+DUP-697	Cyclooxygenase inhibitor
+taurodeoxycholic-acid	Bile acid
+brompheniramine	Histamine receptor antagonist
+articaine	Anesthetic - local
+narlaprevir	HCV inhibitor
+daunorubicin	Topoisomerase inhibitor
+PF-04620110	Diacylglycerol O acyltransferase inhibitor
+scriptaid	HDAC inhibitor
+iobenguane	Carcinogen
+taurocholic-acid	G protein-coupled receptor agonist
+skimmianine	Acetylcholinesterase inhibitor|Furoquinoline alkaloid
+SU-4312	Tyrosine kinase inhibitor
+BP-554	Serotonin receptor agonist
+sulfamonomethoxine	Bacterial antifolate
+basimglurant	Glutamate receptor antagonist
+methyldopa	Adrenergic receptor agonist
+DASB	Serotonin receptor antagonist
+BS-181	CDK inhibitor
+serotonin	Growth factor receptor activator
+R-96544	Serotonin receptor antagonist
+camptothecin	Topoisomerase inhibitor
+isorotenone	Mitochondrial inhibitor|NADH-ubiquinone oxidoreductase (Complex I) inhibitor
+resveratrol	Cytochrome P450 inhibitor
+gliquidone	Sulfonylurea
+faropenem	Lactamase inhibitor
+BRD-A95513702	Aromatase inhibitor
+pirlindole	Monoamine oxidase inhibitor
+HDAC1-selective	HDAC inhibitor
+aminolevulinic-acid	Oxidizing agent
+bromhexine	Mucolytic
+voreloxin	Topoisomerase inhibitor
+SC-10	Protein kinase activator
+oxindole-I	VEGFR inhibitor
+butabindide	Tripeptidyl peptidase inhibitor
+betulinic-acid	Apoptosis stimulant|Caspase activator|Diacylglycerol O acyltransferase inhibitor|HIV integrase inhibitor|NFKB activator|SARS coronavirus 3C-like protease inhibitor|Topoisomerase inhibitor
+isbufylline	Phosphodiesterase inhibitor
+arctigenin	MEK inhibitor
+PP-1	Src inhibitor|Abl inhibitor
+BRD-A49680073	JAK inhibitor|Lipocortin synthesis stimulant|STAT inhibitor
+tocainide	Sodium channel inhibitor
+STA-5326	Interleukin inhibitor
+BRD-A49544621	Urotensin receptor agonist
+amantadine	Glutamate receptor antagonist
+tacrine	Acetylcholinesterase inhibitor
+clenbuterol	Adrenergic receptor agonist
+BRD-A13133631	Glucocorticoid receptor agonist
+budipine	Glutamate receptor antagonist
+narciclasine	LIM kinase activator|Rho associated kinase activator
+pinocembrin	CYP1B1 inhibitor
+BRD-K79437791	Inhibitor of methylation of endogenous isoprenylated proteins
+caffeic-acid	Tumor necrosis factor production inhibitor
+zaldaride	Calmodulin inhibitor
+ML-193	G protein-coupled receptor antagonist
+ethisterone	Progestogen hormone
+AM-251	Cannabinoid receptor antagonist
+capecitabine	DNA synthesis inhibitor|Thymidylate synthase inhibitor
+GSK-256066	Phosphodiesterase inhibitor
+nocodazole	Tubulin inhibitor
+GBR-13069	Dopamine uptake inhibitor
+BW-B70C	Lipoxygenase inhibitor
+ilomastat	Matrix metalloprotease inhibitor
+AICA-ribonucleotide	AMPK activator
+BRD-K38310698	Protein synthesis inhibitor
+D-64406	PDGFR inhibitor
+ozagrel	Thromboxane synthase inhibitor
+preladenant	Adenosine receptor antagonist
+BAS-09104376	HIV inhibitor
+pirenoxine	AGE inhibitor
+LCL-161	XIAP inhibitor
+naftifine	Fungal squalene epoxidase inhibitor
+desipramine	Tricyclic antidepressant
+etifenin	Compound used in hepatobiliary scans of the liver
+thioperamide	Histamine receptor antagonist
+epothilone-a	Tubulin inhibitor
+Ro-16-6941	Monoamine oxidase inhibitor
+BRD-A66861218	Anti-inflammatory agent
+nizofenone	Ion channel antagonist
+NAN-190	Serotonin receptor agonist
+nalidixic-acid	Bacterial DNA inhibitor
+harpagoside	Acetylcholinesterase inhibitor
+BRD-K61033289	PPAR receptor agonist
+quetiapine	Serotonin receptor antagonist
+BRD-K29542628	Src inhibitor
+SC-9	Protein synthesis stimulant
+paracetamol	Cyclooxygenase inhibitor
+GSK-J1	Histone demethylase inhibitor
+AM-630	Cannabinoid receptor antagonist
+cariporide	Sodium channel inhibitor
+SM-21	Sigma receptor antagonist
+prothionamide	Mycobacterium tuberculosis enoyl-[acyl-carrier-protein] reductase [NADH] (inhA) inhibitor
+ZK-811752	CC chemokine receptor antagonist
+risperidone	Dopamine receptor antagonist|Serotonin receptor antagonist
+BRD-K23922020	Acetylcholine receptor agonist
+BRD-A05680309	Caspase activator
+SB-334867	Orexin receptor antagonist
+AZD-9668	Elastase inhibitor
+buddleoflavonoloside	Acetylcholinesterase inhibitor
+piperacillin	Bacterial cell wall synthesis inhibitor
+efaproxiral	Haemoglobin oxygen release stimulant
+dapsone	Bacterial antifolate
+mubritinib	Receptor tyrosine protein kinase inhibitor
+JX-401	P38 MAPK inhibitor
+NCS-382	GABA receptor antagonist
+isoprenaline	Adrenergic receptor agonist
+ML-281	Serine/threonine kinase inhibitor
+LY-320135	Cannabinoid receptor antagonist
+RG-13022	PDGFR inhibitor
+diclofenamide	Carbonic anhydrase inhibitor
+O-2050	Cannabinoid receptor antagonist
+trimidox	Ribonucleoside reductase inhibitor
+P-1075	Potassium channel activator
+CAY-10415	Insulin sensitizer
+NVP-BHG712	Ephrin inhibitor
+telmisartan	Angiotensin receptor antagonist
+midazolam	Benzodiazepine receptor agonist
+EMD-84	Angiotensin receptor antagonist
+meclofenoxate	Nootropic agent
+MST-312	Telomerase inhibitor
+DMP-777	Elastase inhibitor
+GW-9508	Fatty acid receptor agonist|Free fatty acid receptor agonist|G protein-coupled receptor agonist
+carbaryl	Acetylcholinesterase inhibitor
+calycanthine	GABA receptor antagonist
+saccharin	DNA inhibitor
+flucytosine	Antifungal
+diacerein	Interleukin inhibitor
+phloretin	Sodium channel inhibitor
+GW-788388	ALK inhibitor
+metronidazole	Bacterial DNA inhibitor
+edaravone	Nootropic agent
+naftidrofuryl	Adrenergic receptor antagonist
+BRD-K82225283	Nitric oxide stimulant|Guanylate cyclase stimulant
+5'-guanidinonaltrindole	Opioid receptor antagonist
+norcitalopram	Serotonin receptor antagonist
+BRD-A49765801	Glucocorticoid receptor agonist
+LDN-57444	Ubiquitin C-terminal hydrolase inhibitor
+BRD-K70821460	Histamine receptor agonist
+clinofibrate	Lipase inhibitor
+BRD-A20239487	Adrenergic receptor antagonist
+GW-583340	Receptor tyrosine protein kinase inhibitor|EGFR inhibitor|ERBB2 inhibitor
+aphidicolin	RNA synthesis inhibitor
+balicatib	Cathepsin inhibitor
+TAK-285	EGFR inhibitor
+solanine	Acetylcholinesterase inhibitor
+auraptene	Nitric oxide production inhibitor
+SN-38	Topoisomerase inhibitor
+bufexamac	Cyclooxygenase inhibitor
+N20C	Glutamate receptor antagonist
+etilefrine	Adrenergic receptor agonist
+RS-102895	CCR antagonist
+quetiapine	Dopamine receptor antagonist|Serotonin receptor antagonist
+spiramide	Dopamine receptor antagonist|Serotonin receptor antagonist
+asenapine	Dopamine receptor antagonist|Serotonin receptor antagonist
+PCI-29732	BTK inhibitor
+mepireserpate	Catechol O methyltransferase inhibitor
+U-99194	Dopamine receptor antagonist
+amisulpride	Dopamine receptor antagonist
+metamizole	Cyclooxygenase inhibitor|Opioid receptor agonist
+BRD-K26548821	Dopamine receptor agonist
+benzanthrone	Aromatic hydrocarbon derivative
+deflazacort	Glucocorticoid receptor agonist
+lysylphenylalanyl-tyrosine	Heparin activation inhibitor
+isometheptene	Vasoconstrictor
+anastrozole	Aromatase inhibitor
+moracizine	Sodium channel inhibitor
+ramelteon	Melatonin receptor agonist
+BRD-A01295252	Dopamine receptor antagonist
+baccatin-III	Paclitaxel precursor
+goserelin	Luteinizing hormone releasing hormone agonist
+thiazolopyrimidine	CDC inhibitor
+GW-9662	PPAR receptor antagonist
+perillyl-alcohol	Apoptosis stimulant|Cell cycle inhibitor|Farnesyltransferase inhibitor
+coumaric-acid	Antioxidant
+mizolastine	Histamine receptor antagonist
+arachidonamide	Cannabinoid receptor agonist
+mafenide	Carbonic anhydrase inhibitor
+L-745870	Dopamine receptor antagonist
+prostratin	PKC activator
+PAC-1	Caspase activator
+BRD-K20497775	Aryl hydrocarbon receptor agonist
+CYT-997	Tubulin inhibitor
+5-iodotubercidin	Adenosine kinase inhibitor
+busulfan	DNA inhibitor
+PCO-400	Potassium channel activator
+guanfacine	Adrenergic receptor agonist
+vinblastine	Microtubule inhibitor
+chelerythrine	Protein kinase inhibitor
+AZD-8330	MEK inhibitor
+medroxyprogesterone-acetate	Progesterone receptor agonist
+BI-D1870	Ribosomal protein inhibitor
+PF-04691502	MTOR inhibitor|PI3K inhibitor
+droperidol	Dopamine receptor antagonist
+aloisine	CDK inhibitor|CFTR channel agonist|GSK inhibitor
+dyphylline	Adenosine receptor antagonist|Phosphodiesterase inhibitor
+LE-135	Retinoid receptor agonist
+geranylgeraniol	Farnesyltransferase inhibitor
+tedizolid	Bacterial 50S ribosomal subunit inhibitor
+BRD-K07888196	IGF-1 inhibitor
+deferasirox	Chelating agent
+L-stepholidine	Dopamine receptor agonist|Dopamine receptor antagonist
+LB-42708	Farnesyltransferase inhibitor
+lawsone	Coloring agent
+SKF-89976A	GABA receptor antagonist
+BRD-K30697463	Glucocorticoid receptor agonist
+fraxetin	Antioxidant
+nandrolone	Imidazoline receptor agonist
+levamisole	Acetylcholine receptor agonist
+oxalomalic-acid	Isocitrate dehydrogenase inhibitor
+S-26948	PPAR receptor agonist
+trap-101	Opioid receptor antagonist|Nociceptin/orphanin FQ (NOP) receptor antagonist
+BRD-K61106942	Pyruvate kinase isozyme activator
+seneciphylline	Cytochrome P450 inhibitor
+brimonidine	Adrenergic receptor agonist
+tolazoline	Adrenergic receptor antagonist
+CAY-10594	Phospholipase inhibitor
+regadenoson	Adenosine receptor agonist
+tubocurarine	Acetylcholine receptor antagonist
+TYRPHOSTIN-46	Tyrosine kinase inhibitor
+oxaprozin	Cyclooxygenase inhibitor
+thiethylperazine	Dopamine receptor antagonist
+BRD-K59573506	Androgen receptor antagonist|Progesterone receptor agonist|Testosterone receptor antagonist
+oxotremorine-sesquifumarate	Cholinergic receptor agonist
+manumycin-a	Farnesyltransferase inhibitor|NFKB inhibitor
+tanaproget	Progesterone receptor agonist
+benzoxiquine	Anti-inflammatory
+geniposide	GLP receptor agonist
+SB-366791	TRPV antagonist
+RS-79948	Adrenergic receptor antagonist
+adrenosterone	11-beta-HSD1 inhibitor
+LGK-974	Porcupine inhibitor
+phenanthridone	PARP inhibitor
+pritelivir	Helicase primase inhibitor
+LE-300	Dopamine receptor antagonist
+flunisolide	Cytochrome P450 inhibitor
+DY-131	Estrogen receptor agonist
+terbinafine	Fungal squalene epoxidase inhibitor
+TAK-715	P38 MAPK inhibitor
+BRD-K09635134	Negative control for D-erythro-MAPP
+quercetin	Polar auxin transport inhibitor
+AVL-292	BTK inhibitor
+KIN-001-220	Aurora kinase inhibitor
+alfaxalone	Chloride channel activator|GABA receptor agonist
+sulconazole	Sterol demethylase inhibitor
+TCS-359	FLT3 inhibitor
+maackiain	Sodium channel inhibitor
+KU-C103885	Cystic fibrosis transmembrane conductance regulator inhibitor
+AG-879	Tyrosine kinase inhibitor|Angiogenesis inhibitor|VEGFR inhibitor
+mestanolone	Androgen receptor antagonist
+DPPE	Histamine receptor antagonist
+guggulsterone	Estrogen receptor agonist|Cholesterol inhibitor|FXR antagonist|IKK inhibitor|Progesterone receptor agonist|PXR agonist
+propofol	GABA receptor agonist
+lasalocid	Bacterial permeability inducer
+RS-127445	Serotonin receptor antagonist
+honokiol	AKT inhibitor
+oleoylethanolamide	Cannabinoid receptor agonist|Glucose dependent insulinotropic receptor agonist|Potassium channel blocker|PPAR receptor agonist
+phenoxybenzamine	Adrenergic receptor antagonist
+PCA-4248	Platelet activating factor receptor antagonist
+SU-1498	VEGFR inhibitor
+AZD-8931	EGFR inhibitor
+rupatadine	Histamine receptor antagonist|Platelet activating factor receptor antagonist
+altrenogest	Progestogen hormone
+AG-592	Tyrosine kinase inhibitor
+azacyclonol	Histamine receptor antagonist
+cyclopiazonic-acid	ATPase inhibitor
+cinobufagin	Na/K-ATPase inhibitor
+NSC-693868	GSK-3 inhibitor
+NSC-119889	Protein synthesis inhibitor
+L-161982	Prostanoid receptor antagonist
+terbutaline	Adrenergic receptor agonist
+CAY-10578	Casein kinase inhibitor
+GANT-61	GLI antagonist
+rifaximin	RNA synthesis inhibitor
+matrine	Opioid receptor agonist
+volasertib	PLK inhibitor
+isogedunin	HSP inhibitor
+SCH-23390	Dopamine receptor antagonist
+ML-167	CLK inhibitor|DYRK inhibitor
+florfenicol	Protein synthesis inhibitor
+corynanthine	Adrenergic receptor antagonist
+cortisone-acetate	Glucocorticoid receptor agonist
+FK-33-824	Opioid receptor agonist
+7b-cis	Exportin antagonist
+setiptiline	Adrenergic receptor antagonist
+simeprevir	HCV inhibitor
+BRD-K73261812	Beta catenin inhibitor
+pyrantel-pamoate	Nicotinic receptor agonist
+etretinate	Protein synthesis inhibitor
+fluticasone	Glucocorticoid receptor agonist
+linagliptin	Dipeptidyl peptidase inhibitor
+nevirapine	Reverse transcriptase inhibitor
+carfilzomib	Proteasome inhibitor
+l-bso	Glutathione transferase inhibitor
+azelastine	Histamine receptor antagonist
+levcromakalim	Potassium channel activator
+CGP-57380	MAP kinase inhibitor
+LY-215490	Glutamate receptor antagonist
+SC-19220	Prostanoid receptor antagonist
+ractopamine	Adrenergic receptor agonist
+levocabastine	Histamine receptor antagonist
+fdcyd	DNA inhibitor
+talazoparib	PARP inhibitor
+ZM-323881	VEGFR inhibitor
+fenspiride	Bronchodilator
+W-7	Calmodulin inhibitor|Potassium channel blocker
+MF-101	Estrogen receptor agonist
+hypoxanthine	PARP inhibitor
+CITCO	CAR agonist
+metrifonate	Acetylcholinesterase inhibitor
+meclocycline	Bacterial 30S ribosomal subunit inhibitor
+isoreserpine	Vesicular monoamine transporter inhibitor
+cabergoline	Dopamine receptor agonist
+inositol	Insulin sensitizer
+beclomethasone-dipropionate	Immunosuppressant|Glucocorticoid receptor agonist
+CEP-32496	RAF inhibitor
+dronedarone	Adrenergic receptor antagonist
+BRD-K15318383	Thrombin inhibitor
+BML-286	WNT inhibitor
+tolcapone	Catechol O methyltransferase inhibitor
+L-694247	Serotonin receptor agonist
+BRD-K30351863	APEX inhibitor
+KB-R7943	Sodium channel inhibitor
+BRD-K25079130	Nucleophosmin inhibitor
+aprepitant	Tachykinin antagonist
+MDM2-inhibitor	MDM inhibitor
+1-benzylimidazole	Thromboxane synthase inhibitor
+CA-074-Me	Cathepsin inhibitor
+cyclopenthiazide	Thiazide diuretic
+BRD-K11757396	Neuropeptide receptor ligand
+BRD-K28296557	AKT inhibitor
+cefmetazole	Bacterial cell wall synthesis inhibitor
+mephenytoin	Hydantoin antiepileptic
+hemado	Adenosine receptor agonist
+clebopride	Dopamine receptor antagonist
+APD-668	Glucose dependent insulinotropic receptor agonist
+odanacatib	Cathepsin inhibitor
+cephalotaxine	Protein synthesis inhibitor
+mibefradil	Calcium channel blocker
+perospirone	Dopamine receptor antagonist|Serotonin receptor antagonist
+CO-101244	Ionotropic glutamate receptor antagonist
+IU1	Ubiquitin C-terminal hydrolase inhibitor
+trimebutine	Opioid receptor agonist
+KN-62	Calcium channel blocker|Purinergic receptor antagonist
+benzamil	Sodium channel blocker
+icosapent	Platelet aggregation inhibitor
+BMS-927711	Calcitonin antagonist
+CGS-21680	Adenosine receptor agonist
+ritanserin	Serotonin receptor antagonist
+diethyltoluamide	DEET, activator of fly antenna ionotropic receptor IR40a
+lenalidomide	Anti-cancer agent
+vinorelbine	Tubulin inhibitor
+megestrol-acetate	Progesterone receptor agonist|DNA inhibitor|Steroidal progestin
+aceclofenac	Prostanoid receptor antagonist
+tremorine	Acetylcholine receptor agonist
+BRD-K00313977	APEX inhibitor
+gingerol	Nitric oxide synthase inhibitor
+mitotane	Carcinogen
+trimipramine	Norepinephrine inhibitor|Tricyclic antidepressant
+RG-108	DNA inhibitor
+6-benzylaminopurine	Purinergic receptor activator
+BRD-A61189834	XIAP inhibitor
+LY-341495	Glutamate receptor antagonist
+BIBU-1361	EGFR inhibitor
+cyanopindolol	Adrenergic receptor antagonist
+BRD-K96188950	NFKB inhibitor|HIV inhibitor
+coumarin	Vitamin K antagonist
+CDC	Lipoxygenase inhibitor
+myriocin	Serine palmitoyltransferase inhibitor
+droxidopa	Norepinephrine inhibitor
+nelfinavir	HIV protease inhibitor
+fluvoxamine	Selective serotonin reuptake inhibitor
+pemetrexed	Dihydrofolate reductase inhibitor
+XMD-1499	EPHB3 inhibitor
+tipifarnib-P2	Farnesyltransferase inhibitor
+tolnaftate	Fungal squalene epoxidase inhibitor
+mupirocin	Isoleucyl-tRNA synthetase inhibitor
+genistein	Tyrosine kinase inhibitor
+dipropyl-dopamine	Dopamine receptor agonist
+calcipotriol	Vitamin D receptor agonist
+methazolamide	Carbonic anhydrase inhibitor
+LFM-A13	BTK inhibitor
+tosedostat	Peptidase inhibitor
+mebendazole	Tubulin inhibitor
+AT-9283	Aurora kinase inhibitor|Abl inhibitor|Bcr-Abl inhibitor|FLT3 inhibitor|JAK inhibitor|Protein kinase inhibitor|Tubulin inhibitor
+quizartinib	FLT3 inhibitor
+dienogest	Progesterone receptor agonist
+TC-1	Beta secretase inhibitor
+metoprolol	Adrenergic receptor antagonist
+SC-68376	P38 MAPK inhibitor
+tryptophan	Serotonin receptor agonist
+BRD-K08115555	TNF inhibitor
+fenretinide	Retinoid receptor agonist
+TWS-119	GSK inhibitor
+oncrasin-1	Apoptosis stimulant
+L-NAME	Nitric oxide synthase inhibitor
+L-733060	Tachykinin antagonist
+BRD-A79314293	Bacterial cell wall synthesis inhibitor
+metixene	Acetylcholine receptor antagonist
+BU-239	Imidazoline receptor agonist
+phloridzin	Sodium/glucose cotransporter inhibitor
+alizapride	Dopamine receptor antagonist
+EMF-BCA1-60	Caspase inhibitor
+BRD-K89997465	Dopamine receptor antagonist
+nomegestrol-acetate	Progesterone receptor agonist
+LY-2090314	GSK inhibitor
+MK-0812	CC chemokine receptor antagonist
+silibinin	Cytochrome P450 inhibitor
+alvocidib	CDK inhibitor
+BRD-K28308851	Histamine receptor agonist
+GR-235	Estrogen receptor agonist|FXR antagonist|Progesterone receptor agonist
+BRD-K95676198	JAK inhibitor
+methoxsalen	DNA inhibitor
+geldanamycin	HSP inhibitor
+tivozanib	VEGFR inhibitor
+BRD-A47364545	Sigma receptor agonist
+cloxacillin	Bacterial cell wall synthesis inhibitor
+glafenine	DeltaF508-CFTR Correctors
+valsartan	Angiotensin receptor antagonist
+tizanidine	Adrenergic receptor agonist
+tramadol	Opioid receptor agonist|Norepinephrine reuptake inhibitor|Serotonin reuptake inhibitor
+dicoumarol	NADPH inhibitor
+XL-888	HSP inhibitor
+KN-93	Calcium channel blocker
+danazol	Progesterone receptor agonist
+BRD-K13994703	Adrenergic receptor antagonist
+toltrazuril	Antiprotozoal
+AMZ-30	Protein phosphatase inhibitor
+BRD-K75516118	Phosphodiesterase inhibitor|Interleukin receptor antagonist
+AG-14361	PARP inhibitor
+BRD-A01593789	5-alpha reductase inhibitor
+fingolimod	Immunosuppressant|Sphingosine 1 phosphate receptor agonist
+CT-7758	Integrin inhibitor
+PF-04136309	CC chemokine receptor antagonist
+EI-231	Casein kinase inhibitor
+SNS-314	Aurora kinase inhibitor
+BRD-K55186349	Apelin receptor antagonist
+eptifibatide	Platelet aggregation inhibitor
+benzotript	CCK receptor antagonist
+gabapentin	Calcium channel blocker
+sirtinol	SIRT inhibitor
+SR-95639A	Acetylcholine receptor agonist
+loteprednol	Glucocorticoid receptor agonist|Phospholipase inhibitor
+tolazamide	ATP channel blocker
+BRD-K18059238	Cyclooxygenase inhibitor|Prostanoid receptor agonist
+BRD-K84421793	Dopamine receptor agonist
+proscillaridin	Na/K-ATPase inhibitor
+immepip	Histamine receptor agonist
+cabozantinib	RET inhibitor|VEGFR inhibitor
+ZSTK-474	PI3K inhibitor
+allantoxanamide	Uricase inhibitor
+sunitinib	FLT3 inhibitor|KIT inhibitor|PDGFR inhibitor|RET inhibitor|VEGFR inhibitor
+BRD-A17664363	Steroidogenic factor antagonist
+cerivastatin	HMGCR inhibitor
+PI-103	PI3K inhibitor|MTOR inhibitor
+desoxycortone	Mineralocorticoid receptor agonist
+gentamicin	Bacterial 30S ribosomal subunit inhibitor
+indoximod	Indoleamine 2,3-dioxygenase inhibitor
+tetrahydropalmatine	Serotonin receptor agonist
+R-59022	Diacylglycerol kinase inhibitor|Protein kinase inhibitor
+BGT-226	PI3K inhibitor
+dexamethasone	Glucocorticoid receptor agonist|Corticosteroid agonist|Cytochrome P450 inhibitor
+guanaben-acetate	Adrenergic receptor agonist
+eicosatrienoic-acid	Vasodilator
+GSK-0660	PPAR receptor antagonist
+PCI-24781	HDAC inhibitor
+retinol	Retinoid receptor ligand
+indolophenanthridine	Dopamine receptor agonist
+diphenoxylate	Opioid receptor agonist
+dexbrompheniramine	Histamine receptor antagonist
+ivachtin	Caspase inhibitor
+TG-100115	PI3K inhibitor
+RN-1734	TRPV antagonist
+CG-930	JNK inhibitor
+BRD-K83354763	NFKB inhibitor
+BRD-A70731303	Nucleophosmin inhibitor
+BRD-K97118047	Casein kinase inhibitor
+SCH-442416	Adenosine receptor antagonist
+Ro-10-5824	Dopamine receptor agonist
+bosentan	Endothelin receptor antagonist
+UNC-2250	MER tyrosine kinase inhibitor
+maraviroc	CC chemokine receptor antagonist
+JTE-013	Lysophospholipid receptor antagonist
+hydrastine	Tyrosine hydroxylase inhibitor
+bretazenil	GABA receptor agonist
+alogliptin	Dipeptidyl peptidase inhibitor
+treprostinil	Prostacyclin analog
+loperamide	Opioid receptor agonist
+vildagliptin	Dipeptidyl peptidase inhibitor
+pinacidil	Potassium channel activator
+MPEP	Glutamate receptor antagonist
+CV-1808	Adenosine receptor agonist
+iproniazid	Monoamine oxidase inhibitor
+VU-0366037-2	Glutamate receptor antagonist
+irinotecan	Topoisomerase inhibitor
+lenvatinib	FGFR inhibitor|KIT inhibitor|PDGFR inhibitor|VEGFR inhibitor
+naltrindole	Opioid receptor antagonist
+roflumilast	Phosphodiesterase inhibitor
+nitrazepam	Benzodiazepine receptor agonist
+maltobionic-acid	Matrix metalloprotease inhibitor|Chelating agent
+pirenperone	Serotonin receptor antagonist
+S-111	PARP inhibitor
+BMS-754807	IGF-1 inhibitor
+PIK-90	PI3K inhibitor
+WAY-405	Serotonin receptor antagonist
+BRD-U08759356	EGFR inhibitor
+DBeQ	ATPase inhibitor
+westcort	Glucocorticoid receptor agonist
+phenprobamate	Muscle relaxant
+tiotidine	Histamine receptor antagonist
+retrorsine	Cytotoxic agent|DNA inhibitor|Mutagenic
+mifepristone	Glucocorticoid receptor antagonist
+gestrinone	Progesterone receptor antagonist
+lypressin	Vasopressin receptor agonist
+phenindione	Vitamin K antagonist
+PD-0325901	MEK inhibitor|MAP kinase inhibitor|Protein kinase inhibitor
+raltitrexed	Thymidylate synthase inhibitor
+dextrorphan	Glutamate receptor antagonist
+clobenpropit	Histamine receptor antagonist
+epinephrine	Adrenergic receptor agonist|Neurotransmitter
+P-5091	Ubiquitin specific protease inhibitor
+tegaserod	Serotonin receptor partial agonist
+kenpaullone	CDK inhibitor|GSK inhibitor
+TPCA-1	IKK inhibitor
+fraxidin	Carbonic anhydrase inhibitor
+SB-415286	GSK inhibitor
+ST-638	Tyrosine kinase inhibitor
+losmapimod	P38 MAPK inhibitor
+BD-1047	Adrenergic receptor antagonist
+flumatinib	Bcr-Abl inhibitor
+BRD-K56658166	Calcium channel blocker
+argatroban	Thrombin inhibitor
+strychnine-hcl	Acetylcholine receptor antagonist
+TAK-875	Insulin secretagogue
+domperidone	Dopamine receptor antagonist
+KF-38789	P selectin inhibitor
+OSI-027	MTOR inhibitor
+BRD-K99667445	Topoisomerase inhibitor
+umbelliferone	Cyclooxygenase inhibitor
+JWE-035	Aurora kinase inhibitor
+ibutilide	Potassium channel antagonist
+apicidin	HDAC inhibitor
+BRD-K87919739	Receptor tyrosine protein kinase inhibitor
+PF-5274857	Smoothened receptor antagonist
+lansoprazole	Proton pump inhibitor
+syrosingopine	Vesicular monoamine transporter inhibitor
+ponatinib	Bcr-Abl inhibitor|FLT3 inhibitor|PDGFR inhibitor
+mometasone	Glucocorticoid receptor agonist|Immunosuppressant
+homosalate	HSP inducer
+pheniramine	Histamine receptor antagonist
+troglitazone	PPAR receptor agonist|Insulin sensitizer
+PSB-06126	NTPDase inhibitor
+GR-135531	Melatonin receptor agonist
+BRL-52537	Opioid receptor agonist
+Ro-4987655	MEK inhibitor
+NO-ASA	Cyclooxygenase inhibitor
+lomerizine	Calcium channel blocker
+mebeverine	Acetylcholine receptor antagonist
+rebamipide	Free radical scavenger
+BRD-K53532120	Opioid receptor agonist
+BRD-K49668410	Bacterial 50S ribosomal subunit inhibitor
+auranofin	NFKB inhibitor
+MRS-1845	Calcium channel blocker
+tubastatin-a	HDAC inhibitor
+tacedinaline	HDAC inhibitor
+U-54494A	Opioid receptor agonist
+bevirimat-dimeglumine	HIV inhibitor
+flutamide	Androgen receptor antagonist
+BMS-509744	ITK inhibitor
+BRD-A94523291	Glucocorticoid receptor agonist
+curcumin	Cyclooxygenase inhibitor|Histone acetyltransferase inhibitor|Lipoxygenase inhibitor|NFKB inhibitor
+KD-025	Rho associated kinase inhibitor
+VX-765	Caspase inhibitor
+BMS-191011	Potassium channel activator
+BRD-K04877770	Farnesyltransferase inhibitor
+mozavaptan	Vasopressin receptor antagonist
+CGP-20712	Adrenergic receptor antagonist
+sunitinib	RET tyrosine kinase inhibitor
+miconazole	Bacterial cell wall synthesis inhibitor
+rifapentine	Bacterial RNA polymerase inhibitor
+CMPD-1	P38 MAPK inhibitor
+sitagliptin	Dipeptidyl peptidase inhibitor
+SB-202190	P38 MAPK inhibitor
+hexestrol	Synthetic estrogen
+ISOX	HDAC inhibitor
+apigenin	Casein kinase inhibitor|Cell proliferation inhibitor|Cytochrome P450 inhibitor
+ASC-J9	Androgen receptor agonist
+PIK-75	DNA protein kinase inhibitor
+tasisulam	Apoptosis stimulant
+CYT-387	JAK inhibitor
+GR-32191	Thromboxane receptor antagonist
+pefloxacin	Bacterial DNA Gyrase inhibitor
+sodium-gualenate	Antacid
+ARC-239	Adrenergic receptor antagonist
+ethionamide	Mycolic synthesis inhibitor
+dovitinib	EGFR inhibitor|FGFR inhibitor|FLT3 inhibitor|PDGFR inhibitor|VEGFR inhibitor
+BRD-K19136521	CDK inhibitor|GSK inhibitor
+triflupromazine	Dopamine receptor antagonist
+nialamide	Monoamine oxidase inhibitor
+phenacemide	Sodium channel inhibitor
+GW-4064	FXR agonist
+ITSA-1	HDAC activator
+ENMD-2076	Aurora kinase inhibitor|FLT3 inhibitor|VEGFR inhibitor
+SCH-202676	G protein-coupled receptor modulator
+BRD-K73700643	Melatonin receptor agonist
+IBC-293	Hydroxycarboxylic acid receptor agonist
+ceritinib	ALK inhibitor
+NVP-BEZ235	MTOR inhibitor|PI3K inhibitor
+PHA-767491	CDC inhibitor
+grazoprevir	HCV inhibitor
+ginsenoside	Steroid
+oxidopamine	Neurotoxin
+BRD-K43796186	EGFR inhibitor
+telenzepine	Acetylcholine receptor antagonist
+BRD-A04553218	Histamine receptor antagonist
+octopamine	Trace amine associated receptor agonist
+hexachlorophene	Potassium channel activator
+chlorambucil	DNA inhibitor
+prednisolone-acetate	Glucocorticoid receptor agonist
+irilin-a	Isoflavone
+pregnenolone-succinate	GABA receptor antagonist|Acetylcholine release enhancer|Dopamine release enhancer|Glutamate receptor modulator
+BRD-K72783841	EGFR inhibitor
+BRD-K14441456	EGFR inhibitor
+MDL-72832	Serotonin receptor agonist
+azapropazone	Cyclooxygenase inhibitor
+PETCM	Caspase activator
+niguldipine	Adrenergic receptor antagonist
+riboflavin	Vitamin B
+niguldipine	Adrenergic receptor antagonist|Calcium channel blocker
+mefenamic-acid	Cyclooxygenase inhibitor
+isoconazole	Fungal lanosterol demethylase inhibitor
+DNQX	Glutamate receptor antagonist
+ramipril	Angiotensin converting enzyme inhibitor
+HDAC3-selective	HDAC inhibitor
+tegafur	Thymidylate synthase inhibitor
+zoxazolamine	Muscle relaxant
+ellipticine	Topoisomerase inhibitor
+AZD-4547	FGFR inhibitor
+YM-201636	PI3K inhibitor
+RG-14620	EGFR inhibitor
+terconazole	Sterol demethylase inhibitor
+CEP-33779	JAK inhibitor
+PIK-93	PI3K inhibitor
+SDZ-WAG-994	Adenosine receptor agonist
+BRD-A38793261	ROR antagonist
+tetryzoline	Adrenergic receptor agonist
+Ro-08-2750	NGF binding inhibitor
+laudanosine	Central nervous system agent
+PF-05212384	MTOR inhibitor|PI3K inhibitor
+ursodiol	Nuclear factor erythroid derived, like (NRF2) activator
+thioctic-acid	Aldehyde dehydrogenase activator|Protein kinase activator|Reverse transcriptase inhibitor
+BRD-K79511609	Adenosine receptor agonist
+niacin	NADPH inhibitor|Vitamin B
+solifenacin-succinate	Acetylcholine receptor antagonist
+AZ-20	ATR kinase inhibitor
+PF-3845	FAAH inhibitor
+BRD-A18763547	Cytochrome P450 inhibitor
+amyleine	Anesthetic - local
+talmapimod	P38 MAPK inhibitor
+gitoxigenin	Na/K-ATPase inhibitor
+toremifene	Selective estrogen receptor modulator
+digoxin	Na/K-ATPase inhibitor
+celastrol	Anti-inflammatory|Antioxidant|HSP inhibitor|NFKB inhibitor|Topoisomerase inhibitor
+fludarabine	DNA inhibitor
+ETP-46464	ATR kinase inhibitor
+neostigmine	Acetylcholinesterase inhibitor
+alvespimycin	HSP inhibitor
+linoleic-acid	Oxidizing agent
+ALX-5407	Glycine transporter inhibitor
+VU-0420363-1	SARS coronavirus 3C-like protease inhibitor
+RKI-1447	Rho associated kinase inhibitor
+icilin	TRPV agonist
+avicin-d	NFKB inhibitor
+JDTic	Opioid receptor antagonist
+flecainide	Sodium channel inhibitor
+ibandronic-acid	Bone resorption inhibitor
+staurosporine	PKC inhibitor
+diphenyleneiodonium	Nitric oxide synthase inhibitor
+flufenamic-acid	Chloride channel blocker
+flumetasone	Glucocorticoid receptor agonist
+H-7	PKA inhibitor
+HG-6-64-01	RAF inhibitor
+lidamidine	Adrenergic receptor agonist
+selamectin	Nematocide
+indirubin	GSK-3 inhibitor
+procyclidine	Acetylcholine receptor antagonist
+cephaeline	Protein synthesis inhibitor
+dolastatin-10	Tubulin inhibitor|Immunostimulant
+beta-alanine	Glycine receptor agonist
+BRD-K10016611	Acetylcholinesterase inhibitor
+alclometasone	Glucocorticoid receptor agonist
+mepenzolate	Acetylcholine receptor antagonist
+GSK-690693	AKT inhibitor
+navitoclax	BCL inhibitor
+etofenamate	Cyclooxygenase inhibitor
+alvimopan	Opioid receptor antagonist
+CC-930	JNK inhibitor
+dibutyrylcyclic-gmp	CGMP analog
+BRD-K90976994	Bile acid
+piperlongumine	Glutathione transferase inhibitor
+acivicin	Gamma glutamyltransferase Inhibitors
+BRD-K68336408	EGFR inhibitor
+tropapride	Dopamine receptor antagonist
+tosufloxacin	Bacterial DNA inhibitor
+BRD-K71427192	XIAP inhibitor
+kitasamycin	Protein synthesis inhibitor
+SB-705498	TRPV antagonist
+CEP-37440	ALK inhibitor
+pralidoxime	Acetylcholinesterase inhibitor
+dihydrosamidin	Nitric oxide production inhibitor|Phospholipase inhibitor|Platelet activating factor receptor antagonist
+HC-toxin	HDAC inhibitor
+EI-273	PKC inhibitor
+tinidazole	Bacterial DNA inhibitor
+BRD-K11612998	Glucocorticoid receptor agonist
+regorafenib	FGFR inhibitor|KIT inhibitor|PDGFR inhibitor|RAF inhibitor|RET inhibitor|VEGFR inhibitor
+glycocholic-acid	Cholesterol inhibitor
+RTI-55	Dopamine receptor antagonist
+amineptine	Dopamine receptor agonist
+fenipentol	Choleretic agent
+U-0126	MEK inhibitor
+OTX-015	Bromodomain inhibitor
+AEE-788	EGFR inhibitor|VEGFR inhibitor
+PH-797804	P38 MAPK inhibitor
+ML-179	Liver receptor homolog inverse agonist
+JTC-801	Opioid receptor antagonist
+fenofibrate	PPAR receptor agonist
+CP-94253	Serotonin receptor agonist
+cinacalcet	Calcium channel activator
+SA-792709	Retinoid receptor agonist
+GR-127935	Serotonin receptor antagonist
+benperidol	Dopamine receptor antagonist
+VX-702	P38 MAPK inhibitor
+TCPOBOP	CAR agonist
+pimavanserin	Serotonin receptor antagonist
+PF-573228	Focal adhesion kinase inhibitor
+tiratricol	Thyroid hormone stimulant
+LY-2801653	MET inhibitor
+thiotepa	Cytochrome P450 inhibitor
+fumagillin	Methionine aminopeptidase inhibitor
+mibampator	Glutamate receptor antagonist
+salubrinal	Eukaryotic translation initiation factor inhibitor
+nizatidine	Histamine receptor antagonist
+antimycin-a	ATP synthase inhibitor
+crenolanib	PDGFR inhibitor
+golvatinib	VEGFR inhibitor
+BRD-A49447682	Glucocorticoid receptor agonist
+NVP-AUY922	HSP inhibitor
+tenovins	SIRT inhibitor|p53 activator
+BRD-K26664453	Tubulin inhibitor
+BRD-K92073408	Progestogen hormone|Progesterone receptor agonist
+ripasudil	Rho associated kinase inhibitor
+XE-991	Potassium channel antagonist
+A-366	Histone lysine methyltransferase inhibitor
+metaraminol	Adrenergic receptor agonist
+HNHA	HDAC inhibitor
+iohexol	Radiopaque medium
+metanephrine	Epinephrine metabolite
+diflorasone	Glucocorticoid receptor agonist
+cinchocaine	Sodium channel inhibitor
+practolol	Adrenergic receptor antagonist
+sappanone-a	Melanin inhibitor|Tyrosinase inhibitor
+SD-169	P38 MAPK inhibitor
+morphothebaine	Adrenergic receptor antagonist
+U-46619	Thromboxane receptor agonist
+baeomycesic-acid	Lipoxygenase inhibitor
+BIBR-1532	Telomerase inhibitor
+BMS-387032	CDK inhibitor|Cell cycle inhibitor|MCL1 inhibitor
+ethaverine	Calcium channel blocker
+PYM-50028	Neurotrophic agent
+bromperidol	Dopamine receptor antagonist
+dihydroxyphenylglycine	Glutamate receptor agonist
+hydrocortisone-phosphate	Glucocorticoid receptor agonist
+lobelanidine	Acetylcholine receptor antagonist|Dopamine receptor modulator|Opioid receptor antagonist|Vesicular monoamine transporter inhibitor
+PD-158780	EGFR inhibitor
+WAY-100635	Serotonin receptor antagonist
+BIIB-021	HSP inhibitor
+sarcosine	GlyT-1 inhibitor
+torin-2	MTOR inhibitor
+RU-24969	Serotonin receptor agonist
+VU-0415374-1	Glutamate receptor antagonist
+AR-A014418	GSK inhibitor
+fipexide	Psychoactive drug
+tiapride	Dopamine receptor antagonist
+lenalidomide	Carcinogen
+lobenzarit	Immunosuppressant
+malotilate	Protein synthesis stimulant
+salvinorin-a	Opioid receptor agonist
+limonin	HIV protease inhibitor
+BU-226	Imidazoline receptor agonist|Imidazoline ligand
+propylpyrazole	Estrogen receptor agonist
+cobicistat	Cytochrome P450 inhibitor
+ARRY-334543	EGFR inhibitor
+dequalinium	PKC inhibitor
+L-ergothioneine	Free radical scavenger
+pyrazinoylguanidine	Diuretic
+CGS-20625	Benzodiazepine receptor agonist
+acepromazine	Dopamine receptor antagonist
+PD-98059	MEK inhibitor|MAP kinase inhibitor
+icariin	Phosphodiesterase inhibitor
+propantheline	Acetylcholine receptor antagonist
+GS-9973	Syk inhibitor
+troxipide	Glucosamine synthetase stimulant
+procaine	HMGCR inhibitor
+tetramisole	Immunostimulant
+OMDM-2	FAAH inhibitor
+WHI-P154	JAK inhibitor
+paroxetine	Selective serotonin reuptake inhibitor
+fluocinonide	Glucocorticoid receptor agonist
+BRD-K06217810	DYRK inhibitor
+JWH-015	Cannabinoid receptor agonist
+PF-02545920	Phosphodiesterase inhibitor
+SIB-1757	Glutamate receptor antagonist
+CTPB	Histone Acetyltransferase activator
+pantothenic-acid	Coenzyme A precursor
+pentylenetetrazol	GABA receptor antagonist
+RS-56812	Serotonin receptor agonist
+BRD-K47448802	Acetylcholine receptor agonist
+pentachlorophenol	ATP channel blocker
+buparlisib	PI3K inhibitor
+efatutazone	PPAR receptor agonist
+methylstat	Histone demethylase inhibitor
+triclosan	Enoyl-[acyl-carrier-protein] reductase [NADH] inhibitor
+proglumide	CCK receptor antagonist
+anethole	Glutathione transferase stimulant
+gliclazide	ATP channel blocker|Insulin secretagogue
+osthol	Calcium channel blocker
+EXO-1	ARF inhibitor
+dihydrodeoxygedunin	Growth factor receptor activator
+cirazoline	Adrenergic receptor agonist
+quinpirole	Dopamine receptor agonist
+epicatechin	Bacterial DNA inhibitor
+BRD-K14236372	Lysophospholipid receptor agonist
+levosulpiride	Dopamine receptor antagonist
+acefylline	Adenosine receptor agonist
+esomeprazole	Proton pump inhibitor
+XL-147	PI3K inhibitor
+bergenin	Interleukin inhibitor
+GDC-0941	PI3K inhibitor
+isoniazid	Bacterial cell wall synthesis inhibitor|Cyclooxygenase inhibitor
+LY-225910	CCK receptor antagonist
+WYE-125132	MTOR inhibitor
+maxacalcitol	Vitamin D receptor agonist
+m-chlorophenylbiguanide	Serotonin receptor agonist
+itraconazole	Cytochrome P450 inhibitor
+naringenin	Aromatase inhibitor|TRPV antagonist
+climbazole	Enzyme inducer
+erythromycin	NFKB pathway inhibitor
+nafadotride	Dopamine receptor antagonist
+carbetocin	Oxytocin receptor agonist
+merbarone	Topoisomerase inhibitor
+mepivacaine	Potassium channel antagonist|Sodium channel inhibitor
+oxcarbazepine	Sodium channel inhibitor
+farnesol	FXR agonist|Monoamine oxidase inhibitor|NFKB activator|PPAR receptor agonist
+pivmecillinam	Bacterial cell wall synthesis inhibitor
+SAL-1	Adenosine receptor antagonist
+CP-466722	ATM kinase inhibitor
+flavokavain-b	Carcinogen
+bromfenac	Cyclooxygenase inhibitor
+zaleplon	Benzodiazepine receptor agonist
+resiquimod	TLR agonist
+ellagic-acid	Glutathione transferase inhibitor|Aldose reductase inhibitor|Beta secretase inhibitor|HCV inhibitor|HIV inhibitor|Quorum sensing signaling modulator|Reverse transcriptase inhibitor
+iodophenpropit	Histamine receptor antagonist
+PD-102807	Acetylcholine receptor antagonist
+oxantel	Anthelmintic
+givinostat	HDAC inhibitor
+nor-binaltorphimine	Opioid receptor antagonist
+SC-560	Cyclooxygenase inhibitor
+BRD-K74733595	HDAC inhibitor
+pralatrexate	Dihydrofolate reductase inhibitor
+L-2167	PPAR receptor agonist
+oxamflatin	HDAC inhibitor
+sumatriptan	Serotonin receptor agonist
+azacitidine	DNA inhibitor
+vincristine	Tubulin inhibitor
+strychnine	Acetylcholine receptor antagonist
+1-phenylbiguanide	Serotonin receptor agonist
+KU-C103428N	CDC inhibitor|Rho associated kinase inhibitor
+PG-9	Acetylcholine receptor agonist
+amifostine	Reducing agent
+CGH-2466	Adenosine receptor antagonist
+oxatomide	Histamine receptor antagonist
+dofetilide	Potassium channel antagonist
+N-formylmethionylalanine	Macrophage activator
+camostat-mesilate	Protease inhibitor|Peptidase inhibitor|Trypsin inhibitor
+oltipraz	NRF2 activator
+amodiaquine	Histamine receptor agonist
+phenamil	TRPV antagonist
+LY-2140023	Glutamate receptor agonist
+CID-5458317	MAP kinase inhibitor
+SU-4312	Tyrosine kinase inhibitor|PDGFR inhibitor|VEGFR inhibitor
+berbamine	Calmodulin inhibitor
+PD-407824	PKC inhibitor
+crotamiton	Antipruritic
+WAY-161503	Serotonin receptor agonist
+thioproperazine	Dopamine receptor antagonist
+orteronel	Androgen receptor antagonist|Cytochrome P450 inhibitor
+aristolochic-acid	Phospholipase inhibitor
+latrepirdine	Glutamate receptor antagonist
+BMY-7378	Adrenergic receptor antagonist|Serotonin receptor antagonist
+purpurogallin	Catechol O methyltransferase inhibitor
+nomilin	HSP inhibitor
+PHA-665752	MET inhibitor
+OTS-167	Maternal embryonic leucine zipper kinase inhibitor
+TW-37	BCL inhibitor
+GR-89696	Opioid receptor agonist
+roscovitine	CDK inhibitor
+metergoline	Serotonin receptor antagonist
+eriodictyol	Cytochrome P450 inhibitor
+EBPC	Aldose reductase inhibitor
+STO-609	Calmodulin inhibitor
+caffeic-acid	HIV inhibitor|Lipoxygenase inhibitor|NFKB inhibitor|Nitric oxide production inhibitor|PPAR receptor agonist|TNF inhibitor
+BRD-K93080877	Tripeptidyl peptidase inhibitor
+rhodomyrtoxin-b	Carcinogen|DNA intercalating agent
+AS-601245	JNK inhibitor
+CCT-031374	WNT inhibitor
+lestaurtinib	FLT3 inhibitor|Growth factor receptor inhibitor|JAK inhibitor
+thalidomide	TNF inhibitor
+meisoindigo	STAT inhibitor
+procaterol	Adrenergic receptor agonist
+bufalin	Na/K-ATPase inhibitor
+clodronic-acid	Bone resorption inhibitor
+chlorothiazide	Diuretic
+BMY-45778	IP1 prostacyclin receptor agonist
+mirin	MRE11A exonuclease inhibitor
+KX-2391	Src inhibitor|Tubulin inhibitor
+ticagrelor	Purinergic receptor antagonist
+cyclopentolate	Acetylcholine receptor antagonist
+BRD-K33396764	Omega 3 fatty acid stimulant
+trimetozine	Sedative
+bindarit	NFKB inhibitor
+damnacanthal	Src inhibitor
+lylamine	Cannabinoid receptor agonist
+PSI-7976	HCV inhibitor
+methyl-benzethonium	Antibiotic
+azlocillin	Bacterial cell wall synthesis inhibitor
+VP-20629	Beta amyloid inhibitor
+ergometrine	Adrenergic receptor agonist|Serotonin receptor agonist
+chlorpyrifos	Acetylcholinesterase inhibitor
+BRD-K26619122	GABA receptor antagonist
+BRD-K61737877	VEGFR inhibitor
+torcetrapib	Cholesteryl ester transfer protein inhibitor
+BRD-K36038115	Neuropeptide receptor antagonist
+TAK-733	MEK inhibitor
+BRD-K91781484	NRF2 activator
+nelfinavir	HIV inhibitor
+chrysenequinone	DNA mismatch binding
+pizotifen	Serotonin receptor antagonist
+chloroxine	Opioid receptor antagonist
+meglumine	Excipient
+lacidipine	Calcium channel blocker
+nimesulide	Cyclooxygenase inhibitor
+eicosatetraynoic-acid	Cyclooxygenase inhibitor|Lipoxygenase inhibitor
+IWP-L6	Porcupine inhibitor
+leflunomide	Dihydroorotate dehydrogenase inhibitor|PDGFR inhibitor
+mercaptopurine	Immunosuppressant|Protein synthesis inhibitor|Purine antagonist
+rifabutin	Protein synthesis inhibitor
+CGP-37157	Calcium channel blocker|Mitochondrial Na+/Ca2+ exchanger antagonist|Sodium/calcium exchange inhibitor
+4-HQN	PARP inhibitor
+stemregenin-1	Aryl hydrocarbon receptor antagonist
+BMS-536924	IGF-1 inhibitor
+BRD-K71726959	CDK inhibitor
+pitavastatin	HMGCR inhibitor
+KU-0060648	DNA inhibitor|PI3K inhibitor
+ouabain	Na/K-ATPase inhibitor
+cetraxate	Mucus protecting agent
+BRD-K48969316	Caspase inhibitor
+bromebric-acid	Purine antagonist|DNA inhibitor
+VU-0413807-2	Calcium channel blocker
+oxyphenbutazone	Cyclooxygenase inhibitor
+GW-501516	PPAR receptor agonist|Insulin sensitizer
+butein	EGFR inhibitor|Src inhibitor
+edrophonium	Acetylcholinesterase inhibitor
+alfacalcidol	Vitamin D receptor agonist
+J-104129	Acetylcholine receptor antagonist
+norgestrel	Progesterone receptor agonist
+praziquantel	Anthelmintic
+NPI-2358	Tubulin inhibitor
+eprosartan	Angiotensin receptor antagonist
+leucodin	Melanin inhibitor
+cefadroxil	Bacterial cell wall synthesis inhibitor
+AM-281	Cannabinoid receptor antagonist
+L-670596	Prostanoid receptor antagonist
+remoxipride	Dopamine receptor antagonist
+hispidin	PKC inhibitor
+olopatadine	Histamine receptor antagonist
+DMAB-anabaseine	Adrenergic receptor agonist
+RS-504393	CC chemokine receptor antagonist
+zafirlukast	Leukotriene receptor antagonist
+benzathine	Bacterial cell wall synthesis inhibitor
+garcinol	Histone N-acetyltransferase inhibitor
+fluoxetine	Selective serotonin reuptake inhibitor (SSRI)
+methylnorlichexanthone	Aurora kinase inhibitor|PIM inhibitor|VEGFR inhibitor
+AMN-082	Glutamate receptor antagonist
+IC-261	Casein kinase inhibitor
+BRD-K44932450	Progesterone receptor agonist
+sulfadiazine	Bacterial antifolate
+diloxanide	Protein synthesis inhibitor
+carbimazole	Antithyroid agent
+anamorelin	Growth hormone secretagogue receptor agonist
+dibenzepin	Norepinephrine inhibitor
+tremulacin	Lipoxygenase inhibitor
+nobiletin	MEK inhibitor
+HA-1004	Calcium channel blocker
+NSC-3852	HDAC inhibitor
+BNTX	Opioid receptor antagonist
+chlormadinone	Progesterone receptor agonist
+naftopidil	Adrenergic receptor antagonist
+lofepramine	Norepinephrine inhibitor|Serotonin reuptake inhibitor
+BTS-54505	Dopamine receptor antagonist|Adrenergic receptor antagonist|Norepinephrine reuptake inhibitor|Serotonin reuptake inhibitor
+todralazine	Antihypertensive
+PD-160170	Neuropeptide receptor antagonist
+tamoxifen	Estrogen receptor antagonist
+ispinesib	Kinesin inhibitor
+betazole	Histamine receptor agonist
+SB-269970	Serotonin receptor antagonist
+BIX-01338	Histone lysine methyltransferase inhibitor
+nalbuphine	Opioid receptor agonist|Opioid receptor antagonist
+fenpiverinium	Acetylcholine receptor antagonist
+vernakalant	Potassium channel antagonist
+edoxaban	Coagulation factor inhibitor
+lapatinib	ErbB2 inhibitor
+BRD-K65856711	Phosphodiesterase inhibitor
+HG-5-113-01	Protein kinase inhibitor
+digitoxin	Na/K-ATPase inhibitor
+YK-4279	Apoptosis stimulant|ETV1 inhibitor
+torasemide	Thromboxane receptor antagonist
+PD-166793	Metalloproteinase inhibitor|Collagenase inhibitor
+tenofovir	Reverse transcriptase inhibitor|HIV inhibitor
+astemizole	Histamine receptor antagonist
+alendronic-acid	Bone resorption inhibitor
+remacemide	Glutamate receptor antagonist
+desloratadine	Histamine receptor antagonist
+sulfametopyrazine	PABA antagonist
+pepstatin	Aspartic protease inhibitor
+meclofenamic-acid	Cyclooxygenase inhibitor|Prostanoid receptor antagonist
+BRD-K48195008	Estrogen receptor agonist|Estrogenic hormone
+tolperisone	Voltage-gated sodium channel blocker
+ZD-2079	Adrenergic receptor agonist
+niclosamide	DNA inhibitor|STAT inhibitor
+rilpivirine	Non-nucleoside reverse transcriptase inhibitor
+PNU-74654	Beta catenin inhibitor
+genz-644282	Topoisomerase inhibitor
+noscapine	Bradykinin receptor antagonist|Tubulin inhibitor
+benzohydroxamic-acid	Antifungal
+AP-26113	ALK inhibitor
+oxiconazole	Bacterial cell wall synthesis inhibitor
+PD-169316	P38 MAPK inhibitor
+acyclovir	DNA inhibitor
+piperacetazine	Dopamine receptor antagonist
+BRD-K49657628	EGFR inhibitor|Tyrosine kinase inhibitor
+FIT	Opioid receptor agonist
+Ro-3306	CDK inhibitor
+cyclazosin	Adrenergic receptor antagonist
+EMD-1214063	HGF receptor inhibitor
+KIN001-244	PDK1 Inhibitor
+liranaftate	Fungal squalene epoxidase inhibitor
+sulfadimidine	PABA antagonist
+diprotin-a	Dipeptidyl peptidase inhibitor
+H-8	PKA inhibitor
+meticrane	Diuretic
+telmesteine	Mucolytic
+JNK-9L	JNK inhibitor
+sodium-nitrite	Nitric oxide donor|Nitric oxide stimulant
+oseltamivir-carboxylate	Neuraminidase inhibitor
+NNC-05-2090	GAT inhibitor|GABA uptake inhibitor
+ixabepilone	Tubulin inhibitor
+oxetacaine	Anesthetic - local
+picotamide	Thromboxane receptor antagonist|Thromboxane synthase inhibitor
+BRD-K91691979	Glucosylceramidase inhibitor
+hexylresorcinol	Anesthetic - local
+pinaverium	Calcium channel blocker
+terfenadine	Histamine receptor antagonist
+entecavir	DNA inhibitor|Reverse transcriptase inhibitor
+abiraterone	Androgen biosynthesis inhibitor
+mead-ethanolamide	Cannabinoid receptor agonist
+pempidine	Ganglionic blocker
+pyridoxine	Vitamin B
+C-1	Protein kinase inhibitor
+demecarium	Acetylcholinesterase inhibitor
+GGTI-298	GGTase inhibitor
+BD-1063	Sigma receptor antagonist
+erythrosine	Coloring agent
+digoxigenin	Na/K-ATPase inhibitor
+PHA-848125	CDK inhibitor|Growth factor receptor inhibitor
+doconexent	PPAR receptor agonist
+zimelidine	Serotonin reuptake inhibitor
+cefdinir	Bacterial cell wall synthesis inhibitor
+tacalcitol	Vitamin D receptor agonist
+lobeline	Acetylcholine receptor antagonist
+BRD-K48099440	Prostanoid receptor antagonist
+LM-1685	Cyclooxygenase inhibitor
+BRD-K58930050	Glutamate receptor antagonist
+chelidonine	Tubulin inhibitor
+thiamphenicol	Bacterial 50S ribosomal subunit inhibitor
+nisoldipine	Calcium channel blocker
+HO-013	PPAR receptor agonist
+amiodarone	Potassium channel blocker
+BRD-K10136726	Chymotrypsin inhibitor
+T-98475	Gonadotropin receptor antagonist
+PD-173074	FGFR inhibitor|VEGFR inhibitor
+oxolamine	Antitussive
+bisbenzimide	DNA binding agent
+hexamethyleneamiloride	Sodium channel inhibitor
+temazepam	GABA receptor agonist
+D-64131	Tubulin inhibitor
+lesinurad	Uric acid diuretic
+LY-255283	Leukotriene receptor antagonist
+EPZ-5676	DOT1L inhibitor
+cefoxitin	Bacterial cell wall synthesis inhibitor
+captopril	ACE inhibitor
+BRD-K93367411	Kelch-like ECH-associated protein ligand
+nitrofural	Bacterial DNA inhibitor
+CGP-71683	Neuropeptide receptor antagonist
+NMS-1286937	PLK inhibitor
+CP-91149	Glycogen phosphorylase inhibitor
+brefeldin-a	Protein synthesis inhibitor|Brefeldin A inhibited guanine nucleotide exchange protein inhibitors|Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor inhibitor
+ursolic-acid	11-beta-HSD1 inhibitor|Acetylcholinesterase inhibitor|Caspase inhibitor|HIV protease inhibitor|Lipid peroxidase inhibitor|Quorum sensing signaling modulator|Steryl sulfatase inhibitor|Tyrosine phosphatase inhibitor|ATPase inhibitor|NFKB inhibitor|STAT inhibitor
+azilsartan	Angiotensin receptor antagonist
+ganetespib	HSP inhibitor
+urethane	Anesthetic - local
+BRD-K15380626	Adrenergic receptor antagonist
+anisomycin	DNA inhibitor
+dimenhydrinate	Histamine receptor antagonist
+CGP-53353	EGFR inhibitor|PKC inhibitor
+AZD-1208	PIM inhibitor
+digoxin	ATPase inhibitor
+WZ-3146	EGFR inhibitor
+H-9	PKA inhibitor
+SU-11274	Hepatocyte growth factor receptor inhibitor|Tyrosine kinase inhibitor
+pacritinib	FLT3 inhibitor|JAK inhibitor
+YM-90709	IL5 inhibitor
+taselisib	PI3K inhibitor
+clotrimazole	Cytochrome P450 inhibitor|Imidazoline ligand
+clobutinol	Antitussive
+SQ-29548	Thromboxane receptor antagonist
+anisodamine	Lipid peroxidase inhibitor
+TCDD-dioxin	Aryl hydrocarbon receptor activator
+BRD-A71657825	Matrix metalloprotease inhibitor
+BRD-K26011976	Topoisomerase inhibitor
+BRD-K54729176	HDAC inhibitor
+methoprene-acid	Retinoid receptor agonist
+BRD-K12567312	GABA receptor antagonist
+BRD-K86305586	Glutamate receptor agonist
+rilmenidine	Imidazoline receptor agonist
+lobaric-acid	Tyrosine phosphatase inhibitor
+compound-w	Beta secretase inhibitor
+MLN-0128	MTOR inhibitor
+BRD-K73709114	Glucosylceramidase inhibitor
+VU-0404997-2	Glutamate receptor antagonist
+KI-8751	VEGFR inhibitor|KIT inhibitor|PDGFR inhibitor
+PHCCC	Glutamate receptor agonist
+tiaprofenic-acid	Cyclooxygenase inhibitor
+GDC-0349	PIM inhibitor
+triamcinolone	Glucocorticoid receptor agonist|Immunosuppressant
+dalargin	Opioid receptor agonist
+hyperoside	Glucosidase inhibitor
+ouabain	ATPase inhibitor
+naloxone-benzoylhydrazone	Opioid receptor antagonist
+fosamprenavir	HIV inhibitor
+5-nonyloxytryptamine	Serotonin receptor agonist
+trifluridine	DNA inhibitor|Thymidylate synthase inhibitor
+anthothecol	Antimalarial
+lucitanib	FGFR inhibitor|VEGFR inhibitor
+fludrocortisone-acetate	Glucocorticoid receptor agonist|Mineralocorticoid receptor agonist
+ABT-702	Adenosine kinase inhibitor
+reversine	Aurora kinase inhibitor
+BRD-A39747742	Estrogen receptor agonist
+benzydamine	Prostanoid receptor antagonist
+deguelin	NADPH inhibitor
+IKK-16	IKK inhibitor
+spectinomycin	Bacterial 30S ribosomal subunit inhibitor
+oxybutynin	Acetylcholine receptor antagonist
+L-citrulline	Nitric oxide stimulant
+sanguinarium-chloride	Acetylcholinesterase inhibitor|Apoptosis stimulant|Caspase activator|FtsZ inhibitor|Rho associated kinase inhibitor
+harmane	Monoamine oxidase inhibitor
+orphenadrine	Acetylcholine receptor antagonist
+BW-373U86	Opioid receptor agonist
+bromosporine	Bromodomain inhibitor
+cisplatin	DNA synthesis inhibitor
+AZD-7545	PDK inhibitor
+temoporfin	Radical formation stimulant
+MDL-29951	Glutamate receptor antagonist
+danusertib	Aurora kinase inhibitor|FGFR inhibitor
+Ro-04-5595	Glutamate receptor antagonist
+lavendustin-c	EGFR inhibitor
+bilobalide	GABA receptor modulator
+tyrphostin-47	EGFR inhibitor
+epothilone	Tubulin inhibitor
+ebselen	Cyclooxygenase inhibitor|Glutathione peroxidase agonist|H+/K+-ATPase inhibitor|Nitric oxide synthase inhibitor
+thiazolidinecarboxylic-acid	Glutathione synthase stimulant
+dropropizine	Antitussive
+heraclenol	Vitamin K antagonist
+tioguanine	Purine antagonist
+trichlormethiazide	Chloride channel blocker
+mofezolac	Cyclooxygenase inhibitor
+butylscopolammonium	Anticholinergic
+L-655708	GABA receptor antagonist
+ritonavir	HIV protease inhibitor
+esculin	Antioxidant
+A-7	Calmodulin inhibitor
+sulbactam	Beta lactamase inhibitor
+WZ-4-145	EGFR inhibitor
+GW-1929	PPAR receptor agonist|Insulin sensitizer
+somatostatin	Somatostatin receptor agonist
+dicycloverine	Acetylcholine receptor antagonist
+monastrol	Kinesin inhibitor
+SKF-83959	Dopamine receptor antagonist
+cortisol	Glucocorticoid receptor agonist
+angiogenesis-inhibitor	Angiogenesis inhibitor
+Ro-90-7501	Beta amyloid inhibitor
+niridazole	Phosphofructokinase inhibitor
+RN-1	Histone lysine demethylase inhibitor
+parachlorophenol	Anti-inflammatory
+ethylestrenol	Progesterone receptor agonist
+iodoacetic-acid	Cysteine peptidase inhibitor
+rociletinib	EGFR inhibitor
+radezolid	Bacterial 30S ribosomal subunit inhibitor|Bacterial 50S ribosomal subunit inhibitor
+SKF-82958	Dopamine receptor agonist
+guvacine	GABA receptor antagonist
+CS-917	Fructose biphosphate inhibitor
+nomegestrol	Progesterone receptor agonist
+perphenazine	Dopamine receptor antagonist
+sulfachlorpyridazine	Bacterial antifolate
+oxacillin	Bacterial cell wall synthesis inhibitor
+meloxicam	Cyclooxygenase inhibitor
+BRD-K41170226	G protein-coupled receptor agonist|Biliverdin reductase A activator
+LY-2784544	JAK inhibitor
+metaxalone	Muscle relaxant
+benactyzine	Butyrylcholinesterase inhibitor
+foxy-5	WNT inhibitor
+BML-266	SIRT inhibitor
+benzocaine	Sodium channel inhibitor
+QL-X-138	MTOR inhibitor
+ciprofibrate	PPAR receptor agonist
+BRD-K59333713	Adrenergic receptor antagonist
+adiphenine	Acetylcholine receptor antagonist
+DG-041	Prostanoid receptor antagonist
+BRD-A61599461	Thyroid-stimulating hormone receptor inverse agonist
+SNX-2112	HSP inhibitor
+ochratoxin-a	Phenylalanyl tRNA synthetase inhibitor
+lincomycin	Bacterial 30S ribosomal subunit inhibitor
+troxerutin	Antioxidant
+perindopril	Angiotensin converting enzyme inhibitor
+zopiclone	GABA receptor agonist
+imipramine	Norepinephrine inhibitor|Serotonin reuptake inhibitor
+BRD-K34685430	Dopamine receptor antagonist|Serotonin receptor antagonist
+asenapine	Serotonin receptor antagonist
+costunolide	Telomerase inhibitor
+celiprolol	Adrenergic receptor antagonist
+temefos	Cholinesterase inhibitor
+ursodeoxycholyltaurine	Cholesterol inhibitor
+triptolide	RNA polymerase inhibitor
+oprozomib	Proteasome inhibitor
+brivanib	VEGFR inhibitor
+sulfadoxine	Dihydropteroate synthase inhibitor
+AVN-944	Inosine monophosphate dehydrogenase inhibitor
+pronetalol	Adrenergic receptor antagonist
+helveticoside	Na/K-ATPase inhibitor
+AT-13387	HSP inhibitor
+N-MPPP	Opioid receptor agonist
+BRD-K44408410	HIF Inhibitor
+tyramine	Catechol O methyltransferase inhibitor
+rhamnetin	Aldose reductase inhibitor
+octreotide	Somatostatin receptor agonist
+BRD-A29731977	Progesterone receptor agonist
+malonoben	Protein tyrosine kinase inhibitor
+cefixime	Bacterial cell wall synthesis inhibitor
+alpha-tocopherol	Antioxidant
+fosfosal	Phosphodiesterase inhibitor
+methscopolamine	Acetylcholine receptor antagonist
+ergocryptine	Dopamine receptor agonist
+byssochlamic-acid	Mycotoxin
+N-6022	Alcohol dehydrogenase inhibitor
+methyl-testosterone	Androgen receptor agonist
+AZD-1283	Purinergic receptor antagonist
+PKI-179	MTOR inhibitor|PI3K inhibitor
+BRD-K68783079	DYRK inhibitor
+hydroquinine	Antiarrhythmic
+salidroside	Beta amyloid inhibitor
+trans-cinnamaldehyde	Aldose reductase inhibitor|TRPV agonist
+bropirimine	Interferon inducer
+chlordiazepoxide	Benzodiazepine receptor agonist
+Ro-25-6981	Vesicular monoamine transporter inhibitor
+manidipine	Calcium channel blocker
+miglustat	Glycosylation inhibitor
+felbinac	Cyclooxygenase inhibitor
+paricalcitol	Vitamin D receptor agonist
+PRX-08066	Serotonin receptor antagonist
+valspodar	P-glycoprotein inhibitor
+HTMT	Histamine receptor agonist
+triflusal	Cyclooxygenase inhibitor|Platelet aggregation inhibitor|Thromboxane synthase inhibitor
+BRD-K15241725	Vesicular monoamine transporter inhibitor
+droxinostat	HDAC inhibitor
+peucedanin	Apoptosis stimulant
+mephenesin	Muscle relaxant
+pamidronate	Bone resorption inhibitor
+R-547	CDK inhibitor
+deserpidine	ACE inhibitor
+adaprev	TGF-beta receptor inhibitor
+methapyrilene	Histamine receptor antagonist
+ditolylguanidine	Sigma receptor agonist
+BMS-833923	Smoothened receptor antagonist
+BRD-A85216385	Dopamine receptor antagonist
+nicorandil	Nitric oxide donor|Potassium channel activator
+AC-264613	PAR agonist
+vigabatrin	GABA aminotransferase inhibitor
+RG-2833	HDAC inhibitor
+ZK-756326	CC chemokine receptor agonist
+TG-003	CLK inhibitor
+isoflupredone-acetate	Glucocorticoid receptor agonist
+valrubicin	DNA inhibitor|Topoisomerase inhibitor
+BRD-K42205652	Src inhibitor|Syk inhibitor
+ICI-118551	Adrenergic receptor antagonist
+benzoic-acid	Precursor for food preservatives, plasticizers and medicinal compounds
+KHS-101	Neural stem cell inducer
+spermidine	Glutamate receptor antagonist
+Merck60	HDAC inhibitor
+spiradoline	Opioid receptor agonist
+plumbagin	Anticancer agent
+I-BRD9	Bromodomain inhibitor
+BRD-K61691971	Nucleophosmin inhibitor
+rifapentine	RNA polymerase inhibitor
+BRD-K59670716	DNA alkylating agent|DNA synthesis inhibitor
+COL-3	Matrix metalloprotease inhibitor
+almitrine	Neurotransmitter agonist
+dirithromycin	Bacterial 50S ribosomal subunit inhibitor
+bietaserpine	Vesicular monoamine transporter inhibitor
+STF-62247	Autophagy inducer
+gallic-acid	PPAR receptor agonist|Beta amyloid inhibitor
+artemether	Antimalarial
+AZD-2014	MTOR inhibitor
+etomidate	Membrane integrity inhibitor|GABA receptor modulator|Membrane permeability inhibitor
+mosapride	Serotonin receptor agonist
+skepinone-l	P38 MAPK inhibitor
+chenodiol	11-beta-HSD1 inhibitor
+SB-205607	Delta 1 opioid receptor agonist
+BRD-K67582595	Dopamine receptor agonist
+tioconazole	Sterol demethylase inhibitor
+BRD-K13629382	Acetylcholinesterase inhibitor
+MDL-11939	Serotonin receptor antagonist
+BRD-K20152659	Cholesterol inhibitor|Platelet aggregation inhibitor|Prostanoid receptor agonist
+pibenzimol	DNA inhibitor
+galeterone	Androgen receptor antagonist
+latamoxef	Bacterial cell wall synthesis inhibitor
+L-750667	Dopamine receptor antagonist
+pyrithyldione	Psychoactive drug
+EPZ-015666	PRMT inhibitor
+VU-0365114-2	M5 modulator
+isoquercetin	Aldose reductase inhibitor
+fenthion	Cholinesterase inhibitor
+Ro-04-6790	Serotonin receptor antagonist
+WAY-170523	Metalloproteinase inhibitor
+BRD-K47869605	Tubulin inhibitor
+strophanthidin	Na/K-ATPase inhibitor
+BRD-K39569857	Nucleophosmin inhibitor
+bupropion	Dopamine receptor antagonist
+meglitinide	Potassium channel antagonist
+GR-159897	Tachykinin antagonist
+BRD-A73929928	Adenosine receptor agonist
+etamsylate	Haemostatic agent
+ryuvidine	Histone lysine methyltransferase inhibitor
+testosterone-propionate	Androgen receptor agonist
+penicillic-acid	Antibiotic
+albendazole	Tubulin inhibitor
+RGFP-966	HDAC inhibitor
+SB-228357	Serotonin receptor antagonist
+rotenone	Mitochondrial inhibitor
+fomepizole	Alcohol dehydrogenase inhibitor
+diminazene-aceturate	ACE inhibitor|DNA intercalating agent|Topoisomerase inhibitor
+zeranol	Estrogen receptor agonist
+valaciclovir	DNA inhibitor
+ormetoprim	Bacterial antifolate
+WAY-629	Serotonin receptor agonist
+Fluoro-SAHA	HDAC inhibitor
+favipiravir	RNA polymerase inhibitor
+atazanavir	HIV inhibitor
+amprenavir	HIV inhibitor
+ON-01910	PLK inhibitor
+hydroxytyrosol	HIV inhibitor
+tubacin	HDAC inhibitor
+thiamine	Vitamin B
+rhodomyrtoxin	Carcinogen|DNA intercalating agent
+solifenacin	Acetylcholine receptor antagonist
+GSK-1059615	PI3K inhibitor
+BRD-A92439610	Immunosuppressant|Corticosteroid agonist|Glucocorticoid receptor agonist
+resmethrin	Cytochrome P450 inhibitor
+BRD-K13544237	Dopamine receptor agonist
+amoxicillin	Penicillin binding protein inhibitor
+KU-14R	Imidazoline ligand
+dutasteride	5-alpha reductase inhibitor
+SCH-79797	Proteasome inhibitor
+dizocilpine	Glutamate receptor antagonist
+cilazapril	ACE inhibitor
+JW-7-24-1	LCK Inhibitor
+lomitapide	Microsomal trigylceride transfer protein inhibitor
+pomalidomide	Angiogenesis inhibitor|TNF inhibitor
+butyrolactone	Histone acetyltransferase inhibitor
+YM-09151-2	Dopamine receptor antagonist
+BRD-K82216340	Progesterone receptor agonist
+QX-222	Sodium channel inhibitor
+methiazole	Anthelmintic
+sarmentogenin	Na/K-ATPase inhibitor
+ramifenazone	Cyclooxygenase inhibitor
+cymarin	ATPase inhibitor
+dinaciclib	CDK inhibitor
+MRE-269	Prostanoid receptor agonist
+securinine	GABA receptor antagonist|p53 activator
+MG-132	Proteasome inhibitor
+CGS-15943	Adenosine receptor antagonist
+anguidine	Protein synthesis inhibitor
+allantoin	Product of purine catabolism used in cosmetics
+lithium-chloride	Antiviral
+LFM-A12	EGFR inhibitor
+cosmosiin	Cytochrome P450 inhibitor
+dictamnine	Furoquinoline alkaloid
+mammea-a	Antibiotic
+SU-6656	Src inhibitor
+BRD-K04546108	JAK inhibitor
+isoeugenol	Nitric oxide production inhibitor
+selinidin	Mast cell stabilizer
+ER-27319	Syk inhibitor
+RS-17053	Adrenergic receptor antagonist
+z-leu3-VS	Proteasome inhibitor
+AG-370	PDGFR inhibitor
+L-165041	PPAR receptor agonist
+veratridine	Sodium channel activator
+PD-198306	MAP kinase inhibitor|MEK inhibitor
+W-13	Calmodulin inhibitor
+PP-2	Src inhibitor
+aminopurvalanol-a	Tyrosine kinase inhibitor|CDK inhibitor
+dactinomycin	RNA polymerase inhibitor
+AG-490	ErbB2 inhibitor
+CGS-12066B	Serotonin receptor agonist
+prunetin	Breast cancer resistance protein inhibitor
+prometon	Photosynthesis inhibitor
+pirinixic-acid	PPAR receptor agonist
+GBR-13069	Dopamine receptor antagonist
+methyl-angolensate	Apoptosis inhibitor
+econazole	Lanosterol demethylase inhibitor|Bacterial cell wall synthesis inhibitor|Sterol demethylase inhibitor
+hinokitiol	Tyrosinase inhibitor
+W-12	Calmodulin inhibitor
+prednisolone	Glucocorticoid receptor agonist
+dehydrocholate	Choleretic agent
+NSC-663284	CDC inhibitor
+GW-7647	PPAR receptor agonist
+bisindolylmaleimide-ix	PKC inhibitor
+GW-3965	LXR agonist|ABC transporter expression enhancer
+bithionol	Autotaxin inhibitor
+fluvastatin	HMGCR inhibitor
+lumicolchicine	Colchicine isomer, non-binder of microtubules
+amperozide	Dopamine receptor antagonist
+ethotoin	Hydantoin antiepileptic
+calyculin	Protein phosphatase inhibitor
+fluocinolone-acetonide	Corticosteroid agonist|Glucocorticoid receptor agonist
+naringin	Cytochrome P450 inhibitor
+gelsemine	Acetylcholine receptor antagonist|Glycine receptor antagonist
+leu-enkephalin	Opioid receptor agonist
+cercosporin	Photoactivated toxin
+digitoxigenin	Na/K-ATPase inhibitor
+BVT-948	Tyrosine phosphatase inhibitor
+MAZ-51	VEGFR inhibitor
+metyrapone	Cytochrome P450 inhibitor
+purvalanol-a	CDK inhibitor|DYRK inhibitor
+VAMA-37	DNA inhibitor
+hydrocortisone-hemisuccinate	Glucocorticoid receptor agonist
+periplocymarin	Apoptosis stimulant
+hydrocortisone-acetate	Corticosteroid agonist|Glucocorticoid receptor agonist
+paxilline	Potassium channel antagonist
+protopine	Histamine receptor antagonist
+BRD-A47144777	HSP inhibitor
+CHEMBL-1222381	Neural stem cell inducer
+PIK-75	PI3K inhibitor
+SU-11652	Tyrosine kinase inhibitor
+BRD-A41630653	Glutamate receptor antagonist
+BRD-K73610817	XIAP inhibitor
+BRD-K76211160	Cytochrome P450 inhibitor
+ML-213	Potassium channel activator
+BRD-K88761633	Glucosylceramidase inhibitor
+BRD-A32917072	ROR antagonist
+CAM-9-026	Membrane integrity inhibitor
+BRD-K16618170	Lysophospholipid receptor agonist
+SF-11	Neuropeptide receptor antagonist
+VU-0418947-2	HIF modulator
+BRD-K20401833	ROR inverse agonist
+clopidogrel	Purinergic receptor antagonist
+ML-130	NOD1 inhibitor
+BRD-K85853281	Topoisomerase inhibitor
+ropivacaine	Sodium channel inhibitor
+BRD-K73589401	Mineralocorticoid receptor agonist
+cefaclor	Bacterial cell wall synthesis inhibitor
+dexchlorpheniramine	Histamine receptor antagonist
+ampiroxicam	Cyclooxygenase inhibitor
+benproperine	Antitussive
+vindesine	Tubulin inhibitor
+testosterone	Aromatase inhibitor
+flubendazole	Tubulin inhibitor
+nitazoxanide	Antiprotozoal
+dichloroacetic-acid	PDK inhibitor
+5-FP	Thymidylate synthase inhibitor
+cephalexin	Bacterial cell wall synthesis inhibitor
+flurbiprofen	Cyclooxygenase inhibitor
+halometasone	Glucocorticoid receptor agonist
+pilocarpine	Acetylcholine receptor agonist
+tunicamycin	GLCNAC phosphotransferase inhibitor
+OM-137	Aurora kinase inhibitor
+MW-STK33-3B	Potassium channel activator
+CAY-10470	NFKB inhibitor
+VU-0418946-1	Hypoxia inducible factor activator
+cytochalasin-d	Tubulin inhibitor
+KI-16425	Lysophosphatidic acid receptor antagonist
+CGP-60474	CDK inhibitor
+tyrphostin-A9	Protein tyrosine kinase inhibitor|Tyrosine kinase inhibitor
+chromomycin-a3	DNA binding agent
+hyperforin	Cyclooxygenase inhibitor|Dopamine uptake inhibitor|Interleukin inhibitor|Lipoxygenase inhibitor|Serotonin reuptake inhibitor
+BRD-K18135438	11-beta-HSD1 inhibitor|FXR agonist
+verrucarin-a	Protein synthesis inhibitor
+calmidazolium	Calcium channel blocker|Calmodulin antagonist
+lestaurtinib	Growth factor receptor inhibitor
+SB-408124	Orexin receptor antagonist
+CS-110266	Dopamine receptor agonist
+BRD-A07765530	Carbonic anhydrase activator
+benzatropine	Acetylcholine receptor antagonist
+doxycycline	Metalloproteinase inhibitor
+griseofulvin	Tubulin inhibitor
+heliomycin	ATP synthase inhibitor|Other antibiotic
+acetylcholine	Acetylcholine receptor agonist
+levonorgestrel	Glucocorticoid receptor antagonist
+BRD-K66766661	Estrogen receptor agonist
+III606050	Cytochrome P450 inhibitor
+oxytetracycline	Bacterial 30S ribosomal subunit inhibitor
+sulfaguanidine	Bacterial antifolate
+nifenazone	Analgesic
+ampicillin	Bacterial cell wall synthesis inhibitor
+clorgiline	Monoamine oxidase inhibitor
+moroxydine	Antiviral
+acetylsalicylsalicylic-acid	Cyclooxygenase inhibitor
+tranexamic-acid	Fibrinogen stimulant|Plasminogen activator inhibitor
+etofylline	Adenosine receptor antagonist
+sulfaphenazole	Dihydropteroate synthase inhibitor
+ampyrone	Cyclooxygenase inhibitor
+BRD-K08111712	Protein synthesis inhibitor
+hexamethonium	Cholinergic receptor antagonist
+hycanthone	RNA synthesis inhibitor
+BRD-K85767870	Adenosine receptor agonist
+flumequine	Bacterial DNA Gyrase inhibitor
+hydroxyzine	Antihistamine
+pimethixene	Antihistamine
+acemetacin	Cyclooxygenase inhibitor
+diperodon	Anesthetic - local
+clofilium	Potassium channel antagonist
+metitepine	Anti-HCVE2
+hemicholinium-3	Acetylcholine receptor antagonist
+heptaminol	Vasoconstrictor
+lomefloxacin	Bacterial DNA Gyrase inhibitor
+pentoxyverine	Acetylcholine receptor antagonist
+levodopa	Dopamine receptor agonist
+gallamine	Cholinergic receptor antagonist|Acetylcholine receptor antagonist
+neomycin	Bacterial 30S ribosomal subunit inhibitor
+amikacin	Bacterial 30S ribosomal subunit inhibitor
+antazoline	Antihistamine
+BRD-M15413738	Bacterial 30S ribosomal subunit inhibitor
+famprofazone	Cyclooxygenase inhibitor
+hexetidine	Anesthetic - local
+etiocholanolone	GABA receptor antagonist
+cloperastine	Antitussive
+artemisinin	DNA synthesis inhibitor
+flurandrenolide	Glucocorticoid receptor agonist
+esatenolol	Adrenergic receptor antagonist
+suxibuzone	Cyclooxygenase inhibitor
+flunixin	Prostanoid receptor antagonist
+atropine	Acetylcholine receptor antagonist
+eserine	Cholinesterase inhibitor
+avermectin	Anthelmintic
+methoxamine	Adrenergic receptor agonist
+citiolone	Mucolytic
+leucovorin	Folate receptor ligand
+aceclidine	Acetylcholine receptor agonist
+ciclopirox	Membrane integrity inhibitor
+butamben	Sodium channel inhibitor
+opipramol	Sigma receptor agonist
+BRD-K56483981	Glutamate inhibitor|Macrophage inhibitor
+ethoxyquin	Antioxidant
+finasteride	5 alpha reductase inhibitor
+7-aminocephalosporanic-acid	Beta lactamase inhibitor
+vatalanib	KIT inhibitor|PDGFR inhibitor|VEGFR inhibitor
+prenylamine	Calcium channel blocker
+tenatoprazole	Proton pump inhibitor
+tetraethylenepentamine	Superoxide dismutase inhibitor
+nadide	Electron acceptor
+haloprogin	Antifungal
+loracarbef	Bacterial cell wall synthesis inhibitor
+atractyloside	Mitochondrial inhibitor
+kinetin	Cell cycle inhibitor
+cefalotin	Bacterial cell wall synthesis inhibitor
+carbarsone	Antiprotozoal
+clorsulon	Glycolysis inhibitor
+methylatropine	Atropine derivative
+viloxazine	Serotonin receptor antagonist
+ethynodiol	Steroidal progestin
+nafcilline	Bacterial cell wall synthesis inhibitor
+deptropine	Histamine receptor antagonist
+bretylium	Norepinephrine inhibitor
+nadifloxacin	Bacterial DNA Gyrase inhibitor
+iodixanol	Radiopaque medium
+enilconazole	Sterol demethylase inhibitor
+metacycline	Protein synthesis inhibitor
+levopropoxyphene	Antitussive
+benserazide	DOPA decarboxylase inhibitor
+imidazolidinyl-urea	Antibiotic
+ioversol	Radiopaque medium
+iopromide	Radiopaque medium
+sarafloxacin	Bacterial DNA Gyrase inhibitor
+alfadolone	Diuretic|Thiazide diuretic
+rivastigmine	Acetylcholinesterase inhibitor
+methenamine	Bacterial DNA inhibitor
+alfaxalone	Chloride channel agonist
+pentetic-acid	Chelating agent
+dimethadione	Oxazolidine antiepileptic
+bephenium	Anthelmintic
+urosiol	NRF2 activator
+phthalylsulfathiazole	Dihydropteroate synthase inhibitor
+iopamidol	Radiopaque medium
+BRD-K92830582	Adrenergic receptor antagonist
+guaiacol	Anesthetic - local
+butacaine	Anesthetic - local
+penbutolol	Adrenergic receptor antagonist
+xamoterol	Adrenergic receptor agonist
+pipemidic-acid	Bacterial DNA Gyrase inhibitor
+cycloserine	Glutamate receptor agonist
+monobenzone	Melanin inhibitor
+methyl-dopate	Antihypertensive
+aminophylline	Adenosine receptor antagonist
+dieldrin	Enhancer of synaptic activity
+BRD-K09784055	Apoptosis stimulant
+emodin	11-beta-HSD1 inhibitor
+methoxychlor	Estrogenic metabolite
+chloroform	Solvent
+CH-223191	Aryl hydrocarbon receptor antagonist
+piperonyl-butoxide	Cytochrome P450 inhibitor
+benzyl-alcohol	Anesthetic - local
+melphalan	DNA alkylating agent|DNA inhibitor
+malathion	Cholinesterase inhibitor
+roxarsone	Antiprotozoal
+kynurenic-acid	Glutamate receptor antagonist
+norethynodrel	Progestogen hormone
+BRD-K38704569	5-alpha reductase inhibitor
+hydroxyprogesterone-caproate	Progesterone receptor agonist
+dimetridazole	Bacterial DNA inhibitor
+tetracycline	Bacterial 30S ribosomal subunit inhibitor
+dichlorvos	Acetylcholinesterase inhibitor
+ammonium-perfluorocaprylate	PIM inhibitor
+SR-1664	PPAR receptor antagonist
+SB-2343	MTOR inhibitor|PI3K inhibitor
+sodium-butyrate	HDAC inhibitor
+EGF-816	EGFR inhibitor
+ACDPP	Glutamate receptor antagonist
+lanatoside-c	Cardiac glycoside
+GSK-650394	Serum/glucocorticoid regulated kinase inhibitor
+digitoxin	ATPase inhibitor
+L-744832	Farnesyltransferase inhibitor
+sulfamethoxazole	PABA antagonist
+methylparaben	Antifungal
+ICG-001	Beta catenin inhibitor
+SGC-0946	DOT1L inhibitor
+BMS-265246	CDK inhibitor
+BAM-7	BAX activator
+UPF-1069	PARP inhibitor
+TG-02	CDK inhibitor|FLT3 inhibitor|JAK inhibitor
+LY-2835219	CDK inhibitor
+NVP-ADW742	IGF-1 inhibitor
+GZD-824	Bcr-Abl inhibitor
+kasugamycin	Bacterial 30S ribosomal subunit inhibitor
+decamethonium	Acetylcholine receptor agonist
+naltrindole-hcl	Opioid receptor antagonist
+idazoxan	Adrenergic receptor antagonist
+BRD-K87349682	Adrenergic receptor agonist
+delavirdine	Non-nucleoside reverse transcriptase inhibitor
+dihydroergotamine-mesylate	Serotonin receptor agonist
+pravadoline	Cyclooxygenase inhibitor
+pancuronium	Acetylcholine receptor antagonist
+BRD-K92490248	Glutathione transferase stimulant
+debrisoquin	Adrenergic receptor antagonist
+BRD-K42679315	GABA receptor antagonist
+docebenone	Lipoxygenase inhibitor
+pravastatin-lactone	HMGCR inhibitor
+IBMX	Phosphodiesterase inhibitor
+BRD-K81644801	Mineralocorticoid receptor antagonist
+carbadox	Antibiotic
+cefotaxime	Bacterial cell wall synthesis inhibitor
+WZ-3105	CLK inhibitor
+ZG-10	JNK inhibitor
+PF-431396	Focal adhesion kinase inhibitor
+GDC-0980	PI3K inhibitor
+romidepsin	HDAC inhibitor
+mericitabine	HCV inhibitor
+capecitabine	Thymidylate synthase inhibitor
+pemetrexed	Dihydrofolate reductase inhibitor|Thymidylate synthase inhibitor
+EPZ-020411	PRMT inhibitor
+AH-11110	Adrenergic receptor antagonist
+carbendazim	Tubulin inhibitor
+SGC-707	PRMT inhibitor
+AZD-3463	ALK inhibitor|IGF-1 inhibitor
+EPZ-005687	Histone lysine methyltransferase inhibitor
+BMS-906024	Gamma secretase inhibitor
+4-chlorophenylguanidine	Urokinase inhibitor
+BRD-K36381762	Opioid receptor antagonist
+nalmefene	Opioid receptor antagonist
+trelagliptin	Dipeptidyl peptidase inhibitor
+trandolapril	ACE inhibitor
+8-bromo-cGMP	PKA activator
+VU-0238429	Acetylcholine receptor agonist
+levallorphan	Opioid antagonist
+mdivi-1	Dynamin inhibitor
+JNJ-17203212	TRPV antagonist
+N-benzylnaltrindole	Opioid receptor antagonist
+temocapril	ACE inhibitor
+asiatic-acid	Apoptosis stimulant
+DMH1	ALK inhibitor
+BRD-K40331046	CDK inhibitor
+BRD-K49236613	TRPV antagonist
+SKF-91488	Histamine receptor agonist
+NVP-BSK805	JAK inhibitor
+protoporphyrin-ix	Heme oxygenase inhibitor
+E-7449	PARP inhibitor
+BRD-K38687824	Beta amyloid inhibitor
+eltrombopag	Thrombopoietin receptor agonist
+CCMI	Acetylcholine receptor allosteric modulator
+SB-657510	Urotensin receptor antagonist
+beta-funaltrexamine	Opioid receptor antagonist
+SB-505124	ALK inhibitor
+tariquidar	P-glycoprotein inhibitor
+AS-1949490	SHIP2 phosphatase inhibitor
+dioscin	Apoptosis stimulant
+NSC-697923	Ubiquitin-conjugating enzyme inhibitor
+sulfapyridine	PABA antagonist
+AZ-960	JAK inhibitor
+imidapril	ACE inhibitor
+OG-L002	Histone lysine demethylase inhibitor
+GSK-2801	Bromodomain inhibitor
+amygdalin	Caspase activator
+WP-1066	STAT inhibitor
+drotaverine	Phosphodiesterase inhibitor
+BAZ2-ICR	Bromodomain inhibitor
+THZ-1	CDK inhibitor
+hesperetin	ACAT inhibitor
+TC-S-7006	MAP kinase inhibitor
+CPI-360	Histone lysine methyltransferase inhibitor
+URB-597	FAAH inhibitor
+SU-16f	PDGFR inhibitor
+PF-04457845	FAAH inhibitor
+AMG-900	Aurora kinase inhibitor
+hypoestoxide	IKK inhibitor
+filanesib	Kinesin inhibitor
+NSC-405020	Matrix metalloprotease inhibitor
+JNJ-1661010	FAAH inhibitor
+CFI-400945	Serine/threonine kinase inhibitor
+STF-31	NAMPT inhibitor
+SD-208	TGF-beta receptor inhibitor
+azilsartan-medoxomil	ACE inhibitor|Angiotensin receptor antagonist|Insulin sensitizer
+A-740003	Purinergic receptor antagonist
+BRD-A27924917	GABA receptor antagonist
+5-BDBD	Purinergic receptor antagonist
+BRD-A38706605	Androgen receptor antagonist
+metharbital	GABA receptor antagonist
+BRD-K24255045	Androgen receptor antagonist
+kifunensine	Mannosidase inhibitor
+GGTI-297	GGTase inhibitor
+SR-48692	Neurotensin receptor antagonist
+BRD-K31460632	Serotonin receptor agonist
+chrysamine-g	Beta amyloid inhibitor
+SR-144528	Cannabinoid receptor antagonist
+SKF-83822	Dopamine receptor agonist
+SIB-1508Y	Acetylcholine receptor agonist
+lactotensin	Neurotensin receptor agonist
+SIB-1553A	Acetylcholine receptor agonist
+SR-147778	Cannabinoid receptor antagonist
+BRD-K18573821	Dopamine receptor antagonist
+BRD-K18722736	Opioid receptor antagonist
+SK-383933	Dopamine receptor agonist
+alpha-methylserotonin	Serotonin receptor agonist
+BRD-K31168993	Selective serotonin reuptake inhibitor (SSRI)
+zonisamide	T-type calcium channel blocker
+SR-12813	FXR agonist
+PD-149163	Neurotensin receptor agonist
+SKF-104078	Adrenergic receptor antagonist
+MK-801	Glutamate receptor antagonist
+ketocholesterol	HMGCR inhibitor
+ionomycin	Calcium channel blocker
+WAY-262611	WNT agonist
+androstanol	CAR antagonist
+IM-12	GSK inhibitor
+ABC-294640	Sphingosine kinase inhibitor
+dihydrocapsaicin	TRPV agonist
+desmethylclomipramine	Selective serotonin reuptake inhibitor (SSRI)
+TNP-470	Cell cycle inhibitor|Methionine aminopeptidase inhibitor
+cardamonin	NFKB inhibitor
+IWP-2	WNT inhibitor
+BRD-K97808269	Glycolysis inhibitor
+pyrvinium-pamoate	Androgen receptor antagonist
+BML-210	HDAC inhibitor
+PMSF	Serine protease inhibitor
+M-344	HDAC inhibitor
+FH-535	PPAR receptor antagonist
+z-guggulsterone	FXR antagonist|Progesterone receptor agonist
+BML-278	SIRT activator
+BML-284	WNT agonist
+zebularine	DNA inhibitor
+A-23187	Divalent cation ionophore
+penitrem-a	Potassium channel antagonist
+carnosol	Antioxidant
+AH-6809	Prostanoid receptor antagonist
+huperzine-a	Acetylcholinesterase inhibitor|Glutamate receptor antagonist
+ferulic-acid	Antioxidant
+iodoquinol	Antiseptic
+BRD-K76677554	Dopamine receptor antagonist
+BRD-K41853443	Adenosine receptor antagonist
+CFM-2	Glutamate receptor antagonist
+3'-fluorobenzylspiperone	Dopamine receptor antagonist
+dipyrocetyl	Chelating agent
+MM77	Serotonin receptor antagonist
+palmatine-chloride	Dopamine receptor antagonist
+BRD-K21910317	ATP synthase inhibitor
+paraxanthine	Adenosine receptor antagonist
+chlorotrianisene	Estrogenic hormone
+cephalothin	Bacterial cell wall synthesis inhibitor
+sulfamethizole	Bacterial antifolate
+fisetin	Aurora kinase inhibitor
+tetrandrine	Calcium channel blocker
+furazolidone	Bacterial DNA inhibitor
+hydrochlorothiazide	Thiazide diuretic
+anthraquinone	CDC inhibitor
+pridinol	Muscle relaxant
+eltanolone	Membrane integrity inhibitor
+clidinium	Acetylcholine receptor antagonist
+colchicine	Microtubule inhibitor
+ajmaline	Sodium channel inhibitor
+ZM-226600	Kir6 channel (KATP) activator
+furaltadone	Bacterial DNA inhibitor
+minocycline	Bacterial 30S ribosomal subunit inhibitor
+fendiline	Calcium channel blocker
+A-61603	Adrenergic receptor agonist
+SKF-38393	Dopamine receptor agonist
+salicylic-acid	Cyclooxygenase inhibitor|Prostanoid receptor antagonist|Prostanoid receptor inhibitor
+PD-168393	EGFR inhibitor
+voapaxar	Thrombin inhibitor
+GSK-269962	Rho associated kinase inhibitor
+avicin-g	NFKB inhibitor
+tigecycline	Bacterial 30S ribosomal subunit inhibitor
+BRD-K42573370	Nucleophosmin inhibitor
+BRD-K50324045	Nucleophosmin inhibitor
+arbidol	Cytochrome P450 inhibitor
+ivabradine	HCN channel antagonist|Potassium channel blocker|Sodium channel inhibitor
+metatinib	Bcr-Abl inhibitor
+ABT-239	Histamine receptor antagonist
+tipranavir	HIV inhibitor
+SB-242235	P38 MAPK inhibitor
+GDC-0980	MTOR inhibitor|PI3K inhibitor
+perampanel	Glutamate receptor antagonist
+halofantrine	Antimalarial
+dapivirine	Non-nucleoside reverse transcriptase inhibitor
+dexloxiglumide	CCK receptor antagonist
+AMD-11070	CC chemokine receptor antagonist
+BRD-K61195623	Tubulin inhibitor|Angiogenesis inhibitor|Apoptosis stimulant
+voxtalisib	MTOR inhibitor|PI3K inhibitor
+bruceantin	Protein synthesis inhibitor
+zofenopril-calcium	ACE inhibitor
+AZD-1981	CRTH receptor antagonist
+tetrahydrouridine	Cytidine deaminase inhibitor
+erteberel	Estrogen receptor agonist
+PF-03814735	Aurora kinase inhibitor
+epothilone-b	Tubulin inhibitor
+pimecrolimus	Calcineurin inhibitor
+indibulin	Tubulin inhibitor
+rotigotine	Dopamine receptor agonist
+ANR-94	Adenosine receptor antagonist
+melantonin-ii	Melanocortin receptor agonist
+PP-242	MTOR inhibitor
+macelignan	Antioxidant|Anti-inflammatory
+ASP-3026	ALK inhibitor
+dynasore	Dynamin inhibitor
+BRD-A18795974	Dopamine receptor agonist
+alimemazine	Histamine receptor antagonist
+monensin	Bacterial permeability inducer
+sulfamethoxypyridazine	Bacterial antifolate
+misoprostol	Prostanoid receptor agonist
+cinchophen	Analgesic
+khellin	Vasodilator
+BRD-K27853494	Adrenergic receptor agonist
+SMI-4a	PIM inhibitor
+VLX-600	USP14 inhibitor
+cebranopadol	Opioid receptor agonist
+pramocaine	Topical anesthetic
+JIB04	Histone lysine demethylase inhibitor
+ginkgolide-a	GABA receptor antagonist
+betaescin	Interleukin inhibitor
+NH-125	Eukaryotic translation initiation factor inhibitor
+melengestrol	Carcinogen|Steroidal progestin
+cantharidin	Protein phosphatase inhibitor
+BRD-K65508953	Pyrrolizidine alkaloid
+ML-347	ALK inhibitor
+fenoprofen	Prostagladin inhibitor
+GSK-2816126	Histone lysine methyltransferase inhibitor
+kanamycin	Bacterial 30S ribosomal subunit inhibitor
+DDR1-IN-1	Discoidin domain receptor inhibitor
+almotriptan	Serotonin receptor agonist
+butirosin	Bacterial 30S ribosomal subunit inhibitor
+2-iodomelatonin	Melatonin receptor agonist
+betamethasone-valerate	Glucocorticoid receptor agonist
+TCS-2002	GSK inhibitor
+BRD-K96737756	Bacterial 30S ribosomal subunit inhibitor
+AG-1024	IGF-1 inhibitor
+ciproxifan	Histamine receptor antagonist
+7-hydroxystaurosporine	CDK inhibitor|CHK inhibitor|PKC inhibitor
+canrenone	Mineralocorticoid receptor antagonist
+alexidine	Phosphatidylglycerophosphatase inhibitor
+tilorone	Interferon inducer
+pentolinium	Cholinergic receptor antagonist
+ONX-0914	Proteasome inhibitor
+benzethonium	Sodium channel inhibitor
+UNC-1999	Histone lysine methyltransferase inhibitor
+prasugrel	Purinergic receptor antagonist
+clavulanic-acid	Lactamase inhibitor
+ADL-5859	Opioid receptor agonist
+2-aminobenzenesulfonamide	Carbonic anhydrase inhibitor
+WP-1130	Deubiquitinase inhibitor
+BRD-A86415025	Glutamate receptor antagonist
+picrotin	GABA receptor antagonist
+uracil-mustard	DNA inhibitor
+levisoprenaline	Adrenergic receptor agonist
+naltriben-mesylate	Opioid receptor antagonist
+chloropyramine	Histamine receptor antagonist
+trolox	Antioxidant
+ethosuximide	Succinimide antiepileptic
+diclazuril	Antiprotozoal
+usnic-acid	MAP kinase activator
+BRD-K60287130	Glutamate receptor antagonist
+clocortolone	Glucocorticoid receptor agonist
+6-chloromelatonin	Melatonin receptor agonist
+suramin	DNA inhibitor
+ruboxistaurin	PKC inhibitor
+isoflupredone	Glucocorticoid receptor agonist
+istradefylline	Adenosine receptor antagonist
+debrisoquine	Norepinephrine inhibitor
+BRD-K54264597	Mineralocorticoid receptor antagonist
+flumethasone-pivalate	Glucocorticoid receptor agonist
+BRD-K04497194	MDM inhibitor|FXR antagonist|PXR ligand|Tyrosine phosphatase inhibitor|Vitamin D receptor agonist
+methylphenidate	Dopamine receptor antagonist
+bacitracin	Bacterial cell wall synthesis inhibitor
+butylated-hydroxytoluene	Carbonic anhydrase inhibitor
+risedronate	Osteoclast inhibitor
+BRD-A66025870	Bacterial cell wall synthesis inhibitor
+antalarmin	Corticosteroid antagonist
+zoledronic-acid	Bone resorption inhibitor|Farnesyl pyrophosphate synthase inhibitor|Metalloproteinase inhibitor|Osteoclast inhibitor
+streptozotocin	DNA alkylating agent
+lufenuron	Chitin inhibitor
+thonzonium	ATPase inhibitor
+chlorzoxazone	Bacterial 30S ribosomal subunit inhibitor
+BAY-11-7085	NFKB inhibitor
+dichlorophen	Anticestodal agent
+ronidazole	Antiprotozoal
+LY-2365109	Glycine transporter inhibitor
+LDN-212854	Bone resorption inhibitor
+eucatropine	Acetylcholine receptor antagonist
+deferoxamine-mesylate	Chelating agent|Antimetabolite|Beta amyloid inhibitor|Iron absorption inhibitor
+BRD-K66715657	Dopamine receptor antagonist
