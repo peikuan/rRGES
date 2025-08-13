@@ -6,13 +6,13 @@ from sklearn.preprocessing import StandardScaler
 from scipy.spatial.distance import mahalanobis
 import argparse
 
-def main(gepid,data,output):
+def main(gepid,output):
     #GEPID file
     with open(args.gepid, 'r') as f:
         gepids = [line.strip() for line in f.readlines() if line.strip()]
     
     #PCA data
-    pca_df = pd.read_csv(args.data, sep='\t')    
+    pca_df = pd.read_csv('data/log2FC.txt', sep='\t')    
     
     valid_ids = [col for col in gepids if col in pca_df.columns]
     if not valid_ids:
@@ -64,11 +64,10 @@ def main(gepid,data,output):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='PCA-based outlier detection')
     parser.add_argument('--gepid', required=True, help='Input ID file')
-    parser.add_argument('--data', required=True, help='Input PCA data file')
     parser.add_argument('--output', required=True, help='Output filtered ID file')
     args = parser.parse_args()
 
-    main(args.gepid,args.data,args.output)
+    main(args.gepid,args.output)
 
 
 
