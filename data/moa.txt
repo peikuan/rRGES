@@ -1,4 +1,4 @@
-pert_iname	moa
+drug	moa
 esmolol	Adrenergic receptor antagonist
 darunavir	HIV inhibitor
 evoxine	Furoquinoline alkaloid
