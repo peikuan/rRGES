@@ -10,7 +10,7 @@ scikit-learn>=1.0.0
 
 tqdm>=4.0.0
 
-# outlier filtered
+# outlier detection
 
 python outlier_detection.py \
     --gepid example/Schizophrenia.txt \
