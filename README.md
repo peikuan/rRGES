@@ -8,7 +8,6 @@ numpy>=1.21.0
 
 scikit-learn>=1.0.0
 
-tqdm>=4.0.0
 
 # outlier detection
 
